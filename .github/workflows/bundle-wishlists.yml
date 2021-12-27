@@ -12,8 +12,12 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-        submodules: 'true'
+        submodules: true
         token: ${{ secrets.PAT }}
+    - name: Git Submodule Update
+      run: |
+        git pull --recurse-submodules
+        git submodule update --remote --recursive
     - name: Create wishlist bundles
       uses: actions/setup-node@v2
       with:
