@@ -1,0 +1,15 @@
+{
+  "name": "jat-wishlists-bundler",
+  "version": "1.0.0",
+  "description": "Wishlists bundler for Just Another Team wishlists",
+  "scripts": {
+    "bundler": "node .scripts/bundler/index.js"
+  },
+  "type": "module",
+  "author": "João Paulo Marquesini",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fs-extra": "^10.0.0"
+  }
+}
