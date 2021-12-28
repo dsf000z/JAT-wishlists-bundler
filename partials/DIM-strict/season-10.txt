@@ -1,18 +1,19 @@
-title:Just Another Team
+title:Just Another Team's MnK rolls - Season 10
+description:Just Another Team's recommendations for Season 10. Recommended for Mouse and Keyboard.
 
-//notes: tags:god-pve
+//notes: Worthy Variant tags:god-pve
 dimwishlist:item=679281855&perks=1840239774,1483536627,2869569095,2458213969
 
-//notes: tags:god-pvp
+//notes: Worthy Variant tags:god-pvp
 dimwishlist:item=679281855&perks=1392496348,3868766766,280464955,3511092054
 
-//notes: tags:god-pve
+//notes: Chosen Variant tags:god-pve
 dimwishlist:item=679281855&perks=1840239774,1687452232,3161816588,1546637391
 
-//notes: tags:god-pvp
+//notes: Chosen Variant tags:god-pvp
 dimwishlist:item=679281855&perks=1392496348,3868766766,3161816588,2213355989
 
-//notes: tags:pve
+//notes: Worthy Variant tags:pve
 dimwishlist:item=679281855&perks=1840239774,1483536627,2869569095,2458213969
 dimwishlist:item=679281855&perks=1840239774,1483536627,2869569095,1683379515
 dimwishlist:item=679281855&perks=1840239774,1483536627,1631667848,2458213969
@@ -50,7 +51,7 @@ dimwishlist:item=679281855&perks=3250034553,2680121939,2869569095,1683379515
 dimwishlist:item=679281855&perks=3250034553,2680121939,1631667848,2458213969
 dimwishlist:item=679281855&perks=3250034553,2680121939,1631667848,1683379515
 
-//notes: tags:pvp
+//notes: Worthy Variant tags:pvp
 dimwishlist:item=679281855&perks=1392496348,3868766766,280464955,3511092054
 dimwishlist:item=679281855&perks=1392496348,2969185026,280464955,3511092054
 dimwishlist:item=679281855&perks=1840239774,3868766766,280464955,3511092054
@@ -58,7 +59,7 @@ dimwishlist:item=679281855&perks=1840239774,2969185026,280464955,3511092054
 dimwishlist:item=679281855&perks=1482024992,3868766766,280464955,3511092054
 dimwishlist:item=679281855&perks=1482024992,2969185026,280464955,3511092054
 
-//notes: tags:pvp
+//notes: Chosen Variant. Kickstart is a nice perk to reduce the charge time slightly, but has a very small period to proc it (needs charging during slide to ensure that you don’t lose the perk half way through the burst), and requires you to play a certain way to best use the perk (sprinting with a fusion out in order to get the perk to proc, leaving you vulnerable to a shotgun push or ranged primary fire) tags:pvp
 dimwishlist:item=679281855&perks=1392496348,3868766766,3161816588,2213355989
 dimwishlist:item=679281855&perks=1392496348,3868766766,3161816588,1754714824
 dimwishlist:item=679281855&perks=1392496348,3868766766,706527188,2213355989
@@ -84,7 +85,7 @@ dimwishlist:item=679281855&perks=1482024992,2969185026,3161816588,1754714824
 dimwishlist:item=679281855&perks=1482024992,2969185026,706527188,2213355989
 dimwishlist:item=679281855&perks=1482024992,2969185026,706527188,1754714824
 
-//notes: tags:pve
+//notes: Chosen Variant tags:pve
 dimwishlist:item=679281855&perks=1840239774,1687452232,3161816588,1546637391
 dimwishlist:item=679281855&perks=1840239774,1687452232,3161816588,2213355989
 dimwishlist:item=679281855&perks=4090651448,1687452232,3161816588,1546637391
@@ -120,19 +121,19 @@ dimwishlist:item=766323545&perks=1482024992,3142289711,280464955,1546637391
 dimwishlist:item=766323545&perks=4090651448,3142289711,280464955,3511092054
 dimwishlist:item=766323545&perks=4090651448,3142289711,280464955,1546637391
 
-//notes: tags:god-pve
+//notes: Worthy Variant tags:god-pve
 dimwishlist:item=958384347&perks=3525010810,3796465595,2869569095,2284787283
 
-//notes: tags:god-pvp
+//notes: Worthy Variant tags:god-pvp
 dimwishlist:item=958384347&perks=1844523823,3796465595,3977735242,1275731761
 
-//notes: tags:god-pve
+//notes: Chosen Variant tags:god-pve
 dimwishlist:item=958384347&perks=3525010810,3796465595,3300816228,3927722942
 
-//notes: tags:god-pvp
+//notes: Chosen Variant tags:god-pvp
 dimwishlist:item=958384347&perks=1844523823,3796465595,3977735242,2396489472
 
-//notes: tags:pve
+//notes: Worthy Variant tags:pve
 dimwishlist:item=958384347&perks=3525010810,3796465595,2869569095,2284787283
 dimwishlist:item=958384347&perks=3525010810,3796465595,2869569095,1275731761
 dimwishlist:item=958384347&perks=3525010810,3796465595,3977735242,2284787283
@@ -142,11 +143,11 @@ dimwishlist:item=958384347&perks=981914802,3796465595,2869569095,1275731761
 dimwishlist:item=958384347&perks=981914802,3796465595,3977735242,2284787283
 dimwishlist:item=958384347&perks=981914802,3796465595,3977735242,1275731761
 
-//notes: tags:pvp
+//notes: Worthy Variant tags:pvp
 dimwishlist:item=958384347&perks=1844523823,3796465595,3977735242,1275731761
 dimwishlist:item=958384347&perks=1478423395,3796465595,3977735242,1275731761
 
-//notes: tags:pve
+//notes: Chosen Variant tags:pve
 dimwishlist:item=958384347&perks=3525010810,3796465595,3300816228,3927722942
 dimwishlist:item=958384347&perks=3525010810,3796465595,3300816228,2396489472
 dimwishlist:item=958384347&perks=3525010810,3796465595,3300816228,1275731761
@@ -166,7 +167,7 @@ dimwishlist:item=958384347&perks=981914802,3796465595,951095735,3927722942
 dimwishlist:item=958384347&perks=981914802,3796465595,951095735,2396489472
 dimwishlist:item=958384347&perks=981914802,3796465595,951095735,1275731761
 
-//notes: tags:pvp
+//notes: Chosen Variant tags:pvp
 dimwishlist:item=958384347&perks=1844523823,3796465595,3977735242,2396489472
 dimwishlist:item=958384347&perks=1844523823,3796465595,3977735242,1275731761
 dimwishlist:item=958384347&perks=1478423395,3796465595,3977735242,2396489472
@@ -432,6 +433,20 @@ dimwishlist:item=1162247618&perks=360593481,1561002382,1683379515,3425386926
 dimwishlist:item=1162247618&perks=360593481,1561002382,1683379515,4082225868
 dimwishlist:item=1162247618&perks=360593481,1561002382,1683379515,2846385770
 
+//notes: While no longer as powerful as it used to be, Felwinters is still a guaranteed excellent roll on a still competitive shotgun frame in PvP. Surplus has become even less useful with the ability nerf, so personally I’d go all in on consistency and run Slideshot + Opening Shot. There are much better shotguns for PvE, but Felwinters does have a consistent roll with at least a good damage perk if you have nothing better. tags:god-pvp
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,47981717
+
+//notes: While no longer as powerful as it used to be, Felwinters is still a guaranteed excellent roll on a still competitive shotgun frame in PvP. Surplus has become even less useful with the ability nerf, so personally I’d go all in on consistency and run Slideshot + Opening Shot. There are much better shotguns for PvE, but Felwinters does have a consistent roll with at least a good damage perk if you have nothing better. tags:god-pve
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,1546637391
+
+//notes: While no longer as powerful as it used to be, Felwinters is still a guaranteed excellent roll on a still competitive shotgun frame in PvP. Surplus has become even less useful with the ability nerf, so personally I’d go all in on consistency and run Slideshot + Opening Shot. There are much better shotguns for PvE, but Felwinters does have a consistent roll with at least a good damage perk if you have nothing better. tags:pvp
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,47981717
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3436462433,47981717
+
+//notes: While no longer as powerful as it used to be, Felwinters is still a guaranteed excellent roll on a still competitive shotgun frame in PvP. Surplus has become even less useful with the ability nerf, so personally I’d go all in on consistency and run Slideshot + Opening Shot. There are much better shotguns for PvE, but Felwinters does have a consistent roll with at least a good damage perk if you have nothing better. tags:pve
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,1546637391
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3436462433,1546637391
+
 //notes: tags:god-pve
 dimwishlist:item=1561006927&perks=1840239774,1087426260,1354429876,3425386926
 
@@ -481,20 +496,20 @@ dimwishlist:item=1561006927&perks=3250034553,1561002382,3161816588,2846385770
 dimwishlist:item=1561006927&perks=3250034553,1561002382,3161816588,3511092054
 dimwishlist:item=1561006927&perks=3250034553,1561002382,3161816588,588594999
 
-//notes: tags:god-pve
+//notes: Worthy Variant tags:god-pve
 dimwishlist:item=1697682876&perks=1300023272,791862061,2869569095,2679249093
 
-//notes: tags:god-pvp
+//notes: Worthy Variant tags:god-pvp
 dimwishlist:item=1697682876&perks=1047830412,3142289711,4071163871,3511092054
 
-//notes: tags:god-pve
+//notes: Chosen Variant tags:god-pve
 dimwishlist:item=1697682876&perks=1300023272,791862061,3300816228,2360754333
 
-//notes: tags:god-pvp
+//notes: Chosen Variant tags:god-pvp
 dimwishlist:item=1697682876&perks=1047830412,3142289711,3436462433,47981717
 dimwishlist:item=1697682876&perks=1300023272,3142289711,3436462433,47981717
 
-//notes: tags:pve
+//notes: Worthy Variant tags:pve
 dimwishlist:item=1697682876&perks=1300023272,791862061,2869569095,2679249093
 dimwishlist:item=1697682876&perks=1300023272,791862061,2869569095,4082225868
 dimwishlist:item=1697682876&perks=1300023272,791862061,3300816228,2679249093
@@ -508,7 +523,7 @@ dimwishlist:item=1697682876&perks=4090651448,791862061,2869569095,4082225868
 dimwishlist:item=1697682876&perks=4090651448,791862061,3300816228,2679249093
 dimwishlist:item=1697682876&perks=4090651448,791862061,3300816228,4082225868
 
-//notes: tags:pvp
+//notes: Worthy Variant tags:pvp
 dimwishlist:item=1697682876&perks=1047830412,3142289711,4071163871,3511092054
 dimwishlist:item=1697682876&perks=1047830412,3142289711,4071163871,47981717
 dimwishlist:item=1697682876&perks=1047830412,3142289711,4071163871,1264398905
@@ -534,7 +549,7 @@ dimwishlist:item=1697682876&perks=1300023272,791862061,3436462433,3511092054
 dimwishlist:item=1697682876&perks=1300023272,791862061,3436462433,47981717
 dimwishlist:item=1697682876&perks=1300023272,791862061,3436462433,1264398905
 
-//notes: tags:pve
+//notes: Chosen Variant tags:pve
 dimwishlist:item=1697682876&perks=1300023272,791862061,3300816228,2360754333
 dimwishlist:item=1697682876&perks=1300023272,791862061,3300816228,3523296417
 dimwishlist:item=1697682876&perks=1300023272,791862061,3436462433,2360754333
@@ -548,7 +563,7 @@ dimwishlist:item=1697682876&perks=4090651448,791862061,3300816228,3523296417
 dimwishlist:item=1697682876&perks=4090651448,791862061,3436462433,2360754333
 dimwishlist:item=1697682876&perks=4090651448,791862061,3436462433,3523296417
 
-//notes: tags:pvp
+//notes: Chosen Variant tags:pvp
 dimwishlist:item=1697682876&perks=1047830412,3142289711,3436462433,47981717
 dimwishlist:item=1697682876&perks=1047830412,3142289711,3436462433,1264398905
 dimwishlist:item=1697682876&perks=1047830412,791862061,3436462433,47981717
@@ -597,13 +612,13 @@ dimwishlist:item=1723380073&perks=445755705,1885400500,4267945040,2846385770
 dimwishlist:item=1723380073&perks=445755705,1561002382,47981717,2846385770
 dimwishlist:item=1723380073&perks=445755705,1561002382,4267945040,2846385770
 
-//notes: tags:god-pvp
+//notes: With a full spec into range, this smg can reach 20m and can work as a worse version of Multimach. Due to the lack of further range increasing perks or good damage perks, that’s where it will stay. tags:god-pvp
 dimwishlist:item=1786797708&perks=663495154,3142289711,3643424744,3511092054
 
 //notes: tags:god-pve
 dimwishlist:item=1786797708&perks=663495154,106909392,4071163871,1546637391
 
-//notes: tags:pvp
+//notes: With a full spec into range, this smg can reach 20m and can work as a worse version of Multimach. Due to the lack of further range increasing perks or good damage perks, that’s where it will stay. tags:pvp
 dimwishlist:item=1786797708&perks=663495154,3142289711,3643424744,3511092054
 dimwishlist:item=1786797708&perks=663495154,3142289711,3643424744,1546637391
 dimwishlist:item=1786797708&perks=663495154,3142289711,3643424744,706527188
@@ -742,19 +757,19 @@ dimwishlist:item=1907698332&perks=3250034553,1561002382,588594999,3511092054
 dimwishlist:item=1907698332&perks=3250034553,1561002382,1359896290,2846385770
 dimwishlist:item=1907698332&perks=3250034553,1561002382,1359896290,3511092054
 
-//notes: tags:god-pvp
+//notes: We want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:god-pvp
 dimwishlist:item=2257180473&perks=1844523823,409831596,2869569095,2888557110
 
-//notes: tags:god-pve
+//notes: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:god-pve
 dimwishlist:item=2257180473&perks=3525010810,3301904089,3300816228,2888557110
 
-//notes: tags:pvp
+//notes: We want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:pvp
 dimwishlist:item=2257180473&perks=1844523823,409831596,2869569095,2888557110
 dimwishlist:item=2257180473&perks=1478423395,409831596,2869569095,2888557110
 dimwishlist:item=2257180473&perks=3525010810,409831596,2869569095,2888557110
 dimwishlist:item=2257180473&perks=1441682018,409831596,2869569095,2888557110
 
-//notes: tags:pve
+//notes: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:pve
 dimwishlist:item=2257180473&perks=3525010810,3301904089,3300816228,2888557110
 dimwishlist:item=2257180473&perks=3525010810,3301904089,2869569095,2888557110
 dimwishlist:item=2257180473&perks=3525010810,3301904089,2284787283,2888557110
@@ -1025,13 +1040,13 @@ dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,2846385770
 dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,4082225868
 dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,3511092054
 
-//notes: tags:god-pve
+//notes: If hit ammo cap of 7, then run spec mod, otherwise more ammo is better. tags:god-pve
 dimwishlist:item=2807687156&perks=1840239774,1087426260,2284787283,1771339417
 
 //notes: tags:god-pvp
 dimwishlist:item=2807687156&perks=1840239774,3142289711,972757866,957782887
 
-//notes: tags:pve
+//notes: If hit ammo cap of 7, then run spec mod, otherwise more ammo is better. tags:pve
 dimwishlist:item=2807687156&perks=1840239774,1087426260,2284787283,1771339417
 dimwishlist:item=2807687156&perks=1840239774,106909392,2284787283,1771339417
 dimwishlist:item=2807687156&perks=3250034553,1087426260,2284787283,1771339417
@@ -1043,10 +1058,10 @@ dimwishlist:item=2807687156&perks=4090651448,106909392,2284787283,1771339417
 dimwishlist:item=2807687156&perks=1840239774,3142289711,972757866,957782887
 dimwishlist:item=2807687156&perks=1840239774,3142289711,972757866,47981717
 
-//notes: tags:god-pve
+//notes: PvP: It’s a sword in PvP it doesn’t matter tags:god-pve
 dimwishlist:item=2857348871&perks=3666208348,269888150,1749209109,1685431615
 
-//notes: tags:pve
+//notes: PvP: It’s a sword in PvP it doesn’t matter tags:pve
 dimwishlist:item=2857348871&perks=3666208348,269888150,1749209109,1685431615
 dimwishlist:item=2857348871&perks=3666208348,269888150,1749209109,3708227201
 
@@ -1054,10 +1069,10 @@ dimwishlist:item=2857348871&perks=3666208348,269888150,1749209109,3708227201
 dimwishlist:item=3037520408&perks=1840239774,106909392,4071163871,1954620775
 dimwishlist:item=3037520408&perks=1840239774,106909392,1354429876,1954620775
 
-//notes: tags:god-pvp
+//notes: Flared Magwell becomes a useful mag perk for a MKC roll, due to the clunky reload even with mods. tags:god-pvp
 dimwishlist:item=3037520408&perks=3250034553,3142289711,280464955,2458213969
 
-//notes: tags:pve
+//notes: Flared Magwell becomes a useful mag perk for a MKC roll, due to the clunky reload even with mods. tags:pve
 dimwishlist:item=3037520408&perks=1840239774,106909392,4071163871,1954620775
 dimwishlist:item=3037520408&perks=1840239774,106909392,4071163871,2458213969
 dimwishlist:item=3037520408&perks=1840239774,106909392,1354429876,1954620775
@@ -1113,7 +1128,7 @@ dimwishlist:item=3037520408&perks=4090651448,1087426260,1354429876,2458213969
 dimwishlist:item=3037520408&perks=4090651448,1087426260,2010801679,1954620775
 dimwishlist:item=3037520408&perks=4090651448,1087426260,2010801679,2458213969
 
-//notes: tags:pvp
+//notes: Flared Magwell becomes a useful mag perk for a MKC roll, due to the clunky reload even with mods. tags:pvp
 dimwishlist:item=3037520408&perks=3250034553,3142289711,280464955,2458213969
 dimwishlist:item=3037520408&perks=3250034553,3142289711,280464955,2213355989
 dimwishlist:item=3037520408&perks=3250034553,3230963543,280464955,2458213969
@@ -1202,19 +1217,19 @@ dimwishlist:item=3055192515&perks=194952923,3868766766,280464955,957782887
 dimwishlist:item=3055192515&perks=194952923,3868766766,280464955,1683379515
 dimwishlist:item=3055192515&perks=194952923,3868766766,280464955,1600092898
 
-//notes: tags:god-pve
+//notes: Splicer Variant tags:god-pve
 dimwishlist:item=3164743584&perks=1840239774,1087426260,3436462433,1546637391
 
-//notes: tags:god-pvp
+//notes: Splicer Variant tags:god-pvp
 dimwishlist:item=3164743584&perks=3250034553,3142289711,588594999,957782887
 
-//notes: tags:god-pve
+//notes: Worthy Variant tags:god-pve
 dimwishlist:item=3164743584&perks=1840239774,1087426260,2869569095,1546637391
 
-//notes: tags:god-pvp
+//notes: Worthy Variant tags:god-pvp
 dimwishlist:item=3164743584&perks=3250034553,3142289711,957782887,47981717
 
-//notes: tags:pve
+//notes: Splicer Variant tags:pve
 dimwishlist:item=3164743584&perks=1840239774,1087426260,3436462433,1546637391
 dimwishlist:item=3164743584&perks=1840239774,1087426260,3436462433,2213355989
 dimwishlist:item=3164743584&perks=1840239774,1087426260,2621346526,1546637391
@@ -1240,7 +1255,7 @@ dimwishlist:item=3164743584&perks=4090651448,106909392,3436462433,2213355989
 dimwishlist:item=3164743584&perks=4090651448,106909392,2621346526,1546637391
 dimwishlist:item=3164743584&perks=4090651448,106909392,2621346526,2213355989
 
-//notes: tags:pvp
+//notes: Splicer Variant tags:pvp
 dimwishlist:item=3164743584&perks=3250034553,3142289711,588594999,957782887
 dimwishlist:item=3164743584&perks=3250034553,3142289711,588594999,47981717
 dimwishlist:item=3164743584&perks=3250034553,3142289711,3436462433,957782887
@@ -1250,7 +1265,7 @@ dimwishlist:item=3164743584&perks=1840239774,3142289711,588594999,47981717
 dimwishlist:item=3164743584&perks=1840239774,3142289711,3436462433,957782887
 dimwishlist:item=3164743584&perks=1840239774,3142289711,3436462433,47981717
 
-//notes: tags:pve
+//notes: Worthy Variant tags:pve
 dimwishlist:item=3164743584&perks=1840239774,1087426260,2869569095,1546637391
 dimwishlist:item=3164743584&perks=1840239774,106909392,2869569095,1546637391
 dimwishlist:item=3164743584&perks=3250034553,1087426260,2869569095,1546637391
@@ -1258,9 +1273,15 @@ dimwishlist:item=3164743584&perks=3250034553,106909392,2869569095,1546637391
 dimwishlist:item=3164743584&perks=4090651448,1087426260,2869569095,1546637391
 dimwishlist:item=3164743584&perks=4090651448,106909392,2869569095,1546637391
 
-//notes: tags:pvp
+//notes: Worthy Variant tags:pvp
 dimwishlist:item=3164743584&perks=3250034553,3142289711,957782887,47981717
 dimwishlist:item=3164743584&perks=1840239774,3142289711,957782887,47981717
+
+//notes: Excellent for champion stunning and general use in High Level PvE (GMs, Master Content, etc), terrible in every way for PvP. tags:god-pve
+dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391
+
+//notes: Excellent for champion stunning and general use in High Level PvE (GMs, Master Content, etc), terrible in every way for PvP. tags:god-pvp
+dimwishlist:item=3434944005&perks=2801223209,1500996326,2866798147,699525795
 
 //notes: tags:god-pve
 dimwishlist:item=3937866388&perks=1840239774,106909392,3523296417,1546637391

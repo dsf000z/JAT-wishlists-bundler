@@ -1,13 +1,14 @@
-title:Just Another Team
+title:Just Another Team's MnK rolls - Season 11
+description:Just Another Team's recommendations for Season 11. Recommended for Mouse and Keyboard.
 
-//notes: tags:god-pve
+//notes: PvP: It’s a sword it doesn’t matter. tags:god-pve
 dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,3913600130
 
-//notes: tags:pve
+//notes: PvP: It’s a sword it doesn’t matter. tags:pve
 dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,3913600130
 dimwishlist:item=35794111&perks=3666208348,52780822,1749209109,3913600130
 
-//notes: tags:pve
+//notes: PvP: It’s a sword it doesn’t matter. tags:pve
 dimwishlist:item=35794111&perks=1749209109,3913600130
 
 //notes: tags:god-pve
@@ -90,25 +91,25 @@ dimwishlist:item=65611680&perks=1866048759,1015611457
 dimwishlist:item=65611680&perks=1866048759,2846385770
 dimwishlist:item=65611680&perks=1866048759,706527188
 
-//notes: tags:god-pve
+//notes: PvP: Don’t tags:god-pve
 dimwishlist:item=211938782&perks=852209214,16392701,201365942,3523296417
 
-//notes: tags:pve
+//notes: PvP: Don’t tags:pve
 dimwishlist:item=211938782&perks=852209214,16392701,201365942,3523296417
 dimwishlist:item=211938782&perks=852209214,16392701,201365942,4082225868
 
-//notes: tags:pve
+//notes: PvP: Don’t tags:pve
 dimwishlist:item=211938782&perks=201365942,3523296417
 dimwishlist:item=211938782&perks=201365942,4082225868
 
-//notes: tags:god-pve
+//notes: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:god-pve
 dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3300816228
 
-//notes: tags:god-pvp
+//notes: We want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:god-pvp
 dimwishlist:item=407621213&perks=1478423395,409831596,4071163871,1683379515
 dimwishlist:item=407621213&perks=3525010810,409831596,4071163871,1683379515
 
-//notes: tags:pve
+//notes: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:pve
 dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,3300816228
 dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,3523296417
 dimwishlist:item=407621213&perks=981914802,3301904089,2284787283,3300816228
@@ -118,7 +119,7 @@ dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3523296417
 dimwishlist:item=407621213&perks=3525010810,3301904089,2284787283,3300816228
 dimwishlist:item=407621213&perks=3525010810,3301904089,2284787283,3523296417
 
-//notes: tags:pvp
+//notes: We want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:pvp
 dimwishlist:item=407621213&perks=1478423395,409831596,4071163871,1683379515
 dimwishlist:item=407621213&perks=1478423395,409831596,706527188,1683379515
 dimwishlist:item=407621213&perks=3525010810,409831596,4071163871,1683379515
@@ -128,13 +129,13 @@ dimwishlist:item=407621213&perks=1844523823,409831596,706527188,1683379515
 dimwishlist:item=407621213&perks=1441682018,409831596,4071163871,1683379515
 dimwishlist:item=407621213&perks=1441682018,409831596,706527188,1683379515
 
-//notes: tags:pve
+//notes: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:pve
 dimwishlist:item=407621213&perks=2869569095,3300816228
 dimwishlist:item=407621213&perks=2869569095,3523296417
 dimwishlist:item=407621213&perks=2284787283,3300816228
 dimwishlist:item=407621213&perks=2284787283,3523296417
 
-//notes: tags:pvp
+//notes: We want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:pvp
 dimwishlist:item=407621213&perks=4071163871,1683379515
 dimwishlist:item=407621213&perks=706527188,1683379515
 
@@ -163,14 +164,14 @@ dimwishlist:item=607191995&perks=2779035018,3708227201
 //notes: tags:pvp
 dimwishlist:item=607191995&perks=1645158859,1546637391
 
-//notes: tags:god-pve
+//notes: PvP: It’s a sword in PvP, anything works. tags:god-pve
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
 
-//notes: tags:pve
+//notes: PvP: It’s a sword in PvP, anything works. tags:pve
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
 dimwishlist:item=614426548&perks=3666208348,52780822,1749209109,3913600130
 
-//notes: tags:pve
+//notes: PvP: It’s a sword in PvP, anything works. tags:pve
 dimwishlist:item=614426548&perks=1749209109,3913600130
 
 //notes: tags:god-pve
@@ -188,7 +189,7 @@ dimwishlist:item=1096206669&perks=1840239774,106909392,4071163871,1546637391
 dimwishlist:item=1096206669&perks=1840239774,106909392,4071163871,2360754333
 dimwishlist:item=1096206669&perks=1840239774,106909392,4071163871,3708227201
 
-//notes: tags:pvp
+//notes: Extended Barrel has hidden range benefit on this weapon - source: DCP Bungie Dev Interview. tags:pvp
 dimwishlist:item=1096206669&perks=3250034553,3142289711,588594999,3511092054
 dimwishlist:item=1096206669&perks=3250034553,3142289711,588594999,1546637391
 dimwishlist:item=1096206669&perks=3250034553,3142289711,280464955,3511092054
@@ -219,7 +220,7 @@ dimwishlist:item=1096206669&perks=4071163871,1546637391
 dimwishlist:item=1096206669&perks=4071163871,2360754333
 dimwishlist:item=1096206669&perks=4071163871,3708227201
 
-//notes: tags:pvp
+//notes: Extended Barrel has hidden range benefit on this weapon - source: DCP Bungie Dev Interview. tags:pvp
 dimwishlist:item=1096206669&perks=588594999,3511092054
 dimwishlist:item=1096206669&perks=588594999,1546637391
 dimwishlist:item=1096206669&perks=280464955,3511092054
@@ -228,10 +229,10 @@ dimwishlist:item=1096206669&perks=280464955,1546637391
 //notes: tags:god-pve
 dimwishlist:item=1200824700&perks=1840239774,106909392,3400784728,1683379515
 
-//notes: tags:god-pvp
+//notes: Lower range than some of the other 180 offerings (see Nature of the Beast with Rangefinder). tags:god-pvp
 dimwishlist:item=1200824700&perks=3250034553,1140096971,2039302152,3425386926
 
-//notes: tags:pvp
+//notes: Lower range than some of the other 180 offerings (see Nature of the Beast with Rangefinder). tags:pvp
 dimwishlist:item=1200824700&perks=3250034553,1140096971,2039302152,3425386926
 dimwishlist:item=1200824700&perks=3250034553,1140096971,2039302152,1546637391
 dimwishlist:item=1200824700&perks=3250034553,1140096971,2039302152,699525795
@@ -241,7 +242,7 @@ dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,1546637391
 dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,699525795
 dimwishlist:item=1200824700&perks=3250034553,3142289711,2039302152,2213355989
 
-//notes: tags:pve
+//notes: Base mag of 12 (9 + backup mag) = 17 shots with Triple Tap, 13 mag = 19 shots. Extended Mag is a poor choice due to low base reload speed. tags:pve
 dimwishlist:item=1200824700&perks=1840239774,106909392,3400784728,1683379515
 dimwishlist:item=1200824700&perks=1840239774,106909392,3400784728,3425386926
 dimwishlist:item=1200824700&perks=1840239774,106909392,3400784728,1546637391
@@ -279,13 +280,13 @@ dimwishlist:item=1200824700&perks=4090651448,1087426260,4071163871,1683379515
 dimwishlist:item=1200824700&perks=4090651448,1087426260,4071163871,3425386926
 dimwishlist:item=1200824700&perks=4090651448,1087426260,4071163871,1546637391
 
-//notes: tags:pvp
+//notes: Lower range than some of the other 180 offerings (see Nature of the Beast with Rangefinder). tags:pvp
 dimwishlist:item=1200824700&perks=2039302152,3425386926
 dimwishlist:item=1200824700&perks=2039302152,1546637391
 dimwishlist:item=1200824700&perks=2039302152,699525795
 dimwishlist:item=1200824700&perks=2039302152,2213355989
 
-//notes: tags:pve
+//notes: Base mag of 12 (9 + backup mag) = 17 shots with Triple Tap, 13 mag = 19 shots. Extended Mag is a poor choice due to low base reload speed. tags:pve
 dimwishlist:item=1200824700&perks=3400784728,1683379515
 dimwishlist:item=1200824700&perks=3400784728,3425386926
 dimwishlist:item=1200824700&perks=3400784728,1546637391
@@ -340,7 +341,7 @@ dimwishlist:item=1253087083&perks=4090651448,1140096971,588594999,706527188
 dimwishlist:item=1253087083&perks=1840239774,1140096971,588594999,2213355989
 dimwishlist:item=1253087083&perks=1840239774,1140096971,588594999,706527188
 
-//notes: tags:pve
+//notes: 7 is the magic number for Triple Tap, but ammo return with 6 ammo is the same as 7. You proc HIR at the same time with 6 vs 7 mag. tags:pve
 dimwishlist:item=1253087083&perks=1840239774,1087426260,1354429876,2213355989
 dimwishlist:item=1253087083&perks=1840239774,1087426260,3400784728,2213355989
 dimwishlist:item=1253087083&perks=1840239774,106909392,1354429876,2213355989
@@ -386,7 +387,7 @@ dimwishlist:item=1253087083&perks=3250034553,3142289711,588594999,706527188
 dimwishlist:item=1253087083&perks=3250034553,3142289711,2866798147,2213355989
 dimwishlist:item=1253087083&perks=3250034553,3142289711,2866798147,706527188
 
-//notes: tags:pve
+//notes: 7 is the magic number for Triple Tap, but ammo return with 6 ammo is the same as 7. You proc HIR at the same time with 6 vs 7 mag. tags:pve
 dimwishlist:item=1253087083&perks=1354429876,2213355989
 dimwishlist:item=1253087083&perks=3400784728,2213355989
 
@@ -432,15 +433,15 @@ dimwishlist:item=1271343896&perks=1556840489,3523296417
 dimwishlist:item=1271343896&perks=280464955,47981717
 dimwishlist:item=1271343896&perks=3161816588,47981717
 
-//notes: tags:god-pvp
+//notes: The sights on Forward Path have a massive impact on the user experience due to sight picture and muzzle flash. Find your favorite. tags:god-pvp
 dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,2458213969
 dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,1890422124
 
-//notes: tags:god-pve
+//notes: The sights on Forward Path have a massive impact on the user experience due to sight picture and muzzle flash. Find your favorite. tags:god-pve
 dimwishlist:item=1690783811&perks=13792278,106909392,2779035018,2458213969
 dimwishlist:item=1690783811&perks=2405638014,106909392,2779035018,2458213969
 
-//notes: tags:pvp
+//notes: The sights on Forward Path have a massive impact on the user experience due to sight picture and muzzle flash. Find your favorite. tags:pvp
 dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,2458213969
 dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,1890422124
 dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,4082225868
@@ -450,7 +451,7 @@ dimwishlist:item=1690783811&perks=2405638015,3142289711,1359896290,1890422124
 dimwishlist:item=1690783811&perks=2405638015,3142289711,1359896290,4082225868
 dimwishlist:item=1690783811&perks=2405638015,3142289711,1359896290,11551321
 
-//notes: tags:pve
+//notes: The sights on Forward Path have a massive impact on the user experience due to sight picture and muzzle flash. Find your favorite. tags:pve
 dimwishlist:item=1690783811&perks=13792278,106909392,2779035018,2458213969
 dimwishlist:item=1690783811&perks=13792278,106909392,2779035018,4082225868
 dimwishlist:item=1690783811&perks=13792278,1087426260,2779035018,2458213969
@@ -468,13 +469,13 @@ dimwishlist:item=1690783811&perks=13792279,106909392,2779035018,4082225868
 dimwishlist:item=1690783811&perks=13792279,1087426260,2779035018,2458213969
 dimwishlist:item=1690783811&perks=13792279,1087426260,2779035018,4082225868
 
-//notes: tags:pvp
+//notes: The sights on Forward Path have a massive impact on the user experience due to sight picture and muzzle flash. Find your favorite. tags:pvp
 dimwishlist:item=1690783811&perks=1359896290,2458213969
 dimwishlist:item=1690783811&perks=1359896290,1890422124
 dimwishlist:item=1690783811&perks=1359896290,4082225868
 dimwishlist:item=1690783811&perks=1359896290,11551321
 
-//notes: tags:pve
+//notes: The sights on Forward Path have a massive impact on the user experience due to sight picture and muzzle flash. Find your favorite. tags:pve
 dimwishlist:item=1690783811&perks=2779035018,2458213969
 dimwishlist:item=1690783811&perks=2779035018,4082225868
 
@@ -718,13 +719,13 @@ dimwishlist:item=2222560548&perks=1359896290,1890422124
 dimwishlist:item=2222560548&perks=1359896290,1683379515
 dimwishlist:item=2222560548&perks=1359896290,1546637391
 
-//notes: tags:god-pvp
+//notes: SMGs are sensitive to range stat, 56 base range can hit full damage at 15M, max range 17.8M. tags:god-pvp
 dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,2846385770
 
-//notes: tags:god-pve
+//notes: Ammo cap seems to be 41 so backup mag + tac/appended = Extended. tags:god-pve
 dimwishlist:item=2742490609&perks=1840239774,106909392,1820235745,2848615171
 
-//notes: tags:pvp
+//notes: SMGs are sensitive to range stat, 56 base range can hit full damage at 15M, max range 17.8M. tags:pvp
 dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,2846385770
 dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,699525795
 dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,588594999
@@ -732,7 +733,7 @@ dimwishlist:item=2742490609&perks=3250034553,3142289711,1866048759,2846385770
 dimwishlist:item=2742490609&perks=3250034553,3142289711,1866048759,699525795
 dimwishlist:item=2742490609&perks=3250034553,3142289711,1866048759,588594999
 
-//notes: tags:pve
+//notes: Ammo cap seems to be 41 so backup mag + tac/appended = Extended. tags:pve
 dimwishlist:item=2742490609&perks=1840239774,106909392,1820235745,2848615171
 dimwishlist:item=2742490609&perks=1840239774,106909392,1820235745,1683379515
 dimwishlist:item=2742490609&perks=1840239774,106909392,2779035018,2848615171
@@ -770,7 +771,7 @@ dimwishlist:item=2742490609&perks=4090651448,1087426260,2779035018,1683379515
 dimwishlist:item=2742490609&perks=4090651448,1087426260,3300816228,2848615171
 dimwishlist:item=2742490609&perks=4090651448,1087426260,3300816228,1683379515
 
-//notes: tags:pvp
+//notes: SMGs are sensitive to range stat, 56 base range can hit full damage at 15M, max range 17.8M. tags:pvp
 dimwishlist:item=2742490609&perks=1359896290,2846385770
 dimwishlist:item=2742490609&perks=1359896290,699525795
 dimwishlist:item=2742490609&perks=1359896290,588594999
@@ -778,7 +779,7 @@ dimwishlist:item=2742490609&perks=1866048759,2846385770
 dimwishlist:item=2742490609&perks=1866048759,699525795
 dimwishlist:item=2742490609&perks=1866048759,588594999
 
-//notes: tags:pve
+//notes: Ammo cap seems to be 41 so backup mag + tac/appended = Extended. tags:pve
 dimwishlist:item=2742490609&perks=1820235745,2848615171
 dimwishlist:item=2742490609&perks=1820235745,1683379515
 dimwishlist:item=2742490609&perks=2779035018,2848615171
@@ -786,7 +787,7 @@ dimwishlist:item=2742490609&perks=2779035018,1683379515
 dimwishlist:item=2742490609&perks=3300816228,2848615171
 dimwishlist:item=2742490609&perks=3300816228,1683379515
 
-//notes: tags:god-pve
+//notes: Roll recommendations from Azared, Alpharius and BeenLab. tags:god-pve
 dimwishlist:item=3143732432&perks=1840239774,1087426260,1820235745,3425386926
 
 //notes: tags:god-pvp
@@ -862,10 +863,10 @@ dimwishlist:item=3616586446&perks=3300816228,3523296417
 dimwishlist:item=3616586446&perks=3161816588,47981717
 dimwishlist:item=3616586446&perks=3161816588,1546637391
 
-//notes: tags:god-pve
+//notes: PvP: It doesn’t matter. tags:god-pve
 dimwishlist:item=3629968765&perks=3666208348,269888150,1749209109,3913600130
 
-//notes: tags:pve
+//notes: PvP: It doesn’t matter. tags:pve
 dimwishlist:item=3629968765&perks=3666208348,269888150,1749209109,3913600130
 dimwishlist:item=3629968765&perks=3666208348,52780822,1749209109,3913600130
 dimwishlist:item=3629968765&perks=2827049491,269888150,1749209109,3913600130
@@ -873,29 +874,29 @@ dimwishlist:item=3629968765&perks=2827049491,52780822,1749209109,3913600130
 dimwishlist:item=3629968765&perks=938542991,269888150,1749209109,3913600130
 dimwishlist:item=3629968765&perks=938542991,52780822,1749209109,3913600130
 
-//notes: tags:pve
+//notes: PvP: It doesn’t matter. tags:pve
 dimwishlist:item=3629968765&perks=1749209109,3913600130
 
-//notes: tags:god-pve
+//notes: Good perk table, but adaptive frame seems to be relatively weak compared to other frames. tags:god-pve
 dimwishlist:item=3669616453&perks=3525010810,3796465595,2869569095,3523296417
 
-//notes: tags:god-pvp
+//notes: Good perk table, but adaptive frame seems to be relatively weak compared to other frames. tags:god-pvp
 dimwishlist:item=3669616453&perks=1844523823,1996142143,3977735242,1275731761
 
-//notes: tags:pve
+//notes: Good perk table, but adaptive frame seems to be relatively weak compared to other frames. tags:pve
 dimwishlist:item=3669616453&perks=3525010810,3796465595,2869569095,3523296417
 dimwishlist:item=3669616453&perks=3525010810,3796465595,2869569095,1275731761
 dimwishlist:item=3669616453&perks=981914802,3796465595,2869569095,3523296417
 dimwishlist:item=3669616453&perks=981914802,3796465595,2869569095,1275731761
 
-//notes: tags:pvp
+//notes: Good perk table, but adaptive frame seems to be relatively weak compared to other frames. tags:pvp
 dimwishlist:item=3669616453&perks=1844523823,1996142143,3977735242,1275731761
 dimwishlist:item=3669616453&perks=1478423395,1996142143,3977735242,1275731761
 
-//notes: tags:pve
+//notes: Good perk table, but adaptive frame seems to be relatively weak compared to other frames. tags:pve
 dimwishlist:item=3669616453&perks=2869569095,3523296417
 dimwishlist:item=3669616453&perks=2869569095,1275731761
 
-//notes: tags:pvp
+//notes: Good perk table, but adaptive frame seems to be relatively weak compared to other frames. tags:pvp
 dimwishlist:item=3669616453&perks=3977735242,1275731761
 

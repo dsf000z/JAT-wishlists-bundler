@@ -1,4 +1,5 @@
-title:Just Another Team
+title:Just Another Team's MnK rolls - Season 6
+description:Just Another Team's recommendations for Season 6. Recommended for Mouse and Keyboard.
 
 //notes: tags:god-pve
 dimwishlist:item=188882152&perks=965619220,106909392,1168162263,3425386926
@@ -316,7 +317,7 @@ dimwishlist:item=3504336176&perks=1840239774,106909392,247725512,3038247973
 dimwishlist:item=3504336176&perks=3250034553,3142289711,247725512,3038247973
 dimwishlist:item=3504336176&perks=839105230,3142289711,247725512,3038247973
 
-//notes: tags:pve
+//notes: Curated version, New light quest is the only way to get this roll on the weapon. Make sure you keep it. tags:pve
 dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973
 
 //notes: tags:pve

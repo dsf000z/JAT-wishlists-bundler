@@ -1,4 +1,5 @@
-title:Just Another Team
+title:Just Another Team's MnK rolls - Season 14
+description:Just Another Team's recommendations for Season 14. Recommended for Mouse and Keyboard.
 
 //notes: tags:god-pve
 dimwishlist:item=108221785&perks=1300023272,791862061,3436462433,1546637391
@@ -998,7 +999,7 @@ dimwishlist:item=631439337&perks=3161816588,47981717
 //notes: tags:god-pve
 dimwishlist:item=681067419&perks=1840239774,106909392,247725512,3038247973
 
-//notes: tags:god-pvp
+//notes: Box Breathing allows the scout to 3 tap to the head in PvP tags:god-pvp
 dimwishlist:item=681067419&perks=3250034553,3142289711,247725512,2551157718
 dimwishlist:item=681067419&perks=839105230,3142289711,247725512,2551157718
 
@@ -1076,7 +1077,7 @@ dimwishlist:item=681067419&perks=4090651448,1087426260,1820235745,4049631843
 dimwishlist:item=681067419&perks=4090651448,1087426260,1820235745,3824105627
 dimwishlist:item=681067419&perks=4090651448,1087426260,1820235745,11612903
 
-//notes: tags:pvp
+//notes: Box Breathing allows the scout to 3 tap to the head in PvP tags:pvp
 dimwishlist:item=681067419&perks=3250034553,3142289711,247725512,2551157718
 dimwishlist:item=681067419&perks=3250034553,3142289711,247725512,3038247973
 dimwishlist:item=681067419&perks=3250034553,3142289711,3436462433,2551157718
@@ -1100,7 +1101,7 @@ dimwishlist:item=681067419&perks=1840239774,3142289711,588594999,3038247973
 dimwishlist:item=681067419&perks=247725512,3038247973
 dimwishlist:item=681067419&perks=3436462433,3038247973
 
-//notes: tags:pvp
+//notes: Box Breathing allows the scout to 3 tap to the head in PvP tags:pvp
 dimwishlist:item=681067419&perks=247725512,2551157718
 dimwishlist:item=681067419&perks=247725512,3038247973
 dimwishlist:item=681067419&perks=3436462433,2551157718
@@ -1402,7 +1403,7 @@ dimwishlist:item=852228780&perks=957782887,3038247973
 //notes: tags:god-pve
 dimwishlist:item=852551895&perks=1840239774,1087426260,3300816228,1546637391
 
-//notes: tags:god-pvp
+//notes: With nearly 60 range it almost caps out on the maximum aim assist that snipers get, and with Full Bore it reaches 100 range, adding to that cone optimisation. This sniper will get you kills you wouldn’t believe would hit, if you can only get past the telescope zoom. tags:god-pvp
 dimwishlist:item=852551895&perks=202670084,1885400500,957782887,47981717
 
 //notes: tags:pve
@@ -1413,7 +1414,7 @@ dimwishlist:item=852551895&perks=4090651448,1561002382,3300816228,1546637391
 dimwishlist:item=852551895&perks=3250034553,1087426260,3300816228,1546637391
 dimwishlist:item=852551895&perks=3250034553,1561002382,3300816228,1546637391
 
-//notes: tags:pvp
+//notes: With nearly 60 range it almost caps out on the maximum aim assist that snipers get, and with Full Bore it reaches 100 range, adding to that cone optimisation. This sniper will get you kills you wouldn’t believe would hit, if you can only get past the telescope zoom. tags:pvp
 dimwishlist:item=852551895&perks=202670084,1885400500,957782887,47981717
 dimwishlist:item=852551895&perks=202670084,1561002382,957782887,47981717
 dimwishlist:item=852551895&perks=202670084,1968497646,957782887,47981717
@@ -1430,7 +1431,7 @@ dimwishlist:item=852551895&perks=3250034553,1968497646,957782887,47981717
 //notes: tags:pve
 dimwishlist:item=852551895&perks=3300816228,1546637391
 
-//notes: tags:pvp
+//notes: With nearly 60 range it almost caps out on the maximum aim assist that snipers get, and with Full Bore it reaches 100 range, adding to that cone optimisation. This sniper will get you kills you wouldn’t believe would hit, if you can only get past the telescope zoom. tags:pvp
 dimwishlist:item=852551895&perks=957782887,47981717
 
 //notes: tags:god-pve
@@ -1869,7 +1870,7 @@ dimwishlist:item=875848769&perks=3643424744,11612903
 //notes: tags:god-pve
 dimwishlist:item=1119734784&perks=1840239774,1087426260,1820235745,3425386926
 
-//notes: tags:god-pvp
+//notes: 45 recoil direction is very low, so arrowhead would be a great choice. 16 base zoom is not too bad. 10 range stat points = 1.69M increase to range drop off tags:god-pvp
 dimwishlist:item=1119734784&perks=3250034553,3142289711,1359896290,1015611457
 dimwishlist:item=1119734784&perks=839105230,3142289711,1359896290,1015611457
 
@@ -1911,7 +1912,7 @@ dimwishlist:item=1119734784&perks=4090651448,106909392,2779035018,3425386926
 dimwishlist:item=1119734784&perks=4090651448,106909392,2779035018,1015611457
 dimwishlist:item=1119734784&perks=4090651448,106909392,2779035018,11612903
 
-//notes: tags:pvp
+//notes: 45 recoil direction is very low, so arrowhead would be a great choice. 16 base zoom is not too bad. 10 range stat points = 1.69M increase to range drop off tags:pvp
 dimwishlist:item=1119734784&perks=3250034553,3142289711,1359896290,1015611457
 dimwishlist:item=1119734784&perks=3250034553,3142289711,1359896290,2726471870
 dimwishlist:item=1119734784&perks=3250034553,3142289711,1359896290,1890422124
@@ -1975,7 +1976,7 @@ dimwishlist:item=1119734784&perks=2779035018,3425386926
 dimwishlist:item=1119734784&perks=2779035018,1015611457
 dimwishlist:item=1119734784&perks=2779035018,11612903
 
-//notes: tags:pvp
+//notes: 45 recoil direction is very low, so arrowhead would be a great choice. 16 base zoom is not too bad. 10 range stat points = 1.69M increase to range drop off tags:pvp
 dimwishlist:item=1119734784&perks=1359896290,1015611457
 dimwishlist:item=1119734784&perks=1359896290,2726471870
 dimwishlist:item=1119734784&perks=1359896290,1890422124
@@ -1986,14 +1987,14 @@ dimwishlist:item=1119734784&perks=2946784966,1015611457
 dimwishlist:item=1119734784&perks=2946784966,2726471870
 dimwishlist:item=1119734784&perks=2946784966,1890422124
 
-//notes: tags:god-pve
+//notes: Frenzy is +50 to reload, so that perk alone puts Fatebringer at max reload speed. Loader will still add a scalar so it will be faster. Kill Clip does not boost Explosive Payload damage, just the impact damage. Explosive sometimes interferes with Firefly explosions. tags:god-pve
 dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,4104185692
 dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,3824105627
 
-//notes: tags:god-pvp
+//notes: Kill Clip does not improve TTK - just forgiveness and effective range. Opening Shot is still likely the best in slot, but do not sleep on Eye of the Storm for a mid-duel consistency boost, because of its mid-combat proc condition often occuring during 1v1 duels, the accuracy bump EotS grants could be excellent for finishing a fight. tags:god-pvp
 dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,47981717
 
-//notes: tags:pve
+//notes: Frenzy is +50 to reload, so that perk alone puts Fatebringer at max reload speed. Loader will still add a scalar so it will be faster. Kill Clip does not boost Explosive Payload damage, just the impact damage. Explosive sometimes interferes with Firefly explosions. tags:pve
 dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,4104185692
 dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,3824105627
 dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,11612903
@@ -2031,7 +2032,7 @@ dimwishlist:item=1216319404&perks=4090651448,1087426260,3418782618,4104185692
 dimwishlist:item=1216319404&perks=4090651448,1087426260,3418782618,3824105627
 dimwishlist:item=1216319404&perks=4090651448,1087426260,3418782618,11612903
 
-//notes: tags:pvp
+//notes: Kill Clip does not improve TTK - just forgiveness and effective range. Opening Shot is still likely the best in slot, but do not sleep on Eye of the Storm for a mid-duel consistency boost, because of its mid-combat proc condition often occuring during 1v1 duels, the accuracy bump EotS grants could be excellent for finishing a fight. tags:pvp
 dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,47981717
 dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,699525795
 dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,1015611457
@@ -2060,7 +2061,7 @@ dimwishlist:item=1216319404&perks=1467527085,3142289711,2946784966,47981717
 dimwishlist:item=1216319404&perks=1467527085,3142289711,2946784966,699525795
 dimwishlist:item=1216319404&perks=1467527085,3142289711,2946784966,1015611457
 
-//notes: tags:pve
+//notes: Frenzy is +50 to reload, so that perk alone puts Fatebringer at max reload speed. Loader will still add a scalar so it will be faster. Kill Clip does not boost Explosive Payload damage, just the impact damage. Explosive sometimes interferes with Firefly explosions. tags:pve
 dimwishlist:item=1216319404&perks=3038247973,4104185692
 dimwishlist:item=1216319404&perks=3038247973,3824105627
 dimwishlist:item=1216319404&perks=3038247973,11612903
@@ -2068,7 +2069,7 @@ dimwishlist:item=1216319404&perks=3418782618,4104185692
 dimwishlist:item=1216319404&perks=3418782618,3824105627
 dimwishlist:item=1216319404&perks=3418782618,11612903
 
-//notes: tags:pvp
+//notes: Kill Clip does not improve TTK - just forgiveness and effective range. Opening Shot is still likely the best in slot, but do not sleep on Eye of the Storm for a mid-duel consistency boost, because of its mid-combat proc condition often occuring during 1v1 duels, the accuracy bump EotS grants could be excellent for finishing a fight. tags:pvp
 dimwishlist:item=1216319404&perks=3038247973,47981717
 dimwishlist:item=1216319404&perks=3038247973,699525795
 dimwishlist:item=1216319404&perks=3038247973,1015611457
@@ -2322,10 +2323,20 @@ dimwishlist:item=1621558458&perks=280464955,2458213969
 dimwishlist:item=1621558458&perks=2946784966,2458213969
 dimwishlist:item=1621558458&perks=2450788523,2458213969
 
+//notes: Choosing between Reservoir Burst and HIR in PvE depends on the situation. HIR for boss damage and Reservoir Burst for general use and add clear. HIR is the clear winner for PvP, since it reduces the bolts needed for a kill while procced, and one stack of Heating Up makes the recoil perfectly vertical for easier bolt control. tags:god-pve
+dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,1427256713
+
+//notes: Choosing between Reservoir Burst and HIR in PvE depends on the situation. HIR for boss damage and Reservoir Burst for general use and add clear. HIR is the clear winner for PvP, since it reduces the bolts needed for a kill while procced, and one stack of Heating Up makes the recoil perfectly vertical for easier bolt control. tags:god-pvp
+dimwishlist:item=1644680957&perks=1840239774,2969185026,1570042021,2213355989
+
+//notes: Choosing between Reservoir Burst and HIR in PvE depends on the situation. HIR for boss damage and Reservoir Burst for general use and add clear. HIR is the clear winner for PvP, since it reduces the bolts needed for a kill while procced, and one stack of Heating Up makes the recoil perfectly vertical for easier bolt control. tags:pve
+dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,1427256713
+dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,2213355989
+
 //notes: tags:god-pve
 dimwishlist:item=1921159786&perks=3525010810,3796465595,3300816228,1546637391
 
-//notes: tags:god-pvp
+//notes: For fast rockets. tags:god-pvp
 dimwishlist:item=1921159786&perks=3525010810,2822142346,951095735,1275731761
 
 //notes: tags:pve
@@ -2366,13 +2377,13 @@ dimwishlist:item=1921159786&perks=981914802,2985827016,951095735,3927722942
 dimwishlist:item=1921159786&perks=981914802,2985827016,3643424744,1546637391
 dimwishlist:item=1921159786&perks=981914802,2985827016,3643424744,3927722942
 
-//notes: tags:pvp
+//notes: For fast rockets. tags:pvp
 dimwishlist:item=1921159786&perks=3525010810,2822142346,951095735,1275731761
 dimwishlist:item=1921159786&perks=3525010810,2822142346,951095735,2726471870
 dimwishlist:item=1921159786&perks=981914802,2822142346,951095735,1275731761
 dimwishlist:item=1921159786&perks=981914802,2822142346,951095735,2726471870
 
-//notes: tags:pvp
+//notes: For tracking rockets. tags:pvp
 dimwishlist:item=1921159786&perks=1844523823,3796465595,3977735242,1275731761
 dimwishlist:item=1921159786&perks=1844523823,3796465595,3977735242,2726471870
 dimwishlist:item=1921159786&perks=1844523823,2985827016,3977735242,1275731761
@@ -2394,11 +2405,11 @@ dimwishlist:item=1921159786&perks=951095735,3927722942
 dimwishlist:item=1921159786&perks=3643424744,1546637391
 dimwishlist:item=1921159786&perks=3643424744,3927722942
 
-//notes: tags:pvp
+//notes: For fast rockets. tags:pvp
 dimwishlist:item=1921159786&perks=951095735,1275731761
 dimwishlist:item=1921159786&perks=951095735,2726471870
 
-//notes: tags:pvp
+//notes: For tracking rockets. tags:pvp
 dimwishlist:item=1921159786&perks=3977735242,1275731761
 dimwishlist:item=1921159786&perks=3977735242,2726471870
 
@@ -2454,7 +2465,7 @@ dimwishlist:item=1967303408&perks=2450788523,3425386926
 //notes: tags:god-pve
 dimwishlist:item=1987769101&perks=1840239774,106909392,3418782618,2213355989
 
-//notes: tags:god-pvp
+//notes: w/ Handling Mw tags:god-pvp
 dimwishlist:item=1987769101&perks=1840239774,3142289711,588594999,47981717
 
 //notes: tags:pve
@@ -2471,11 +2482,11 @@ dimwishlist:item=1987769101&perks=4090651448,106909392,3418782618,4104185692
 dimwishlist:item=1987769101&perks=4090651448,2420895100,3418782618,2213355989
 dimwishlist:item=1987769101&perks=4090651448,2420895100,3418782618,4104185692
 
-//notes: tags:pvp
+//notes: w/ Handling Mw tags:pvp
 dimwishlist:item=1987769101&perks=1840239774,3142289711,588594999,47981717
 dimwishlist:item=1987769101&perks=1840239774,3142289711,588594999,1015611457
 
-//notes: tags:pvp
+//notes: w/ Handling Mw tags:pvp
 dimwishlist:item=1987769101&perks=588594999,47981717
 dimwishlist:item=1987769101&perks=588594999,1015611457
 
@@ -2549,14 +2560,14 @@ dimwishlist:item=2065081837&perks=957782887,1546637391
 dimwishlist:item=2065081837&perks=957782887,3523296417
 dimwishlist:item=2065081837&perks=957782887,3038247973
 
-//notes: tags:god-pve
+//notes: Frenzy is +50 to reload, so that perk alone puts Fatebringer at max reload speed. Loader will still add a scalar so it will be faster. Kill Clip does not boost Explosive Payload damage, just the impact damage. Explosive sometimes interferes with Firefly explosions. tags:god-pve
 dimwishlist:item=2171478765&perks=1840239774,106909392,3038247973,4104185692
 dimwishlist:item=2171478765&perks=1840239774,106909392,3038247973,3824105627
 
-//notes: tags:god-pvp
+//notes: Kill Clip does not improve TTK - just forgiveness and effective range. Opening Shot is still likely the best in slot, but do not sleep on Eye of the Storm for a mid-duel consistency boost, because of its mid-combat proc condition often occuring during 1v1 duels, the accuracy bump EotS grants could be excellent for finishing a fight. tags:god-pvp
 dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,47981717
 
-//notes: tags:pve
+//notes: Frenzy is +50 to reload, so that perk alone puts Fatebringer at max reload speed. Loader will still add a scalar so it will be faster. Kill Clip does not boost Explosive Payload damage, just the impact damage. Explosive sometimes interferes with Firefly explosions. tags:pve
 dimwishlist:item=2171478765&perks=1840239774,106909392,3038247973,4104185692
 dimwishlist:item=2171478765&perks=1840239774,106909392,3038247973,3824105627
 dimwishlist:item=2171478765&perks=1840239774,106909392,3038247973,11612903
@@ -2594,7 +2605,7 @@ dimwishlist:item=2171478765&perks=4090651448,1087426260,3418782618,4104185692
 dimwishlist:item=2171478765&perks=4090651448,1087426260,3418782618,3824105627
 dimwishlist:item=2171478765&perks=4090651448,1087426260,3418782618,11612903
 
-//notes: tags:pvp
+//notes: Kill Clip does not improve TTK - just forgiveness and effective range. Opening Shot is still likely the best in slot, but do not sleep on Eye of the Storm for a mid-duel consistency boost, because of its mid-combat proc condition often occuring during 1v1 duels, the accuracy bump EotS grants could be excellent for finishing a fight. tags:pvp
 dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,47981717
 dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,699525795
 dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,1015611457
@@ -2623,7 +2634,7 @@ dimwishlist:item=2171478765&perks=1467527085,3142289711,2946784966,47981717
 dimwishlist:item=2171478765&perks=1467527085,3142289711,2946784966,699525795
 dimwishlist:item=2171478765&perks=1467527085,3142289711,2946784966,1015611457
 
-//notes: tags:pve
+//notes: Frenzy is +50 to reload, so that perk alone puts Fatebringer at max reload speed. Loader will still add a scalar so it will be faster. Kill Clip does not boost Explosive Payload damage, just the impact damage. Explosive sometimes interferes with Firefly explosions. tags:pve
 dimwishlist:item=2171478765&perks=3038247973,4104185692
 dimwishlist:item=2171478765&perks=3038247973,3824105627
 dimwishlist:item=2171478765&perks=3038247973,11612903
@@ -2631,7 +2642,7 @@ dimwishlist:item=2171478765&perks=3418782618,4104185692
 dimwishlist:item=2171478765&perks=3418782618,3824105627
 dimwishlist:item=2171478765&perks=3418782618,11612903
 
-//notes: tags:pvp
+//notes: Kill Clip does not improve TTK - just forgiveness and effective range. Opening Shot is still likely the best in slot, but do not sleep on Eye of the Storm for a mid-duel consistency boost, because of its mid-combat proc condition often occuring during 1v1 duels, the accuracy bump EotS grants could be excellent for finishing a fight. tags:pvp
 dimwishlist:item=2171478765&perks=3038247973,47981717
 dimwishlist:item=2171478765&perks=3038247973,699525795
 dimwishlist:item=2171478765&perks=3038247973,1015611457
@@ -2931,11 +2942,11 @@ dimwishlist:item=2434225986&perks=2869569095,3708227201
 //notes: tags:god-pve
 dimwishlist:item=2492081469&perks=1840239774,1087426260,2869569095,4049631843
 
-//notes: tags:god-pvp
+//notes: 20 base zoom (+4 over the others and +2 over Horror Story with Med scope) makes this best in class for range. Arrowhead + Rico + Killing Wind + MKC/HIR/KW + 68 range (=88 range) = 38m which beats 100 range 16 zooms by nearly 2M. tags:god-pvp
 dimwishlist:item=2492081469&perks=839105230,1885400500,1645158859,2458213969
 dimwishlist:item=2492081469&perks=3250034553,1885400500,1645158859,2458213969
 
-//notes: tags:pve,pvp
+//notes: 20 base zoom (+4 over the others and +2 over Horror Story with Med scope) makes this best in class for range. Arrowhead + Rico + Killing Wind + MKC/HIR/KW + 68 range (=88 range) = 38m which beats 100 range 16 zooms by nearly 2M. tags:pve,pvp
 dimwishlist:item=2492081469&perks=1840239774,1561002382,3436462433,2458213969
 dimwishlist:item=2492081469&perks=1840239774,1561002382,3436462433,2213355989
 dimwishlist:item=2492081469&perks=3250034553,1561002382,3436462433,2458213969
@@ -2997,7 +3008,7 @@ dimwishlist:item=2492081469&perks=4090651448,3230963543,3436462433,4049631843
 dimwishlist:item=2492081469&perks=4090651448,3230963543,3436462433,2458213969
 dimwishlist:item=2492081469&perks=4090651448,3230963543,3436462433,2213355989
 
-//notes: tags:pvp
+//notes: 20 base zoom (+4 over the others and +2 over Horror Story with Med scope) makes this best in class for range. Arrowhead + Rico + Killing Wind + MKC/HIR/KW + 68 range (=88 range) = 38m which beats 100 range 16 zooms by nearly 2M. tags:pvp
 dimwishlist:item=2492081469&perks=839105230,1885400500,1645158859,2458213969
 dimwishlist:item=2492081469&perks=839105230,1885400500,1645158859,2213355989
 dimwishlist:item=2492081469&perks=839105230,1885400500,3436462433,2458213969
@@ -3053,7 +3064,7 @@ dimwishlist:item=2492081469&perks=1840239774,1968497646,3436462433,2213355989
 dimwishlist:item=2492081469&perks=1840239774,1968497646,2450788523,2458213969
 dimwishlist:item=2492081469&perks=1840239774,1968497646,2450788523,2213355989
 
-//notes: tags:pve,pvp
+//notes: 20 base zoom (+4 over the others and +2 over Horror Story with Med scope) makes this best in class for range. Arrowhead + Rico + Killing Wind + MKC/HIR/KW + 68 range (=88 range) = 38m which beats 100 range 16 zooms by nearly 2M. tags:pve,pvp
 dimwishlist:item=2492081469&perks=3436462433,2458213969
 dimwishlist:item=2492081469&perks=3436462433,2213355989
 
@@ -3073,38 +3084,38 @@ dimwishlist:item=2492081469&perks=3436462433,2213355989
 dimwishlist:item=2492081469&perks=2450788523,2458213969
 dimwishlist:item=2492081469&perks=2450788523,2213355989
 
-//notes: tags:god-pve
+//notes: You’re a Hunter begging for a lightweight weapon, you’re using this for dodge cooldown reduction and to do the funny run in PvP. En Guarde best in slot for PvP, but ya know, OFA could be a lot of fun in PvE. tags:god-pve
 dimwishlist:item=2782325300&perks=3666208348,269888150,1749209109,1685431615
 
-//notes: tags:pve
+//notes: You’re a Hunter begging for a lightweight weapon, you’re using this for dodge cooldown reduction and to do the funny run in PvP. En Guarde best in slot for PvP, but ya know, OFA could be a lot of fun in PvE. tags:pve
 dimwishlist:item=2782325300&perks=3666208348,269888150,1749209109,1685431615
 dimwishlist:item=2782325300&perks=3666208348,269888150,1749209109,4049631843
 
-//notes: tags:pve
+//notes: You’re a Hunter begging for a lightweight weapon, you’re using this for dodge cooldown reduction and to do the funny run in PvP. En Guarde best in slot for PvP, but ya know, OFA could be a lot of fun in PvE. tags:pve
 dimwishlist:item=2782325300&perks=269888150,1749209109,1685431615
 dimwishlist:item=2782325300&perks=269888150,1749209109,4049631843
 
-//notes: tags:god-pve
+//notes: PvP: Any, you 1 heavy anything in the game. tags:god-pve
 dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,2244851822
 
-//notes: tags:pve
+//notes: PvP: Any, you 1 heavy anything in the game. tags:pve
 dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,2244851822
 dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,3016987351
 dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,3708227201
 
-//notes: tags:pve
+//notes: PvP: Any, you 1 heavy anything in the game. tags:pve
 dimwishlist:item=2782325301&perks=2363751990,1749209109,2244851822
 dimwishlist:item=2782325301&perks=2363751990,1749209109,3016987351
 dimwishlist:item=2782325301&perks=2363751990,1749209109,3708227201
 
-//notes: tags:god-pve
+//notes: PvP: Anything, You one heavy everything. tags:god-pve
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391
 
-//notes: tags:pve
+//notes: PvP: Anything, You one heavy everything. tags:pve
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,3913600130
 
-//notes: tags:pve
+//notes: PvP: Anything, You one heavy everything. tags:pve
 dimwishlist:item=2782325302&perks=2349202967,1749209109,1546637391
 dimwishlist:item=2782325302&perks=2349202967,1749209109,3913600130
 
@@ -3501,15 +3512,15 @@ dimwishlist:item=3197270240&perks=3436462433,3523296417
 dimwishlist:item=3197270240&perks=3436462433,47981717
 dimwishlist:item=3197270240&perks=3161816588,47981717
 
-//notes: tags:god-pve
+//notes: 25 zoom at base - 5 more than Nightwatch and Vouchsafe. tags:god-pve
 dimwishlist:item=3556999246&perks=1840239774,1087426260,2869569095,2458213969
 dimwishlist:item=3556999246&perks=1840239774,1087426260,2869569095,3523296417
 
-//notes: tags:god-pvp
+//notes: 25 zoom at base - 5 more than Nightwatch and Vouchsafe. tags:god-pvp
 dimwishlist:item=3556999246&perks=3250034553,1885400500,2869569095,2458213969
 dimwishlist:item=3556999246&perks=839105230,1885400500,2869569095,2458213969
 
-//notes: tags:pve,pvp
+//notes: 25 zoom at base - 5 more than Nightwatch and Vouchsafe. tags:pve,pvp
 dimwishlist:item=3556999246&perks=3250034553,1561002382,2869569095,2458213969
 dimwishlist:item=3556999246&perks=3250034553,1561002382,2869569095,3523296417
 dimwishlist:item=3556999246&perks=3250034553,1561002382,1168162263,2458213969
@@ -3523,7 +3534,7 @@ dimwishlist:item=3556999246&perks=4090651448,1561002382,1168162263,3523296417
 dimwishlist:item=3556999246&perks=4090651448,1561002382,3436462433,2458213969
 dimwishlist:item=3556999246&perks=4090651448,1561002382,3436462433,3523296417
 
-//notes: tags:pve
+//notes: 25 zoom at base - 5 more than Nightwatch and Vouchsafe. tags:pve
 dimwishlist:item=3556999246&perks=1840239774,1087426260,2869569095,2458213969
 dimwishlist:item=3556999246&perks=1840239774,1087426260,2869569095,3523296417
 dimwishlist:item=3556999246&perks=1840239774,1087426260,1168162263,2458213969
@@ -3645,7 +3656,7 @@ dimwishlist:item=3556999246&perks=4090651448,679225683,1820235745,3523296417
 dimwishlist:item=3556999246&perks=4090651448,679225683,1354429876,2458213969
 dimwishlist:item=3556999246&perks=4090651448,679225683,1354429876,3523296417
 
-//notes: tags:pvp
+//notes: 25 zoom at base - 5 more than Nightwatch and Vouchsafe. tags:pvp
 dimwishlist:item=3556999246&perks=3250034553,1885400500,2869569095,2458213969
 dimwishlist:item=3556999246&perks=3250034553,1885400500,2869569095,3523296417
 dimwishlist:item=3556999246&perks=3250034553,1885400500,2869569095,699525795
@@ -3755,7 +3766,7 @@ dimwishlist:item=3556999246&perks=4090651448,1968497646,1168162263,3523296417
 dimwishlist:item=3556999246&perks=4090651448,1968497646,1168162263,699525795
 dimwishlist:item=3556999246&perks=4090651448,1968497646,1168162263,3511092054
 
-//notes: tags:pve,pvp
+//notes: 25 zoom at base - 5 more than Nightwatch and Vouchsafe. tags:pve,pvp
 dimwishlist:item=3556999246&perks=2869569095,2458213969
 dimwishlist:item=3556999246&perks=2869569095,3523296417
 dimwishlist:item=3556999246&perks=1168162263,2458213969
@@ -3763,7 +3774,7 @@ dimwishlist:item=3556999246&perks=1168162263,3523296417
 dimwishlist:item=3556999246&perks=3436462433,2458213969
 dimwishlist:item=3556999246&perks=3436462433,3523296417
 
-//notes: tags:pve
+//notes: 25 zoom at base - 5 more than Nightwatch and Vouchsafe. tags:pve
 dimwishlist:item=3556999246&perks=2869569095,2458213969
 dimwishlist:item=3556999246&perks=2869569095,3523296417
 dimwishlist:item=3556999246&perks=1168162263,2458213969
@@ -3775,7 +3786,7 @@ dimwishlist:item=3556999246&perks=1820235745,3523296417
 dimwishlist:item=3556999246&perks=1354429876,2458213969
 dimwishlist:item=3556999246&perks=1354429876,3523296417
 
-//notes: tags:pvp
+//notes: 25 zoom at base - 5 more than Nightwatch and Vouchsafe. tags:pvp
 dimwishlist:item=3556999246&perks=2869569095,2458213969
 dimwishlist:item=3556999246&perks=2869569095,3523296417
 dimwishlist:item=3556999246&perks=2869569095,699525795
@@ -3792,7 +3803,7 @@ dimwishlist:item=3556999246&perks=1168162263,3511092054
 //notes: tags:god-pve
 dimwishlist:item=3653573172&perks=1840239774,106909392,3418782618,2213355989
 
-//notes: tags:god-pvp
+//notes: w/ Handling Mw tags:god-pvp
 dimwishlist:item=3653573172&perks=1840239774,3142289711,588594999,47981717
 
 //notes: tags:pve
@@ -3809,7 +3820,7 @@ dimwishlist:item=3653573172&perks=4090651448,106909392,3418782618,4104185692
 dimwishlist:item=3653573172&perks=4090651448,2420895100,3418782618,2213355989
 dimwishlist:item=3653573172&perks=4090651448,2420895100,3418782618,4104185692
 
-//notes: tags:pvp
+//notes: w/ Handling Mw tags:pvp
 dimwishlist:item=3653573172&perks=1840239774,3142289711,588594999,47981717
 dimwishlist:item=3653573172&perks=1840239774,3142289711,588594999,1015611457
 
@@ -4036,7 +4047,7 @@ dimwishlist:item=3796510434&perks=3418782618,4049631843
 dimwishlist:item=3796510434&perks=3418782618,3824105627
 dimwishlist:item=3796510434&perks=3418782618,11612903
 
-//notes: tags:god-pvp
+//notes: Despite Iron Reach greatly increasing the range, this gun has to stand up against the stat monster that is Palindrome. Even while fully statted into Range, it loses to Pali by 3m. While this might be an alternative for those who dislike the zoom that Rangefinder gives, it’s better off being used on an Arc Subclass with Elemental Capacitor for a huge Handling stat or relegated to the trash. tags:god-pvp
 dimwishlist:item=3813153080&perks=1926090092,1885400500,280464955,591790007
 dimwishlist:item=3813153080&perks=1926090092,1885400500,280464955,3511092054
 dimwishlist:item=3813153080&perks=1926090093,1885400500,280464955,591790007
@@ -4059,7 +4070,7 @@ dimwishlist:item=3813153080&perks=1926090095,1087426260,2039302152,2458213969
 dimwishlist:item=3813153080&perks=1926090095,1561002382,2039302152,2458213969
 dimwishlist:item=3813153080&perks=1926090095,3230963543,2039302152,2458213969
 
-//notes: tags:pvp
+//notes: Despite Iron Reach greatly increasing the range, this gun has to stand up against the stat monster that is Palindrome. Even while fully statted into Range, it loses to Pali by 3m. While this might be an alternative for those who dislike the zoom that Rangefinder gives, it’s better off being used on an Arc Subclass with Elemental Capacitor for a huge Handling stat or relegated to the trash. tags:pvp
 dimwishlist:item=3813153080&perks=1926090092,1885400500,280464955,591790007
 dimwishlist:item=3813153080&perks=1926090092,1885400500,280464955,3511092054
 dimwishlist:item=3813153080&perks=1926090092,1885400500,280464955,2458213969
@@ -4133,7 +4144,7 @@ dimwishlist:item=3813153080&perks=1926090095,1968497646,2450788523,591790007
 dimwishlist:item=3813153080&perks=1926090095,1968497646,2450788523,3511092054
 dimwishlist:item=3813153080&perks=1926090095,1968497646,2450788523,2458213969
 
-//notes: tags:pvp
+//notes: Despite Iron Reach greatly increasing the range, this gun has to stand up against the stat monster that is Palindrome. Even while fully statted into Range, it loses to Pali by 3m. While this might be an alternative for those who dislike the zoom that Rangefinder gives, it’s better off being used on an Arc Subclass with Elemental Capacitor for a huge Handling stat or relegated to the trash. tags:pvp
 dimwishlist:item=3813153080&perks=280464955,591790007
 dimwishlist:item=3813153080&perks=280464955,3511092054
 dimwishlist:item=3813153080&perks=280464955,2458213969
@@ -4266,7 +4277,7 @@ dimwishlist:item=4023807721&perks=1866048759,11612903
 //notes: tags:god-pve
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3300816228,1546637391
 
-//notes: tags:god-pvp
+//notes: For fast rockets. tags:god-pvp
 dimwishlist:item=4050645223&perks=3525010810,2822142346,951095735,1275731761
 
 //notes: tags:pve
@@ -4307,13 +4318,13 @@ dimwishlist:item=4050645223&perks=981914802,2985827016,951095735,3927722942
 dimwishlist:item=4050645223&perks=981914802,2985827016,3643424744,1546637391
 dimwishlist:item=4050645223&perks=981914802,2985827016,3643424744,3927722942
 
-//notes: tags:pvp
+//notes: For fast rockets. tags:pvp
 dimwishlist:item=4050645223&perks=3525010810,2822142346,951095735,1275731761
 dimwishlist:item=4050645223&perks=3525010810,2822142346,951095735,2726471870
 dimwishlist:item=4050645223&perks=981914802,2822142346,951095735,1275731761
 dimwishlist:item=4050645223&perks=981914802,2822142346,951095735,2726471870
 
-//notes: tags:pvp
+//notes: For tracking rockets. tags:pvp
 dimwishlist:item=4050645223&perks=1844523823,3796465595,3977735242,1275731761
 dimwishlist:item=4050645223&perks=1844523823,3796465595,3977735242,2726471870
 dimwishlist:item=4050645223&perks=1844523823,2985827016,3977735242,1275731761
@@ -4335,11 +4346,11 @@ dimwishlist:item=4050645223&perks=951095735,3927722942
 dimwishlist:item=4050645223&perks=3643424744,1546637391
 dimwishlist:item=4050645223&perks=3643424744,3927722942
 
-//notes: tags:pvp
+//notes: For fast rockets. tags:pvp
 dimwishlist:item=4050645223&perks=951095735,1275731761
 dimwishlist:item=4050645223&perks=951095735,2726471870
 
-//notes: tags:pvp
+//notes: For tracking rockets. tags:pvp
 dimwishlist:item=4050645223&perks=3977735242,1275731761
 dimwishlist:item=4050645223&perks=3977735242,2726471870
 
@@ -4415,7 +4426,7 @@ dimwishlist:item=4255586669&perks=2010801679,1683379515
 //notes: tags:god-pve
 dimwishlist:item=4281371574&perks=1840239774,106909392,247725512,3038247973
 
-//notes: tags:god-pvp
+//notes: The 180 3 tap machine returns, now un-sunset. Box Breathing allows the scout to 3 tap to the head in PvP. tags:god-pvp
 dimwishlist:item=4281371574&perks=3250034553,3142289711,247725512,2551157718
 dimwishlist:item=4281371574&perks=839105230,3142289711,247725512,2551157718
 
@@ -4493,7 +4504,7 @@ dimwishlist:item=4281371574&perks=4090651448,1087426260,1820235745,4049631843
 dimwishlist:item=4281371574&perks=4090651448,1087426260,1820235745,3824105627
 dimwishlist:item=4281371574&perks=4090651448,1087426260,1820235745,11612903
 
-//notes: tags:pvp
+//notes: The 180 3 tap machine returns, now un-sunset. Box Breathing allows the scout to 3 tap to the head in PvP. tags:pvp
 dimwishlist:item=4281371574&perks=3250034553,3142289711,247725512,2551157718
 dimwishlist:item=4281371574&perks=3250034553,3142289711,247725512,3038247973
 dimwishlist:item=4281371574&perks=3250034553,3142289711,3436462433,2551157718
@@ -4527,7 +4538,7 @@ dimwishlist:item=4281371574&perks=1820235745,4049631843
 dimwishlist:item=4281371574&perks=1820235745,3824105627
 dimwishlist:item=4281371574&perks=1820235745,11612903
 
-//notes: tags:pvp
+//notes: The 180 3 tap machine returns, now un-sunset. Box Breathing allows the scout to 3 tap to the head in PvP. tags:pvp
 dimwishlist:item=4281371574&perks=247725512,2551157718
 dimwishlist:item=4281371574&perks=247725512,3038247973
 dimwishlist:item=4281371574&perks=3436462433,2551157718

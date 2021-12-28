@@ -1,12 +1,13 @@
-title:Just Another Team
+title:Just Another Team's MnK rolls - Season 7
+description:Just Another Team's recommendations for Season 7. Recommended for Mouse and Keyboard.
 
 //notes: tags:god-pve
 dimwishlist:item=136525518&perks=3525010810,3796465595,3300816228,3523296417
 
-//notes: tags:god-pvp
+//notes: Lowering the speed of the rocket gives it more time to turn, thus improving the tracking the slightest bit tags:god-pvp
 dimwishlist:item=136525518&perks=1844523823,3796465595,957782887,3977735242
 
-//notes: tags:pve
+//notes: Lowering the speed of the rocket gives it more time to turn, thus improving the tracking the slightest bit tags:pve
 dimwishlist:item=136525518&perks=3525010810,3796465595,3300816228,3523296417
 dimwishlist:item=136525518&perks=3525010810,3796465595,3300816228,3977735242
 dimwishlist:item=136525518&perks=3525010810,3796465595,2869569095,3523296417
@@ -16,10 +17,10 @@ dimwishlist:item=136525518&perks=981914802,3796465595,3300816228,3977735242
 dimwishlist:item=136525518&perks=981914802,3796465595,2869569095,3523296417
 dimwishlist:item=136525518&perks=981914802,3796465595,2869569095,3977735242
 
-//notes: tags:pvp
+//notes: Lowering the speed of the rocket gives it more time to turn, thus improving the tracking the slightest bit tags:pvp
 dimwishlist:item=136525518&perks=957782887,3977735242
 
-//notes: tags:pve
+//notes: Lowering the speed of the rocket gives it more time to turn, thus improving the tracking the slightest bit tags:pve
 dimwishlist:item=136525518&perks=3300816228,3523296417
 dimwishlist:item=136525518&perks=3300816228,3977735242
 dimwishlist:item=136525518&perks=2869569095,3523296417

@@ -1,4 +1,5 @@
-title:Just Another Team
+title:Just Another Team's MnK rolls - Season 12
+description:Just Another Team's recommendations for Season 12. Recommended for Mouse and Keyboard.
 
 //notes: tags:god-pve
 dimwishlist:item=20935540&perks=1840239774,106909392,1820235745,1546637391
@@ -100,41 +101,41 @@ dimwishlist:item=20935540&perks=3400784728,1546637391
 dimwishlist:item=20935540&perks=3400784728,2848615171
 dimwishlist:item=20935540&perks=3400784728,2726471870
 
-//notes: tags:god-pve
+//notes: Don’t bother using this rocket for PvP, there are better options. However for PvE it’s one of two Precision Frame rockets if you’re more interested in the tracking than a damage perk tags:god-pve
 dimwishlist:item=42351395&perks=3525010810,3796465595,3436462433,3523296417
 
-//notes: tags:god-pvp
+//notes: Don’t bother using this rocket for PvP, there are better options. However for PvE it’s one of two Precision Frame rockets if you’re more interested in the tracking than a damage perk tags:god-pvp
 dimwishlist:item=42351395&perks=3525010810,1996142143,706527188,957782887
 
-//notes: tags:pve
+//notes: Don’t bother using this rocket for PvP, there are better options. However for PvE it’s one of two Precision Frame rockets if you’re more interested in the tracking than a damage perk tags:pve
 dimwishlist:item=42351395&perks=3525010810,3796465595,3436462433,3523296417
 dimwishlist:item=42351395&perks=981914802,3796465595,3436462433,3523296417
 
-//notes: tags:pvp
+//notes: Don’t bother using this rocket for PvP, there are better options. However for PvE it’s one of two Precision Frame rockets if you’re more interested in the tracking than a damage perk tags:pvp
 dimwishlist:item=42351395&perks=3525010810,3796465595,706527188,957782887
 dimwishlist:item=42351395&perks=3525010810,1996142143,706527188,957782887
 dimwishlist:item=42351395&perks=981914802,3796465595,706527188,957782887
 dimwishlist:item=42351395&perks=981914802,1996142143,706527188,957782887
 
-//notes: tags:pve
+//notes: Don’t bother using this rocket for PvP, there are better options. However for PvE it’s one of two Precision Frame rockets if you’re more interested in the tracking than a damage perk tags:pve
 dimwishlist:item=42351395&perks=3436462433,3523296417
 
-//notes: tags:pvp
+//notes: Don’t bother using this rocket for PvP, there are better options. However for PvE it’s one of two Precision Frame rockets if you’re more interested in the tracking than a damage perk tags:pvp
 dimwishlist:item=42351395&perks=706527188,957782887
 
-//notes: tags:god-pve
+//notes: Worthy Variant tags:god-pve
 dimwishlist:item=276080079&perks=1840239774,1687452232,2869569095,2458213969
 
-//notes: tags:god-pvp
+//notes: Worthy Variant tags:god-pvp
 dimwishlist:item=276080079&perks=1392496348,3868766766,280464955,3511092054
 
-//notes: tags:god-pve
+//notes: Chosen Variant tags:god-pve
 dimwishlist:item=276080079&perks=1840239774,1687452232,3161816588,1546637391
 
-//notes: tags:god-pvp
+//notes: Chosen Variant tags:god-pvp
 dimwishlist:item=276080079&perks=1392496348,3868766766,3161816588,2213355989
 
-//notes: tags:pve
+//notes: Worthy Variant tags:pve
 dimwishlist:item=276080079&perks=1840239774,689005463,2869569095,2458213969
 dimwishlist:item=276080079&perks=1840239774,689005463,2869569095,1683379515
 dimwishlist:item=276080079&perks=1840239774,689005463,1631667848,2458213969
@@ -172,7 +173,7 @@ dimwishlist:item=276080079&perks=3250034553,1483536627,2869569095,1683379515
 dimwishlist:item=276080079&perks=3250034553,1483536627,1631667848,2458213969
 dimwishlist:item=276080079&perks=3250034553,1483536627,1631667848,1683379515
 
-//notes: tags:pvp
+//notes: Worthy Variant tags:pvp
 dimwishlist:item=276080079&perks=1392496348,3868766766,280464955,3511092054
 dimwishlist:item=276080079&perks=1392496348,2969185026,280464955,3511092054
 dimwishlist:item=276080079&perks=1840239774,3868766766,280464955,3511092054
@@ -180,7 +181,7 @@ dimwishlist:item=276080079&perks=1840239774,2969185026,280464955,3511092054
 dimwishlist:item=276080079&perks=1482024992,3868766766,280464955,3511092054
 dimwishlist:item=276080079&perks=1482024992,2969185026,280464955,3511092054
 
-//notes: tags:pve
+//notes: Chosen Variant tags:pve
 dimwishlist:item=276080079&perks=1840239774,1687452232,3161816588,1546637391
 dimwishlist:item=276080079&perks=1840239774,1687452232,3161816588,2213355989
 dimwishlist:item=276080079&perks=4090651448,1687452232,3161816588,1546637391
@@ -188,7 +189,7 @@ dimwishlist:item=276080079&perks=4090651448,1687452232,3161816588,2213355989
 dimwishlist:item=276080079&perks=3250034553,1687452232,3161816588,1546637391
 dimwishlist:item=276080079&perks=3250034553,1687452232,3161816588,2213355989
 
-//notes: tags:pvp
+//notes: Chosen Variant. Kickstart is a nice perk to reduce the charge time slightly, but has a very small period to proc it (needs charging during slide to ensure that you don’t lose the perk half way through the burst), and requires you to play a certain way to best use the perk (sprinting with a fusion out in order to get the perk to proc, leaving you vulnerable to a shotgun push or ranged primary fire). tags:pvp
 dimwishlist:item=276080079&perks=1392496348,3868766766,3161816588,2213355989
 dimwishlist:item=276080079&perks=1392496348,3868766766,3161816588,1754714824
 dimwishlist:item=276080079&perks=1392496348,3868766766,706527188,2213355989
@@ -214,39 +215,39 @@ dimwishlist:item=276080079&perks=1482024992,2969185026,3161816588,1754714824
 dimwishlist:item=276080079&perks=1482024992,2969185026,706527188,2213355989
 dimwishlist:item=276080079&perks=1482024992,2969185026,706527188,1754714824
 
-//notes: tags:pve
+//notes: Worthy Variant tags:pve
 dimwishlist:item=276080079&perks=2869569095,2458213969
 dimwishlist:item=276080079&perks=2869569095,1683379515
 dimwishlist:item=276080079&perks=1631667848,2458213969
 dimwishlist:item=276080079&perks=1631667848,1683379515
 
-//notes: tags:pvp
+//notes: Worthy Variant tags:pvp
 dimwishlist:item=276080079&perks=280464955,3511092054
 
-//notes: tags:pve
+//notes: Chosen Variant. tags:pve
 dimwishlist:item=276080079&perks=3161816588,1546637391
 dimwishlist:item=276080079&perks=3161816588,2213355989
 
-//notes: tags:pvp
+//notes: Chosen Variant. Kickstart is a nice perk to reduce the charge time slightly, but has a very small period to proc it (needs charging during slide to ensure that you don’t lose the perk half way through the burst), and requires you to play a certain way to best use the perk (sprinting with a fusion out in order to get the perk to proc, leaving you vulnerable to a shotgun push or ranged primary fire). tags:pvp
 dimwishlist:item=276080079&perks=3161816588,2213355989
 dimwishlist:item=276080079&perks=3161816588,1754714824
 dimwishlist:item=276080079&perks=706527188,2213355989
 dimwishlist:item=276080079&perks=706527188,1754714824
 
-//notes: tags:god-pve
+//notes: Worthy Variant tags:god-pve
 dimwishlist:item=532746994&perks=1300023272,791862061,2869569095,2679249093
 
-//notes: tags:god-pvp
+//notes: Worthy Variant tags:god-pvp
 dimwishlist:item=532746994&perks=1047830412,3142289711,4071163871,3511092054
 
-//notes: tags:god-pvp
+//notes: Chosen Variant tags:god-pvp
 dimwishlist:item=532746994&perks=1047830412,3142289711,3436462433,47981717
 dimwishlist:item=532746994&perks=1300023272,3142289711,3436462433,47981717
 
-//notes: tags:god-pve
+//notes: Chosen Variant tags:god-pve
 dimwishlist:item=532746994&perks=1300023272,791862061,3300816228,2360754333
 
-//notes: tags:pve
+//notes: Worthy Variant tags:pve
 dimwishlist:item=532746994&perks=1300023272,791862061,2869569095,2679249093
 dimwishlist:item=532746994&perks=1300023272,791862061,2869569095,4082225868
 dimwishlist:item=532746994&perks=1300023272,791862061,3300816228,2679249093
@@ -260,7 +261,7 @@ dimwishlist:item=532746994&perks=4090651448,791862061,2869569095,4082225868
 dimwishlist:item=532746994&perks=4090651448,791862061,3300816228,2679249093
 dimwishlist:item=532746994&perks=4090651448,791862061,3300816228,4082225868
 
-//notes: tags:pvp
+//notes: Worthy Variant tags:pvp
 dimwishlist:item=532746994&perks=1047830412,3142289711,4071163871,3511092054
 dimwishlist:item=532746994&perks=1047830412,3142289711,4071163871,47981717
 dimwishlist:item=532746994&perks=1047830412,3142289711,4071163871,1264398905
@@ -286,7 +287,7 @@ dimwishlist:item=532746994&perks=1300023272,791862061,3436462433,3511092054
 dimwishlist:item=532746994&perks=1300023272,791862061,3436462433,47981717
 dimwishlist:item=532746994&perks=1300023272,791862061,3436462433,1264398905
 
-//notes: tags:pvp
+//notes: Chosen Variant tags:pvp
 dimwishlist:item=532746994&perks=1047830412,3142289711,3436462433,47981717
 dimwishlist:item=532746994&perks=1047830412,3142289711,3436462433,1264398905
 dimwishlist:item=532746994&perks=1047830412,791862061,3436462433,47981717
@@ -300,7 +301,7 @@ dimwishlist:item=532746994&perks=4090651448,3142289711,3436462433,1264398905
 dimwishlist:item=532746994&perks=4090651448,791862061,3436462433,47981717
 dimwishlist:item=532746994&perks=4090651448,791862061,3436462433,1264398905
 
-//notes: tags:pve
+//notes: Chosen Variant tags:pve
 dimwishlist:item=532746994&perks=1300023272,791862061,3300816228,2360754333
 dimwishlist:item=532746994&perks=1300023272,791862061,3300816228,3523296417
 dimwishlist:item=532746994&perks=1300023272,791862061,3436462433,2360754333
@@ -314,13 +315,13 @@ dimwishlist:item=532746994&perks=4090651448,791862061,3300816228,3523296417
 dimwishlist:item=532746994&perks=4090651448,791862061,3436462433,2360754333
 dimwishlist:item=532746994&perks=4090651448,791862061,3436462433,3523296417
 
-//notes: tags:pve
+//notes: Worthy Variant tags:pve
 dimwishlist:item=532746994&perks=2869569095,2679249093
 dimwishlist:item=532746994&perks=2869569095,4082225868
 dimwishlist:item=532746994&perks=3300816228,2679249093
 dimwishlist:item=532746994&perks=3300816228,4082225868
 
-//notes: tags:pvp
+//notes: Worthy Variant tags:pvp
 dimwishlist:item=532746994&perks=4071163871,3511092054
 dimwishlist:item=532746994&perks=4071163871,47981717
 dimwishlist:item=532746994&perks=4071163871,1264398905
@@ -328,11 +329,11 @@ dimwishlist:item=532746994&perks=3436462433,3511092054
 dimwishlist:item=532746994&perks=3436462433,47981717
 dimwishlist:item=532746994&perks=3436462433,1264398905
 
-//notes: tags:pvp
+//notes: Chosen Variant tags:pvp
 dimwishlist:item=532746994&perks=3436462433,47981717
 dimwishlist:item=532746994&perks=3436462433,1264398905
 
-//notes: tags:pve
+//notes: Chosen Variant tags:pve
 dimwishlist:item=532746994&perks=3300816228,2360754333
 dimwishlist:item=532746994&perks=3300816228,3523296417
 dimwishlist:item=532746994&perks=3436462433,2360754333
@@ -380,13 +381,13 @@ dimwishlist:item=981718087&perks=3436462433,3592538738
 dimwishlist:item=981718087&perks=2450788523,3300816228
 dimwishlist:item=981718087&perks=2450788523,3592538738
 
-//notes: tags:god-pve
+//notes: Despite the 1000 charge time damaging the feel of these fusions it’s still a good choice for single shot burst damage on Majors and Yellow bars. tags:god-pve
 dimwishlist:item=1030895163&perks=1840239774,1687452232,1820235745,1427256713
 
-//notes: tags:god-pvp
+//notes: For PvP, just don’t bother. The charge time change neutered the effectiveness of High Impact frames in pretty much any use cases tags:god-pvp
 dimwishlist:item=1030895163&perks=839105230,689005463,1645158859,2213355989
 
-//notes: tags:pve
+//notes: Despite the 1000 charge time damaging the feel of these fusions it’s still a good choice for single shot burst damage on Majors and Yellow bars. tags:pve
 dimwishlist:item=1030895163&perks=1840239774,1687452232,1820235745,1427256713
 dimwishlist:item=1030895163&perks=1840239774,1687452232,1820235745,3523296417
 dimwishlist:item=1030895163&perks=1840239774,1687452232,3436462433,1427256713
@@ -442,7 +443,7 @@ dimwishlist:item=1030895163&perks=4090651448,2680121939,3436462433,3523296417
 dimwishlist:item=1030895163&perks=4090651448,2680121939,4071163871,1427256713
 dimwishlist:item=1030895163&perks=4090651448,2680121939,4071163871,3523296417
 
-//notes: tags:pvp
+//notes: For PvP, just don’t bother. The charge time change neutered the effectiveness of High Impact frames in pretty much any use cases tags:pvp
 dimwishlist:item=1030895163&perks=839105230,689005463,1645158859,2213355989
 dimwishlist:item=1030895163&perks=839105230,689005463,3161816588,2213355989
 dimwishlist:item=1030895163&perks=839105230,689005463,2450788523,2213355989
@@ -462,7 +463,7 @@ dimwishlist:item=1030895163&perks=1392496348,3868766766,1645158859,2213355989
 dimwishlist:item=1030895163&perks=1392496348,3868766766,3161816588,2213355989
 dimwishlist:item=1030895163&perks=1392496348,3868766766,2450788523,2213355989
 
-//notes: tags:pve
+//notes: Despite the 1000 charge time damaging the feel of these fusions it’s still a good choice for single shot burst damage on Majors and Yellow bars. tags:pve
 dimwishlist:item=1030895163&perks=1820235745,1427256713
 dimwishlist:item=1030895163&perks=1820235745,3523296417
 dimwishlist:item=1030895163&perks=3436462433,1427256713
@@ -470,7 +471,7 @@ dimwishlist:item=1030895163&perks=3436462433,3523296417
 dimwishlist:item=1030895163&perks=4071163871,1427256713
 dimwishlist:item=1030895163&perks=4071163871,3523296417
 
-//notes: tags:pvp
+//notes: For PvP, just don’t bother. The charge time change neutered the effectiveness of High Impact frames in pretty much any use cases tags:pvp
 dimwishlist:item=1030895163&perks=1645158859,2213355989
 dimwishlist:item=1030895163&perks=3161816588,2213355989
 dimwishlist:item=1030895163&perks=2450788523,2213355989
@@ -531,19 +532,19 @@ dimwishlist:item=1197486957&perks=4071163871,3592538738
 dimwishlist:item=1197486957&perks=3436462433,3523296417
 dimwishlist:item=1197486957&perks=3436462433,3592538738
 
-//notes: tags:god-pve
+//notes: Worthy Variant tags:god-pve
 dimwishlist:item=1366917989&perks=3525010810,3796465595,2869569095,2284787283
 
-//notes: tags:god-pvp
+//notes: Worthy Variant tags:god-pvp
 dimwishlist:item=1366917989&perks=1844523823,3796465595,3977735242,1275731761
 
-//notes: tags:god-pve
+//notes: Chosen Variant tags:god-pve
 dimwishlist:item=1366917989&perks=3525010810,3796465595,3300816228,3927722942
 
-//notes: tags:god-pvp
+//notes: Chosen Variant tags:god-pvp
 dimwishlist:item=1366917989&perks=1844523823,3796465595,3977735242,2396489472
 
-//notes: tags:pve
+//notes: Worthy Variant tags:pve
 dimwishlist:item=1366917989&perks=3525010810,3796465595,2869569095,2284787283
 dimwishlist:item=1366917989&perks=3525010810,3796465595,2869569095,1275731761
 dimwishlist:item=1366917989&perks=3525010810,3796465595,3977735242,2284787283
@@ -553,11 +554,11 @@ dimwishlist:item=1366917989&perks=981914802,3796465595,2869569095,1275731761
 dimwishlist:item=1366917989&perks=981914802,3796465595,3977735242,2284787283
 dimwishlist:item=1366917989&perks=981914802,3796465595,3977735242,1275731761
 
-//notes: tags:pvp
+//notes: Worthy Variant tags:pvp
 dimwishlist:item=1366917989&perks=1844523823,3796465595,3977735242,1275731761
 dimwishlist:item=1366917989&perks=1478423395,3796465595,3977735242,1275731761
 
-//notes: tags:pve
+//notes: Chosen Variant tags:pve
 dimwishlist:item=1366917989&perks=3525010810,3796465595,3300816228,3927722942
 dimwishlist:item=1366917989&perks=3525010810,3796465595,3300816228,2396489472
 dimwishlist:item=1366917989&perks=3525010810,3796465595,3300816228,1275731761
@@ -577,26 +578,26 @@ dimwishlist:item=1366917989&perks=981914802,3796465595,951095735,3927722942
 dimwishlist:item=1366917989&perks=981914802,3796465595,951095735,2396489472
 dimwishlist:item=1366917989&perks=981914802,3796465595,951095735,1275731761
 
-//notes: tags:pvp
+//notes: Chosen Variant tags:pvp
 dimwishlist:item=1366917989&perks=1844523823,3796465595,3977735242,2396489472
 dimwishlist:item=1366917989&perks=1844523823,3796465595,3977735242,1275731761
 dimwishlist:item=1366917989&perks=1478423395,3796465595,3977735242,2396489472
 dimwishlist:item=1366917989&perks=1478423395,3796465595,3977735242,1275731761
 
-//notes: tags:pve
+//notes: Worthy Variant tags:pve
 dimwishlist:item=1366917989&perks=2869569095,2284787283
 dimwishlist:item=1366917989&perks=2869569095,1275731761
 dimwishlist:item=1366917989&perks=3977735242,2284787283
 dimwishlist:item=1366917989&perks=3977735242,1275731761
 
-//notes: tags:pvp
+//notes: Worthy Variant tags:pvp
 dimwishlist:item=1366917989&perks=3977735242,1275731761
 
-//notes: tags:pvp
+//notes: Chosen Variant tags:pvp
 dimwishlist:item=1366917989&perks=3977735242,2396489472
 dimwishlist:item=1366917989&perks=3977735242,1275731761
 
-//notes: tags:pve
+//notes: Chosen Variant tags:pve
 dimwishlist:item=1366917989&perks=3300816228,3927722942
 dimwishlist:item=1366917989&perks=3300816228,2396489472
 dimwishlist:item=1366917989&perks=3300816228,1275731761
@@ -607,14 +608,14 @@ dimwishlist:item=1366917989&perks=951095735,3927722942
 dimwishlist:item=1366917989&perks=951095735,2396489472
 dimwishlist:item=1366917989&perks=951095735,1275731761
 
-//notes: tags:god-pve
+//notes: Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. tags:god-pve
 dimwishlist:item=1392919471&perks=1840239774,106909392,3436462433,3592538738
 
-//notes: tags:god-pvp
+//notes: Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. HIR and Under Pressure on the other hand work excellently together, as they both proc on the same part of the mag. tags:god-pvp
 dimwishlist:item=1392919471&perks=1840239774,3142289711,1645158859,2213355989
 dimwishlist:item=1392919471&perks=839105230,3142289711,1645158859,2213355989
 
-//notes: tags:pvp
+//notes: Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. HIR and Under Pressure on the other hand work excellently together, as they both proc on the same part of the mag. tags:pvp
 dimwishlist:item=1392919471&perks=1840239774,3142289711,1645158859,2213355989
 dimwishlist:item=1392919471&perks=1840239774,3142289711,1645158859,699525795
 dimwishlist:item=1392919471&perks=1840239774,3142289711,1645158859,47981717
@@ -652,7 +653,7 @@ dimwishlist:item=1392919471&perks=3250034553,3142289711,2450788523,2213355989
 dimwishlist:item=1392919471&perks=3250034553,3142289711,2450788523,699525795
 dimwishlist:item=1392919471&perks=3250034553,3142289711,2450788523,47981717
 
-//notes: tags:pve
+//notes: Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. tags:pve
 dimwishlist:item=1392919471&perks=1840239774,106909392,3436462433,3592538738
 dimwishlist:item=1392919471&perks=1840239774,106909392,1523832109,3592538738
 dimwishlist:item=1392919471&perks=1840239774,1087426260,3436462433,3592538738
@@ -666,7 +667,7 @@ dimwishlist:item=1392919471&perks=3250034553,106909392,1523832109,3592538738
 dimwishlist:item=1392919471&perks=3250034553,1087426260,3436462433,3592538738
 dimwishlist:item=1392919471&perks=3250034553,1087426260,1523832109,3592538738
 
-//notes: tags:pvp
+//notes: Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. HIR and Under Pressure on the other hand work excellently together, as they both proc on the same part of the mag. tags:pvp
 dimwishlist:item=1392919471&perks=1840239774,3142289711,3436462433,47981717
 dimwishlist:item=1392919471&perks=1840239774,3142289711,3436462433,699525795
 dimwishlist:item=1392919471&perks=1840239774,3142289711,1523832109,47981717
@@ -700,7 +701,7 @@ dimwishlist:item=1392919471&perks=3250034553,3142289711,1645158859,699525795
 dimwishlist:item=1392919471&perks=3250034553,3142289711,2450788523,47981717
 dimwishlist:item=1392919471&perks=3250034553,3142289711,2450788523,699525795
 
-//notes: tags:pve
+//notes: Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. tags:pve
 dimwishlist:item=1392919471&perks=1840239774,106909392,3436462433,3592538738
 dimwishlist:item=1392919471&perks=1840239774,106909392,3436462433,2213355989
 dimwishlist:item=1392919471&perks=1840239774,1087426260,3436462433,3592538738
@@ -714,10 +715,10 @@ dimwishlist:item=1392919471&perks=3250034553,106909392,3436462433,2213355989
 dimwishlist:item=1392919471&perks=3250034553,1087426260,3436462433,3592538738
 dimwishlist:item=1392919471&perks=3250034553,1087426260,3436462433,2213355989
 
-//notes: tags:pve,pvp
+//notes: Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. HIR and Under Pressure on the other hand work excellently together, as they both proc on the same part of the mag. tags:pve,pvp
 dimwishlist:item=1392919471&perks=3436462433,2213355989
 
-//notes: tags:pvp
+//notes: Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. HIR and Under Pressure on the other hand work excellently together, as they both proc on the same part of the mag. tags:pvp
 dimwishlist:item=1392919471&perks=1645158859,2213355989
 dimwishlist:item=1392919471&perks=1645158859,699525795
 dimwishlist:item=1392919471&perks=1645158859,47981717
@@ -728,11 +729,11 @@ dimwishlist:item=1392919471&perks=2450788523,2213355989
 dimwishlist:item=1392919471&perks=2450788523,699525795
 dimwishlist:item=1392919471&perks=2450788523,47981717
 
-//notes: tags:pve
+//notes: Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. tags:pve
 dimwishlist:item=1392919471&perks=3436462433,3592538738
 dimwishlist:item=1392919471&perks=1523832109,3592538738
 
-//notes: tags:pvp
+//notes: Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. HIR and Under Pressure on the other hand work excellently together, as they both proc on the same part of the mag. tags:pvp
 dimwishlist:item=1392919471&perks=3436462433,47981717
 dimwishlist:item=1392919471&perks=3436462433,699525795
 dimwishlist:item=1392919471&perks=1523832109,47981717
@@ -742,7 +743,7 @@ dimwishlist:item=1392919471&perks=1645158859,699525795
 dimwishlist:item=1392919471&perks=2450788523,47981717
 dimwishlist:item=1392919471&perks=2450788523,699525795
 
-//notes: tags:pve
+//notes: Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size. tags:pve
 dimwishlist:item=1392919471&perks=3436462433,3592538738
 dimwishlist:item=1392919471&perks=3436462433,2213355989
 
@@ -859,16 +860,16 @@ dimwishlist:item=1513993763&perks=2450788523,3425386926
 dimwishlist:item=1513993763&perks=2450788523,3592538738
 dimwishlist:item=1513993763&perks=2450788523,1546637391
 
-//notes: tags:god-pve
+//notes: Rapid hit affects knocking speed, stability affects max hold time of fully drawn bow. tags:god-pve
 dimwishlist:item=1621657423&perks=2801223209,3429800428,247725512,3365897133
 
-//notes: tags:god-pvp
+//notes: With x5 Swash, the bow can 1 tap to the head in PvP, making it a pretty good legendary pairing for bowswaps. tags:god-pvp
 dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,4082225868
 
-//notes: tags:pve
+//notes: Rapid hit affects knocking speed, stability affects max hold time of fully drawn bow. tags:pve
 dimwishlist:item=1621657423&perks=247725512,3365897133
 
-//notes: tags:pvp
+//notes: With x5 Swash, the bow can 1 tap to the head in PvP, making it a pretty good legendary pairing for bowswaps. tags:pvp
 dimwishlist:item=1621657423&perks=588594999,4082225868
 
 //notes: tags:god-pve
@@ -915,7 +916,7 @@ dimwishlist:item=1641430382&perks=2405638015,1561002382,247725512,1546637391
 dimwishlist:item=1641430382&perks=2405638015,1561002382,3436462433,4049631843
 dimwishlist:item=1641430382&perks=2405638015,1561002382,3436462433,1546637391
 
-//notes: tags:pvp
+//notes: If you chose Iron Grip, then Flared Magwell/Alloy Mag become more wanted perks to help counter the greatly decreased reload of Iron Grip. tags:pvp
 dimwishlist:item=1641430382&perks=2405638014,1885400500,247725512,1546637391
 dimwishlist:item=1641430382&perks=2405638014,1885400500,247725512,11551321
 dimwishlist:item=1641430382&perks=2405638014,1885400500,706527188,1546637391
@@ -958,7 +959,7 @@ dimwishlist:item=1641430382&perks=247725512,1546637391
 dimwishlist:item=1641430382&perks=3436462433,4049631843
 dimwishlist:item=1641430382&perks=3436462433,1546637391
 
-//notes: tags:pvp
+//notes: If you chose Iron Grip, then Flared Magwell/Alloy Mag become more wanted perks to help counter the greatly decreased reload of Iron Grip. tags:pvp
 dimwishlist:item=1641430382&perks=247725512,1546637391
 dimwishlist:item=1641430382&perks=247725512,11551321
 dimwishlist:item=1641430382&perks=706527188,1546637391
@@ -1009,7 +1010,7 @@ dimwishlist:item=1766088024&perks=2869569095,3592538738
 //notes: tags:god-pve
 dimwishlist:item=2050789284&perks=1840239774,106909392,2869569095,3523296417
 
-//notes: tags:god-pvp
+//notes: Pulses do appear to be range capped, so like Cold Denial, it’s best to focus on stability if you get Killing Wind since KW adds +20 range, + 50 mobility, and +~40  handling. tags:god-pvp
 dimwishlist:item=2050789284&perks=3250034553,3142289711,2450788523,1015611457
 dimwishlist:item=2050789284&perks=3250034553,3142289711,280464955,1015611457
 
@@ -1096,7 +1097,7 @@ dimwishlist:item=2050789284&perks=4090651448,1087426260,1168162263,3523296417
 dimwishlist:item=2050789284&perks=4090651448,1087426260,1168162263,1015611457
 dimwishlist:item=2050789284&perks=4090651448,1087426260,1168162263,1546637391
 
-//notes: tags:pvp
+//notes: Pulses do appear to be range capped, so like Cold Denial, it’s best to focus on stability if you get Killing Wind since KW adds +20 range, + 50 mobility, and +~40  handling. tags:pvp
 dimwishlist:item=2050789284&perks=3250034553,3142289711,2450788523,1015611457
 dimwishlist:item=2050789284&perks=3250034553,3142289711,2450788523,588594999
 dimwishlist:item=2050789284&perks=3250034553,3142289711,2450788523,460017080
@@ -1127,7 +1128,7 @@ dimwishlist:item=2050789284&perks=1168162263,3523296417
 dimwishlist:item=2050789284&perks=1168162263,1015611457
 dimwishlist:item=2050789284&perks=1168162263,1546637391
 
-//notes: tags:pvp
+//notes: Pulses do appear to be range capped, so like Cold Denial, it’s best to focus on stability if you get Killing Wind since KW adds +20 range, + 50 mobility, and +~40  handling. tags:pvp
 dimwishlist:item=2050789284&perks=2450788523,1015611457
 dimwishlist:item=2050789284&perks=2450788523,588594999
 dimwishlist:item=2050789284&perks=2450788523,460017080
@@ -1138,7 +1139,7 @@ dimwishlist:item=2050789284&perks=280464955,460017080
 //notes: tags:god-pve
 dimwishlist:item=2220884262&perks=1926090094,1087426260,1168162263,3592538738
 
-//notes: tags:god-pvp
+//notes: When using Iron Grip, make sure you run a hand cannon loader mod. This returns you to the base reload of the weapon and makes sure you lose nothing. tags:god-pvp
 dimwishlist:item=2220884262&perks=1926090092,1885400500,3161816588,11551321
 dimwishlist:item=2220884262&perks=1926090093,1885400500,3161816588,11551321
 
@@ -1160,7 +1161,7 @@ dimwishlist:item=2220884262&perks=1926090095,1087426260,1168162263,4082225868
 dimwishlist:item=2220884262&perks=1926090095,1561002382,1168162263,3592538738
 dimwishlist:item=2220884262&perks=1926090095,1561002382,1168162263,4082225868
 
-//notes: tags:pvp
+//notes: When using Iron Grip, make sure you run a hand cannon loader mod. This returns you to the base reload of the weapon and makes sure you lose nothing. tags:pvp
 dimwishlist:item=2220884262&perks=1926090092,1885400500,3161816588,11551321
 dimwishlist:item=2220884262&perks=1926090092,1885400500,3161816588,3592538738
 dimwishlist:item=2220884262&perks=1926090092,1885400500,3161816588,4082225868
@@ -1358,7 +1359,7 @@ dimwishlist:item=2220884262&perks=1926090095,679225683,706527188,957782887
 dimwishlist:item=2220884262&perks=1168162263,3592538738
 dimwishlist:item=2220884262&perks=1168162263,4082225868
 
-//notes: tags:pvp
+//notes: When using Iron Grip, make sure you run a hand cannon loader mod. This returns you to the base reload of the weapon and makes sure you lose nothing. tags:pvp
 dimwishlist:item=2220884262&perks=3161816588,11551321
 dimwishlist:item=2220884262&perks=3161816588,3592538738
 dimwishlist:item=2220884262&perks=3161816588,4082225868
@@ -1417,29 +1418,29 @@ dimwishlist:item=2386979999&perks=47981717,3511092054
 dimwishlist:item=2386979999&perks=706527188,957782887
 dimwishlist:item=2386979999&perks=706527188,3511092054
 
-//notes: tags:god-pve
+//notes: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:god-pve
 dimwishlist:item=2453357042&perks=3525010810,3301904089,2284787283,3300816228
 
-//notes: tags:god-pvp
+//notes: We want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:god-pvp
 dimwishlist:item=2453357042&perks=1478423395,409831596,706527188,1683379515
 
-//notes: tags:pve
+//notes: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:pve
 dimwishlist:item=2453357042&perks=3525010810,3301904089,2284787283,3300816228
 dimwishlist:item=2453357042&perks=3525010810,3301904089,2284787283,3592538738
 dimwishlist:item=2453357042&perks=981914802,3301904089,2284787283,3300816228
 dimwishlist:item=2453357042&perks=981914802,3301904089,2284787283,3592538738
 
-//notes: tags:pvp
+//notes: We want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:pvp
 dimwishlist:item=2453357042&perks=1478423395,409831596,706527188,1683379515
 dimwishlist:item=2453357042&perks=1844523823,409831596,706527188,1683379515
 dimwishlist:item=2453357042&perks=3525010810,409831596,706527188,1683379515
 dimwishlist:item=2453357042&perks=1441682018,409831596,706527188,1683379515
 
-//notes: tags:pve
+//notes: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:pve
 dimwishlist:item=2453357042&perks=2284787283,3300816228
 dimwishlist:item=2453357042&perks=2284787283,3592538738
 
-//notes: tags:pvp
+//notes: We want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:pvp
 dimwishlist:item=2453357042&perks=706527188,1683379515
 
 //notes: tags:god-pvp
@@ -1652,16 +1653,16 @@ dimwishlist:item=2870169846&perks=1168162263,3592538738
 dimwishlist:item=2870169846&perks=3436462433,3523296417
 dimwishlist:item=2870169846&perks=3436462433,3592538738
 
-//notes: tags:god-pve
+//notes: 1-2p and TB increase burst DPS but do not increase total DPS due to the time it takes to proc the perk. Pick the perks that have the most synergy with your playstyle. tags:god-pve
 dimwishlist:item=2891672170&perks=1300023272,791862061,3300816228,1546637391
 dimwishlist:item=2891672170&perks=1300023272,791862061,3300816228,2679249093
 dimwishlist:item=2891672170&perks=1300023272,791862061,1631667848,1546637391
 dimwishlist:item=2891672170&perks=1300023272,791862061,1631667848,2679249093
 
-//notes: tags:god-pvp
+//notes: Slideshot and Killing Wind each add ~20 range stat making 86+ range possible. However, pellet spread RNG is the determinant factor for one hit kills. tags:god-pvp
 dimwishlist:item=2891672170&perks=1047830412,3142289711,3161816588,2450788523
 
-//notes: tags:pve
+//notes: 1-2p and TB increase burst DPS but do not increase total DPS due to the time it takes to proc the perk. Pick the perks that have the most synergy with your playstyle. tags:pve
 dimwishlist:item=2891672170&perks=1300023272,791862061,3300816228,1546637391
 dimwishlist:item=2891672170&perks=1300023272,791862061,3300816228,2679249093
 dimwishlist:item=2891672170&perks=1300023272,791862061,3300816228,3523296417
@@ -1753,7 +1754,7 @@ dimwishlist:item=2891672170&perks=4090651448,106909392,2869569095,3523296417
 dimwishlist:item=2891672170&perks=4090651448,106909392,2869569095,3708227201
 dimwishlist:item=2891672170&perks=4090651448,106909392,2869569095,4082225868
 
-//notes: tags:pvp
+//notes: Slideshot and Killing Wind each add ~20 range stat making 86+ range possible. However, pellet spread RNG is the determinant factor for one hit kills. tags:pvp
 dimwishlist:item=2891672170&perks=1047830412,3142289711,3161816588,2450788523
 dimwishlist:item=2891672170&perks=1047830412,3142289711,3161816588,1546637391
 dimwishlist:item=2891672170&perks=1047830412,3142289711,3161816588,2726471870
@@ -1779,7 +1780,7 @@ dimwishlist:item=2891672170&perks=4090651448,791862061,972757866,2450788523
 dimwishlist:item=2891672170&perks=4090651448,791862061,972757866,1546637391
 dimwishlist:item=2891672170&perks=4090651448,791862061,972757866,2726471870
 
-//notes: tags:pve
+//notes: 1-2p and TB increase burst DPS but do not increase total DPS due to the time it takes to proc the perk. Pick the perks that have the most synergy with your playstyle. tags:pve
 dimwishlist:item=2891672170&perks=3300816228,1546637391
 dimwishlist:item=2891672170&perks=3300816228,2679249093
 dimwishlist:item=2891672170&perks=3300816228,3523296417
@@ -1796,7 +1797,7 @@ dimwishlist:item=2891672170&perks=2869569095,3523296417
 dimwishlist:item=2891672170&perks=2869569095,3708227201
 dimwishlist:item=2891672170&perks=2869569095,4082225868
 
-//notes: tags:pvp
+//notes: Slideshot and Killing Wind each add ~20 range stat making 86+ range possible. However, pellet spread RNG is the determinant factor for one hit kills. tags:pvp
 dimwishlist:item=2891672170&perks=3161816588,2450788523
 dimwishlist:item=2891672170&perks=3161816588,1546637391
 dimwishlist:item=2891672170&perks=3161816588,2726471870
@@ -1839,14 +1840,14 @@ dimwishlist:item=2990047042&perks=1523832109,469285294
 dimwishlist:item=2990047042&perks=588594999,957782887
 dimwishlist:item=2990047042&perks=2450788523,957782887
 
-//notes: tags:god-pve
+//notes: One For All is much better on primaries, but some may prefer Rampage due to the ease to proc. tags:god-pve
 dimwishlist:item=3281285075&perks=1840239774,106909392,247725512,4049631843
 
-//notes: tags:god-pvp
+//notes: Rampage makes this 3 tap at x2 stacks on all Res [x1 stack can 3 tap at 3 res or lower. tags:god-pvp
 dimwishlist:item=3281285075&perks=3250034553,3142289711,247725512,3425386926
 dimwishlist:item=3281285075&perks=3250034553,3142289711,247725512,47981717
 
-//notes: tags:pve
+//notes: One For All is much better on primaries, but some may prefer Rampage due to the ease to proc. tags:pve
 dimwishlist:item=3281285075&perks=1840239774,106909392,247725512,4049631843
 dimwishlist:item=3281285075&perks=1840239774,106909392,247725512,3425386926
 dimwishlist:item=3281285075&perks=1840239774,106909392,247725512,3523296417
@@ -1902,16 +1903,16 @@ dimwishlist:item=3281285075&perks=4090651448,1087426260,1354429876,4049631843
 dimwishlist:item=3281285075&perks=4090651448,1087426260,1354429876,3425386926
 dimwishlist:item=3281285075&perks=4090651448,1087426260,1354429876,3523296417
 
-//notes: tags:pvp
+//notes: Rampage makes this 3 tap at x2 stacks on all Res [x1 stack can 3 tap at 3 res or lower. tags:pvp
 dimwishlist:item=3281285075&perks=3250034553,3142289711,247725512,3425386926
 dimwishlist:item=3281285075&perks=3250034553,3142289711,247725512,47981717
 dimwishlist:item=3281285075&perks=3250034553,3142289711,2450788523,3425386926
 dimwishlist:item=3281285075&perks=3250034553,3142289711,2450788523,47981717
 
-//notes: tags:pve,pvp
+//notes: One For All is much better on primaries, but some may prefer Rampage due to the ease to proc. Rampage makes this 3 tap at x2 stacks on all Res [x1 stack can 3 tap at 3 res or lower. tags:pve,pvp
 dimwishlist:item=3281285075&perks=247725512,3425386926
 
-//notes: tags:pve
+//notes: One For All is much better on primaries, but some may prefer Rampage due to the ease to proc. tags:pve
 dimwishlist:item=3281285075&perks=247725512,4049631843
 dimwishlist:item=3281285075&perks=247725512,3425386926
 dimwishlist:item=3281285075&perks=247725512,3523296417
@@ -1922,16 +1923,16 @@ dimwishlist:item=3281285075&perks=1354429876,4049631843
 dimwishlist:item=3281285075&perks=1354429876,3425386926
 dimwishlist:item=3281285075&perks=1354429876,3523296417
 
-//notes: tags:pvp
+//notes: Rampage makes this 3 tap at x2 stacks on all Res [x1 stack can 3 tap at 3 res or lower. tags:pvp
 dimwishlist:item=3281285075&perks=247725512,3425386926
 dimwishlist:item=3281285075&perks=247725512,47981717
 dimwishlist:item=3281285075&perks=2450788523,3425386926
 dimwishlist:item=3281285075&perks=2450788523,47981717
 
-//notes: tags:god-pve
+//notes: This sword is an interesting case. Without the combo of Relentless Strikes + Whirlwind Blade to allow it to stack up against other swords for boss damage, you have to get creative. Relentless + En Guard can give some good quick burst of damage, while Thresh + Assassins Blade could have it’s place against Taniks as Div. PvP: It really doesn’t matter. tags:god-pve
 dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,1685431615
 
-//notes: tags:pve
+//notes: This sword is an interesting case. Without the combo of Relentless Strikes + Whirlwind Blade to allow it to stack up against other swords for boss damage, you have to get creative. Relentless + En Guard can give some good quick burst of damage, while Thresh + Assassins Blade could have it’s place against Taniks as Div. PvP: It really doesn’t matter. tags:pve
 dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,1685431615
 dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,354401740
 dimwishlist:item=3366545721&perks=3666208348,269888150,2726471870,1685431615
@@ -1941,7 +1942,7 @@ dimwishlist:item=3366545721&perks=3666208348,52780822,1749209109,354401740
 dimwishlist:item=3366545721&perks=3666208348,52780822,2726471870,1685431615
 dimwishlist:item=3366545721&perks=3666208348,52780822,2726471870,354401740
 
-//notes: tags:pve
+//notes: This sword is an interesting case. Without the combo of Relentless Strikes + Whirlwind Blade to allow it to stack up against other swords for boss damage, you have to get creative. Relentless + En Guard can give some good quick burst of damage, while Thresh + Assassins Blade could have it’s place against Taniks as Div. PvP: It really doesn’t matter. tags:pve
 dimwishlist:item=3366545721&perks=1749209109,1685431615
 dimwishlist:item=3366545721&perks=1749209109,354401740
 dimwishlist:item=3366545721&perks=2726471870,1685431615
@@ -2040,13 +2041,13 @@ dimwishlist:item=3514144928&perks=588594999,3511092054
 dimwishlist:item=3514144928&perks=1359896290,2846385770
 dimwishlist:item=3514144928&perks=1359896290,3511092054
 
-//notes: tags:god-pve
+//notes: Not as strong of rolls as Interference, but still can get 7 spike grenades with backup mag. Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:god-pve
 dimwishlist:item=3565520715&perks=3525010810,3301904089,2869569095,3523296417
 
-//notes: tags:god-pvp
+//notes: We want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:god-pvp
 dimwishlist:item=3565520715&perks=1478423395,409831596,4071163871,3425386926
 
-//notes: tags:pve
+//notes: Not as strong of rolls as Interference, but still can get 7 spike grenades with backup mag. Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:pve
 dimwishlist:item=3565520715&perks=3525010810,3301904089,2869569095,3523296417
 dimwishlist:item=3565520715&perks=3525010810,3301904089,2869569095,2396489472
 dimwishlist:item=3565520715&perks=3525010810,3301904089,4071163871,3523296417
@@ -2060,13 +2061,13 @@ dimwishlist:item=3565520715&perks=981914802,3301904089,4071163871,2396489472
 dimwishlist:item=3565520715&perks=981914802,3301904089,2284787283,3523296417
 dimwishlist:item=3565520715&perks=981914802,3301904089,2284787283,2396489472
 
-//notes: tags:pvp
+//notes: We want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:pvp
 dimwishlist:item=3565520715&perks=1478423395,409831596,4071163871,3425386926
 dimwishlist:item=3565520715&perks=1844523823,409831596,4071163871,3425386926
 dimwishlist:item=3565520715&perks=3525010810,409831596,4071163871,3425386926
 dimwishlist:item=3565520715&perks=1441682018,409831596,4071163871,3425386926
 
-//notes: tags:pve
+//notes: Not as strong of rolls as Interference, but still can get 7 spike grenades with backup mag. Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:pve
 dimwishlist:item=3565520715&perks=2869569095,3523296417
 dimwishlist:item=3565520715&perks=2869569095,2396489472
 dimwishlist:item=3565520715&perks=4071163871,3523296417
@@ -2074,22 +2075,22 @@ dimwishlist:item=3565520715&perks=4071163871,2396489472
 dimwishlist:item=3565520715&perks=2284787283,3523296417
 dimwishlist:item=3565520715&perks=2284787283,2396489472
 
-//notes: tags:pvp
+//notes: We want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:pvp
 dimwishlist:item=3565520715&perks=4071163871,3425386926
 
-//notes: tags:god-pve
+//notes: Worthy Variant tags:god-pve
 dimwishlist:item=3637570176&perks=1840239774,1087426260,2869569095,1546637391
 
-//notes: tags:god-pvp
+//notes: Worthy Variant tags:god-pvp
 dimwishlist:item=3637570176&perks=3250034553,3142289711,957782887,47981717
 
-//notes: tags:god-pve
+//notes: Splicer Variant tags:god-pve
 dimwishlist:item=3637570176&perks=1840239774,1087426260,3436462433,1546637391
 
-//notes: tags:god-pvp
+//notes: Splicer Variant tags:god-pvp
 dimwishlist:item=3637570176&perks=3250034553,3142289711,588594999,957782887
 
-//notes: tags:pve
+//notes: Worthy Variant tags:pve
 dimwishlist:item=3637570176&perks=1840239774,1087426260,2869569095,1546637391
 dimwishlist:item=3637570176&perks=1840239774,106909392,2869569095,1546637391
 dimwishlist:item=3637570176&perks=3250034553,1087426260,2869569095,1546637391
@@ -2097,11 +2098,11 @@ dimwishlist:item=3637570176&perks=3250034553,106909392,2869569095,1546637391
 dimwishlist:item=3637570176&perks=4090651448,1087426260,2869569095,1546637391
 dimwishlist:item=3637570176&perks=4090651448,106909392,2869569095,1546637391
 
-//notes: tags:pvp
+//notes: Worthy Variant tags:pvp
 dimwishlist:item=3637570176&perks=3250034553,3142289711,957782887,47981717
 dimwishlist:item=3637570176&perks=1840239774,3142289711,957782887,47981717
 
-//notes: tags:pve
+//notes: Splicer Variant tags:pve
 dimwishlist:item=3637570176&perks=1840239774,1087426260,3436462433,1546637391
 dimwishlist:item=3637570176&perks=1840239774,1087426260,3436462433,2213355989
 dimwishlist:item=3637570176&perks=1840239774,1087426260,2621346526,1546637391
@@ -2127,29 +2128,29 @@ dimwishlist:item=3637570176&perks=4090651448,106909392,3436462433,2213355989
 dimwishlist:item=3637570176&perks=4090651448,106909392,2621346526,1546637391
 dimwishlist:item=3637570176&perks=4090651448,106909392,2621346526,2213355989
 
-//notes: tags:pvp
+//notes: Splicer Variant tags:pvp
 dimwishlist:item=3637570176&perks=3250034553,3142289711,588594999,957782887
 dimwishlist:item=3637570176&perks=1840239774,3142289711,588594999,957782887
 
-//notes: tags:pve
+//notes: Worthy Variant tags:pve
 dimwishlist:item=3637570176&perks=2869569095,1546637391
 
-//notes: tags:pvp
+//notes: Worthy Variant tags:pvp
 dimwishlist:item=3637570176&perks=957782887,47981717
 
-//notes: tags:pve
+//notes: Splicer Variant tags:pve
 dimwishlist:item=3637570176&perks=3436462433,1546637391
 dimwishlist:item=3637570176&perks=3436462433,2213355989
 dimwishlist:item=3637570176&perks=2621346526,1546637391
 dimwishlist:item=3637570176&perks=2621346526,2213355989
 
-//notes: tags:pvp
+//notes: Splicer Variant tags:pvp
 dimwishlist:item=3637570176&perks=588594999,957782887
 
 //notes: tags:god-pve
 dimwishlist:item=3856705927&perks=1840239774,1431678320,3436462433,862848869
 
-//notes: tags:god-pvp
+//notes: Opening Shot is arguably the best in slot perk. Rangefinder is generally the go to (it does add ~3M of base range) but Hawkmoon is a run and gun weapon (in my opinion) - if you want range, run a 120 or Luna Faction boots. Opening Shot gives a serious bonus to accuracy on ground and in air and helps guarantee landing the first crit (or 7 stack OHKO if you wait for perk to reset). Moving Target is nearly worthless due to high base AA stat. tags:god-pvp
 dimwishlist:item=3856705927&perks=3250034553,1431678320,2846385770,3438534621
 dimwishlist:item=3856705927&perks=3250034553,1431678320,47981717,3438534621
 
@@ -2158,7 +2159,7 @@ dimwishlist:item=3856705927&perks=1840239774,1431678320,3436462433,862848869
 dimwishlist:item=3856705927&perks=3250034553,1431678320,3436462433,862848869
 dimwishlist:item=3856705927&perks=4090651448,1431678320,3436462433,862848869
 
-//notes: tags:pvp
+//notes: Opening Shot is arguably the best in slot perk. Rangefinder is generally the go to (it does add ~3M of base range) but Hawkmoon is a run and gun weapon (in my opinion) - if you want range, run a 120 or Luna Faction boots. Opening Shot gives a serious bonus to accuracy on ground and in air and helps guarantee landing the first crit (or 7 stack OHKO if you wait for perk to reset). Moving Target is nearly worthless due to high base AA stat. tags:pvp
 dimwishlist:item=3856705927&perks=3250034553,1431678320,2846385770,3438534621
 dimwishlist:item=3856705927&perks=3250034553,1431678320,2846385770,862848869
 dimwishlist:item=3856705927&perks=3250034553,1431678320,47981717,3438534621
@@ -2171,7 +2172,7 @@ dimwishlist:item=3856705927&perks=3250034553,1431678320,2450788523,862848869
 //notes: tags:pve
 dimwishlist:item=3856705927&perks=3436462433,862848869
 
-//notes: tags:pvp
+//notes: Opening Shot is arguably the best in slot perk. Rangefinder is generally the go to (it does add ~3M of base range) but Hawkmoon is a run and gun weapon (in my opinion) - if you want range, run a 120 or Luna Faction boots. Opening Shot gives a serious bonus to accuracy on ground and in air and helps guarantee landing the first crit (or 7 stack OHKO if you wait for perk to reset). Moving Target is nearly worthless due to high base AA stat. tags:pvp
 dimwishlist:item=3856705927&perks=2846385770,3438534621
 dimwishlist:item=3856705927&perks=2846385770,862848869
 dimwishlist:item=3856705927&perks=47981717,3438534621
@@ -2211,6 +2212,12 @@ dimwishlist:item=4037745684&perks=280464955,47981717
 dimwishlist:item=4037745684&perks=3300816228,3523296417
 dimwishlist:item=4037745684&perks=3400784728,3523296417
 
+//notes: Despite having a TT + Vorpal god roll, other adaptive snipers are better for dps thanks to Adored not getting a 7 mag. Adored shines in PvP however, with an automatic 5/5 god roll from the start. tags:god-pvp
+dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,957782887
+
+//notes: Despite having a TT + Vorpal god roll, other adaptive snipers are better for dps thanks to Adored not getting a 7 mag. Adored shines in PvP however, with an automatic 5/5 god roll from the start. tags:god-pve
+dimwishlist:item=4184808992&perks=3250034553,3142289711,3400784728,1546637391
+
 //notes: tags:god-pve
 dimwishlist:item=4230965989&perks=1840239774,106909392,1523832109,3425386926
 
@@ -2248,7 +2255,7 @@ dimwishlist:item=4230965989&perks=1359896290,588594999
 //notes: tags:god-pve
 dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,469285294
 
-//notes: tags:god-pvp
+//notes: Recombination x5 can one body all resilience levels. Slideshot and Killing Wind both boost OHKO range and do stack when both are active. Heritage’s base range stat is good enough to spec into a handling barrel and Assault mag (no range stat boost should be needed). tags:god-pvp
 dimwishlist:item=4248569242&perks=1840239774,791862061,3161816588,588594999
 dimwishlist:item=4248569242&perks=1840239774,791862061,3161816588,2450788523
 
@@ -2257,7 +2264,7 @@ dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,469285294
 dimwishlist:item=4248569242&perks=3250034553,791862061,1523832109,469285294
 dimwishlist:item=4248569242&perks=4090651448,791862061,1523832109,469285294
 
-//notes: tags:pvp
+//notes: Recombination x5 can one body all resilience levels. Slideshot and Killing Wind both boost OHKO range and do stack when both are active. Heritage’s base range stat is good enough to spec into a handling barrel and Assault mag (no range stat boost should be needed). tags:pvp
 dimwishlist:item=4248569242&perks=1840239774,791862061,3161816588,588594999
 dimwishlist:item=4248569242&perks=1840239774,791862061,3161816588,2450788523
 dimwishlist:item=4248569242&perks=1840239774,791862061,3161816588,469285294
@@ -2271,10 +2278,10 @@ dimwishlist:item=4248569242&perks=1840239774,791862061,3300816228,2450788523
 dimwishlist:item=4248569242&perks=1840239774,791862061,3300816228,469285294
 dimwishlist:item=4248569242&perks=1840239774,791862061,3300816228,957782887
 
-//notes: tags:pve,pvp
+//notes: Recombination x5 can one body all resilience levels. Slideshot and Killing Wind both boost OHKO range and do stack when both are active. Heritage’s base range stat is good enough to spec into a handling barrel and Assault mag (no range stat boost should be needed). tags:pve,pvp
 dimwishlist:item=4248569242&perks=1523832109,469285294
 
-//notes: tags:pvp
+//notes: Recombination x5 can one body all resilience levels. Slideshot and Killing Wind both boost OHKO range and do stack when both are active. Heritage’s base range stat is good enough to spec into a handling barrel and Assault mag (no range stat boost should be needed). tags:pvp
 dimwishlist:item=4248569242&perks=3161816588,588594999
 dimwishlist:item=4248569242&perks=3161816588,2450788523
 dimwishlist:item=4248569242&perks=3161816588,469285294

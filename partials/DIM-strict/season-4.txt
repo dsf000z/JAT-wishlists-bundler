@@ -4,7 +4,7 @@ title:Just Another Team
 dimwishlist:item=253196586&perks=13792278,1483536627,3300816228,2213355989
 dimwishlist:item=253196586&perks=13792279,1483536627,3300816228,2213355989
 
-//notes: tags:god-pvp
+//notes: The premier PvP fusion, with multiple excellent rolls. As long as you have a max zoom scope this gun can shine, but Firmly Planted + Rangefinder pushes the map range out the furthest with HIR offering a more forgiving weapon and Under Pressure being an excellent substitute for Firmly Planted. tags:god-pvp
 dimwishlist:item=253196586&perks=2405638014,2969185026,280464955,2846385770
 
 //notes: tags:pve
@@ -81,7 +81,7 @@ dimwishlist:item=253196586&perks=2405638015,689005463,4071163871,2213355989
 dimwishlist:item=253196586&perks=2405638015,689005463,4071163871,3425386926
 dimwishlist:item=253196586&perks=2405638015,689005463,4071163871,1015611457
 
-//notes: tags:pvp
+//notes: The premier PvP fusion, with multiple excellent rolls. As long as you have a max zoom scope this gun can shine, but Firmly Planted + Rangefinder pushes the map range out the furthest with HIR offering a more forgiving weapon and Under Pressure being an excellent substitute for Firmly Planted. tags:pvp
 dimwishlist:item=253196586&perks=2405638014,2969185026,280464955,2846385770
 dimwishlist:item=253196586&perks=2405638014,2969185026,280464955,2213355989
 dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,2846385770
@@ -99,11 +99,11 @@ dimwishlist:item=253196586&perks=2405638015,3868766766,280464955,2213355989
 dimwishlist:item=253196586&perks=2405638015,3868766766,1645158859,2846385770
 dimwishlist:item=253196586&perks=2405638015,3868766766,1645158859,2213355989
 
-//notes: tags:god-pvp
+//notes: Of the 140 HCs, Waking has a lower base range at 38 therefore it cannot really be a max range weapon, however, it does have great base handling. Due to the inability to fight at the extended ranges of 140s, sight choice can come down to which is preferred visually. Despite this, the sights which are normally ignored because of the stat penalties they incur (Sureshot & Crossfire) can be worth it to push the range out as far as possible. tags:god-pvp
 dimwishlist:item=334171687&perks=1926090094,1885400500,2846385770,47981717
 dimwishlist:item=334171687&perks=1926090093,1885400500,2846385770,47981717
 
-//notes: tags:god-pve
+//notes: 60 base reload + 10 from mag perk + 10/20/40 form vorpal would be sufficient for reloads. Outlaw would max out reload (+60) but its not as consistently proc’d in higher level content. tags:god-pve
 dimwishlist:item=334171687&perks=1926090094,3230963543,247725512,1546637391
 dimwishlist:item=334171687&perks=1926090094,3230963543,247725512,1015611457
 dimwishlist:item=334171687&perks=1926090094,3230963543,1168162263,1546637391
@@ -113,7 +113,7 @@ dimwishlist:item=334171687&perks=1926090095,3230963543,247725512,1015611457
 dimwishlist:item=334171687&perks=1926090095,3230963543,1168162263,1546637391
 dimwishlist:item=334171687&perks=1926090095,3230963543,1168162263,1015611457
 
-//notes: tags:pvp
+//notes: Of the 140 HCs, Waking has a lower base range at 38 therefore it cannot really be a max range weapon, however, it does have great base handling. Due to the inability to fight at the extended ranges of 140s, sight choice can come down to which is preferred visually. Despite this, the sights which are normally ignored because of the stat penalties they incur (Sureshot & Crossfire) can be worth it to push the range out as far as possible. tags:pvp
 dimwishlist:item=334171687&perks=1926090094,1885400500,2846385770,47981717
 dimwishlist:item=334171687&perks=1926090094,1885400500,2846385770,1015611457
 dimwishlist:item=334171687&perks=1926090094,1885400500,2846385770,1546637391
@@ -163,7 +163,7 @@ dimwishlist:item=334171687&perks=1926090092,1561002382,3161816588,47981717
 dimwishlist:item=334171687&perks=1926090092,1561002382,3161816588,1015611457
 dimwishlist:item=334171687&perks=1926090092,1561002382,3161816588,1546637391
 
-//notes: tags:pve
+//notes: 60 base reload + 10 from mag perk + 10/20/40 form vorpal would be sufficient for reloads. Outlaw would max out reload (+60) but its not as consistently proc’d in higher level content. tags:pve
 dimwishlist:item=334171687&perks=1926090094,3230963543,247725512,1546637391
 dimwishlist:item=334171687&perks=1926090094,3230963543,247725512,1015611457
 dimwishlist:item=334171687&perks=1926090094,3230963543,247725512,1683379515
@@ -276,7 +276,7 @@ dimwishlist:item=334171687&perks=1926090092,679225683,3436462433,1683379515
 //notes: tags:god-pvp
 dimwishlist:item=346136302&perks=1047830412,3142289711,706527188,957782887
 
-//notes: tags:god-pve
+//notes: Surrounded could be good but it’s activation range is so short. tags:god-pve
 dimwishlist:item=346136302&perks=1300023272,791862061,2869569095,1546637391
 
 //notes: tags:pvp
@@ -285,7 +285,7 @@ dimwishlist:item=346136302&perks=1047830412,3142289711,3161816588,957782887
 dimwishlist:item=346136302&perks=1047830412,791862061,706527188,957782887
 dimwishlist:item=346136302&perks=1047830412,791862061,3161816588,957782887
 
-//notes: tags:pve
+//notes: Surrounded could be good but it’s activation range is so short. tags:pve
 dimwishlist:item=346136302&perks=1300023272,791862061,2869569095,1546637391
 dimwishlist:item=346136302&perks=1300023272,791862061,2869569095,2679249093
 dimwishlist:item=346136302&perks=1300023272,791862061,2869569095,3523296417
@@ -341,7 +341,7 @@ dimwishlist:item=346136302&perks=4090651448,1087426260,3436462433,1546637391
 dimwishlist:item=346136302&perks=4090651448,1087426260,3436462433,2679249093
 dimwishlist:item=346136302&perks=4090651448,1087426260,3436462433,3523296417
 
-//notes: tags:god-pve,god-pvp
+//notes: Curated. Even though lightweight pulses struggle in PvE and PvP, the curated roll is a solid performer for the archetype. tags:god-pve,god-pvp
 dimwishlist:item=568515759&perks=4090651448,679225683,1015611457,2213355989
 
 //notes: tags:god-pvp
@@ -392,7 +392,7 @@ dimwishlist:item=568515759&perks=4090651448,1885400500,1168162263,2213355989
 dimwishlist:item=568515759&perks=4090651448,1885400500,4267945040,3425386926
 dimwishlist:item=568515759&perks=4090651448,1885400500,4267945040,2213355989
 
-//notes: tags:god-pve
+//notes: Curated tags:god-pve
 dimwishlist:item=601592879&perks=1467527085,679225683,1354429876,3425386926
 
 //notes: tags:god-pvp
@@ -730,7 +730,7 @@ dimwishlist:item=654370424&perks=3250034553,3142289711,47981717,3038247973
 //notes: tags:god-pve
 dimwishlist:item=654370424&perks=1840239774,106909392,1168162263,3038247973
 
-//notes: tags:pve
+//notes: Curated tags:pve
 dimwishlist:item=654370424&perks=202670084,679225683,1168162263,2848615171
 
 //notes: tags:pvp
@@ -865,10 +865,10 @@ dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,706527188
 dimwishlist:item=991314988&perks=981914802,2822142346,957782887,1275731761
 dimwishlist:item=991314988&perks=981914802,2822142346,957782887,706527188
 
-//notes: tags:pvp
+//notes: Curated tags:pvp
 dimwishlist:item=991314988&perks=1478423395,3796465595,3977735242,1275731761
 
-//notes: tags:god-pve
+//notes: PvP: It’s a sword, it doesn’t matter. tags:god-pve
 dimwishlist:item=1644160541&perks=3666208348,269888150,1749209109,3913600130
 
 //notes: tags:god-pve
@@ -1037,26 +1037,26 @@ dimwishlist:item=2009277538&perks=445755705,1968497646,706527188,1015611457
 dimwishlist:item=2009277538&perks=445755705,1968497646,706527188,2846385770
 dimwishlist:item=2009277538&perks=445755705,1968497646,706527188,1890422124
 
-//notes: tags:god-pvp
+//notes: Don’t use this rocket launcher. Just don’t. tags:god-pvp
 dimwishlist:item=2545083870&perks=1844523823,1996142143,3977735242,957782887
 
-//notes: tags:god-pve
+//notes: Don’t use this rocket launcher. Just don’t. tags:god-pve
 dimwishlist:item=2545083870&perks=3525010810,3796465595,2010801679,1015611457
 
-//notes: tags:pvp
+//notes: Don’t use this rocket launcher. Just don’t. tags:pvp
 dimwishlist:item=2545083870&perks=1844523823,1996142143,3977735242,957782887
 dimwishlist:item=2545083870&perks=1844523823,3796465595,3977735242,957782887
 dimwishlist:item=2545083870&perks=1478423395,1996142143,3977735242,957782887
 dimwishlist:item=2545083870&perks=1478423395,3796465595,3977735242,957782887
 
-//notes: tags:pve
+//notes: Don’t use this rocket launcher. Just don’t. tags:pve
 dimwishlist:item=2545083870&perks=3525010810,3796465595,2010801679,1015611457
 dimwishlist:item=2545083870&perks=981914802,3796465595,2010801679,1015611457
 
-//notes: tags:god-pve
+//notes: PvP: (don’t) tags:god-pve
 dimwishlist:item=2721249463&perks=2801223209,16392701,201365942,3365897133
 
-//notes: tags:pve
+//notes: PvP: (don’t) tags:pve
 dimwishlist:item=2721249463&perks=2801223209,16392701,201365942,3365897133
 dimwishlist:item=2721249463&perks=2801223209,3827198035,201365942,3365897133
 dimwishlist:item=2721249463&perks=4067834857,16392701,201365942,3365897133
@@ -1065,7 +1065,7 @@ dimwishlist:item=2721249463&perks=4067834857,3827198035,201365942,3365897133
 //notes: tags:god-pve
 dimwishlist:item=2957367743&perks=1300023272,791862061,2117683199,3425386926
 
-//notes: tags:god-pvp
+//notes: Unless you have a Worthy Variant Astral Horizon spec’d into Handling, this will be the fastest drawing Aggressive Frame shotgun one can get in the kinetic slot. tags:god-pvp
 dimwishlist:item=2957367743&perks=1047830412,3142289711,4071163871,957782887
 
 //notes: tags:pve
@@ -1088,7 +1088,7 @@ dimwishlist:item=2957367743&perks=4090651448,1087426260,2869569095,3425386926
 dimwishlist:item=2957367743&perks=4090651448,106909392,2117683199,3425386926
 dimwishlist:item=2957367743&perks=4090651448,106909392,2869569095,3425386926
 
-//notes: tags:pvp
+//notes: Unless you have a Worthy Variant Astral Horizon spec’d into Handling, this will be the fastest drawing Aggressive Frame shotgun one can get in the kinetic slot. tags:pvp
 dimwishlist:item=2957367743&perks=1047830412,3142289711,4071163871,957782887
 dimwishlist:item=2957367743&perks=1047830412,3142289711,4071163871,588594999
 dimwishlist:item=2957367743&perks=1047830412,3142289711,3161816588,957782887
@@ -1145,10 +1145,10 @@ dimwishlist:item=3169616514&perks=1482024992,3142289711,280464955,588594999
 //notes: tags:god-pvp
 dimwishlist:item=3242168339&perks=3250034553,3142289711,247725512,1546637391
 
-//notes: tags:god-pve
+//notes: Max ammo is known to be 20 [100 mag stat]. tags:god-pve
 dimwishlist:item=3242168339&perks=1840239774,106909392,247725512,3038247973
 
-//notes: tags:pve
+//notes: Max ammo is known to be 20 [100 mag stat]. tags:pve
 dimwishlist:item=3242168339&perks=1840239774,106909392,247725512,3038247973
 dimwishlist:item=3242168339&perks=1840239774,106909392,247725512,1546637391
 dimwishlist:item=3242168339&perks=1840239774,106909392,3436462433,3038247973
@@ -1200,7 +1200,7 @@ dimwishlist:item=3242168339&perks=4090651448,3142289711,2450788523,2458213969
 dimwishlist:item=3242168339&perks=4090651448,3142289711,1645158859,1546637391
 dimwishlist:item=3242168339&perks=4090651448,3142289711,1645158859,2458213969
 
-//notes: tags:pve
+//notes: Max ammo is known to be 20 [100 mag stat]. tags:pve
 dimwishlist:item=3242168339&perks=1840239774,106909392,247725512,3038247973
 dimwishlist:item=3242168339&perks=1840239774,106909392,247725512,1546637391
 dimwishlist:item=3242168339&perks=1840239774,106909392,3436462433,3038247973
@@ -1224,14 +1224,14 @@ dimwishlist:item=3297863558&perks=4090651448,1087426260,3436462433,1546637391
 dimwishlist:item=3297863558&perks=3250034553,3142289711,47981717,957782887
 dimwishlist:item=3297863558&perks=4090651448,3142289711,47981717,957782887
 
-//notes: tags:god-pvp
+//notes: Lower velocity results in better tracking. tags:god-pvp
 dimwishlist:item=3740842661&perks=3525010810,2822142346,3977735242,2396489472
 
 //notes: tags:god-pve
 dimwishlist:item=3740842661&perks=3525010810,3796465595,3300816228,1546637391
 dimwishlist:item=3740842661&perks=3525010810,3796465595,2869569095,1546637391
 
-//notes: tags:pvp
+//notes: Lower velocity results in better tracking. tags:pvp
 dimwishlist:item=3740842661&perks=3525010810,2822142346,3977735242,2396489472
 dimwishlist:item=3740842661&perks=3525010810,2822142346,3977735242,1546637391
 dimwishlist:item=3740842661&perks=981914802,2822142346,3977735242,2396489472
@@ -1283,21 +1283,21 @@ dimwishlist:item=3745990145&perks=893526892,3142289711,957782887,588594999
 dimwishlist:item=3799980700&perks=1840239774,3142289711,3425386926,1015611457
 dimwishlist:item=3799980700&perks=1840239774,4134353779,3425386926,1015611457
 
-//notes: tags:god-pve
+//notes: Curated tags:god-pve
 dimwishlist:item=3799980700&perks=1840239774,679225683,1168162263,3038247973
 
 //notes: tags:pve,pvp
 dimwishlist:item=3799980700&perks=1840239774,3142289711,3425386926,1015611457
 dimwishlist:item=3799980700&perks=1840239774,4134353779,3425386926,1015611457
 
-//notes: tags:god-pve
+//notes: In PvE, Seraph Carbine does everything this auto rifle does, and it makes Warmind Cells. tags:god-pve
 dimwishlist:item=3829285960&perks=2405638014,106909392,1168162263,3523296417
 dimwishlist:item=3829285960&perks=13792278,106909392,1168162263,3523296417
 
-//notes: tags:god-pvp
+//notes: In PvP this auto can get longer range than Braytech Werewolf due to the scopes, but be careful with using the Long Zoom scopes (Rifle Scope ST + SSF), as these can put the auto in Scout Rifle zoom levels. tags:god-pvp
 dimwishlist:item=3829285960&perks=2405638014,3142289711,280464955,588594999
 
-//notes: tags:pve
+//notes: In PvE, Seraph Carbine does everything this auto rifle does, and it makes Warmind Cells. tags:pve
 dimwishlist:item=3829285960&perks=2405638014,106909392,1168162263,3523296417
 dimwishlist:item=3829285960&perks=2405638014,106909392,1820235745,3523296417
 dimwishlist:item=3829285960&perks=2405638014,3230963543,1168162263,3523296417
@@ -1323,7 +1323,7 @@ dimwishlist:item=3829285960&perks=13792279,3230963543,1820235745,3523296417
 dimwishlist:item=3829285960&perks=13792279,1087426260,1168162263,3523296417
 dimwishlist:item=3829285960&perks=13792279,1087426260,1820235745,3523296417
 
-//notes: tags:pvp
+//notes: In PvP this auto can get longer range than Braytech Werewolf due to the scopes, but be careful with using the Long Zoom scopes (Rifle Scope ST + SSF), as these can put the auto in Scout Rifle zoom levels. tags:pvp
 dimwishlist:item=3829285960&perks=2405638014,3142289711,280464955,588594999
 dimwishlist:item=3829285960&perks=2405638014,3142289711,280464955,3523296417
 dimwishlist:item=3829285960&perks=2405638014,3142289711,1168162263,588594999
@@ -1415,13 +1415,13 @@ dimwishlist:item=4094657108&perks=3250034553,1687452232,1645158859,3425386926
 dimwishlist:item=4094657108&perks=3250034553,1687452232,1015611457,2213355989
 dimwishlist:item=4094657108&perks=3250034553,1687452232,1015611457,3425386926
 
-//notes: tags:god-pve
+//notes: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:god-pve
 dimwishlist:item=4146702548&perks=3525010810,3301904089,3300816228,706527188
 
-//notes: tags:god-pvp
+//notes: We want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:god-pvp
 dimwishlist:item=4146702548&perks=1844523823,409831596,4071163871,706527188
 
-//notes: tags:pve
+//notes: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:pve
 dimwishlist:item=4146702548&perks=3525010810,3301904089,3300816228,706527188
 dimwishlist:item=4146702548&perks=3525010810,3301904089,3300816228,3425386926
 dimwishlist:item=4146702548&perks=3525010810,3301904089,4071163871,706527188
@@ -1435,7 +1435,7 @@ dimwishlist:item=4146702548&perks=981914802,3301904089,4071163871,3425386926
 dimwishlist:item=4146702548&perks=981914802,3301904089,2869569095,706527188
 dimwishlist:item=4146702548&perks=981914802,3301904089,2869569095,3425386926
 
-//notes: tags:pvp
+//notes: We want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:pvp
 dimwishlist:item=4146702548&perks=1844523823,409831596,4071163871,706527188
 dimwishlist:item=4146702548&perks=1844523823,409831596,4071163871,3425386926
 dimwishlist:item=4146702548&perks=1844523823,409831596,2846385770,706527188

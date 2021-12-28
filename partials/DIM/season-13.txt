@@ -1,4 +1,5 @@
-title:Just Another Team
+title:Just Another Team's MnK rolls - Season 13
+description:Just Another Team's recommendations for Season 13. Recommended for Mouse and Keyboard.
 
 //notes: tags:god-pve
 dimwishlist:item=47772649&perks=1840239774,106909392,1168162263,4049631843
@@ -481,7 +482,7 @@ dimwishlist:item=432476743&perks=706527188,2846385770
 //notes: tags:god-pve
 dimwishlist:item=893527433&perks=1840239774,1087426260,3300816228,4104185692
 
-//notes: tags:god-pvp
+//notes: This sniper used to be excellent with Quickdraw, but with the changes removing the ads speed from Quickdraw it needs to be replaced. Surplus gives a handling increase, but it’s not the same as the old Quickdraw. If you’re getting your handling from other places, then Slideshot is best in slot for the range increase. tags:god-pvp
 dimwishlist:item=893527433&perks=3250034553,3142289711,3436462433,47981717
 
 //notes: tags:pve
@@ -510,13 +511,13 @@ dimwishlist:item=893527433&perks=4090651448,106909392,3300816228,3523296417
 dimwishlist:item=893527433&perks=4090651448,106909392,3436462433,4104185692
 dimwishlist:item=893527433&perks=4090651448,106909392,3436462433,3523296417
 
-//notes: tags:pvp
+//notes: This sniper used to be excellent with Quickdraw, but with the changes removing the ads speed from Quickdraw it needs to be replaced. Surplus gives a handling increase, but it’s not the same as the old Quickdraw. If you’re getting your handling from other places, then Slideshot is best in slot for the range increase. tags:pvp
 dimwishlist:item=893527433&perks=3250034553,3142289711,3436462433,47981717
 dimwishlist:item=893527433&perks=3250034553,3142289711,3161816588,47981717
 dimwishlist:item=893527433&perks=1840239774,3142289711,3436462433,47981717
 dimwishlist:item=893527433&perks=1840239774,3142289711,3161816588,47981717
 
-//notes: tags:pvp
+//notes: This sniper used to be excellent with Quickdraw, but with the changes removing the ads speed from Quickdraw it needs to be replaced. Surplus gives a handling increase, but it’s not the same as the old Quickdraw. If you’re getting your handling from other places, then Slideshot is best in slot for the range increase. tags:pvp
 dimwishlist:item=893527433&perks=3436462433,47981717
 dimwishlist:item=893527433&perks=3161816588,47981717
 
@@ -910,10 +911,10 @@ dimwishlist:item=1046651176&perks=3436462433,2848615171
 dimwishlist:item=1046651176&perks=3436462433,3592538738
 dimwishlist:item=1046651176&perks=3436462433,1683379515
 
-//notes: tags:god-pve
+//notes: Surplus + Frenzy combo buff handling, reload, stability (10/20/50) and damage, handing, reload respectively (20% buff, 30 stat points. This means you can get up to 80 stat points to handling and reload and 50 to stability. tags:god-pve
 dimwishlist:item=1097616550&perks=1840239774,106909392,3436462433,4104185692
 
-//notes: tags:god-pve
+//notes: Surplus + Frenzy combo buff handling, reload, stability (10/20/50) and damage, handing, reload respectively (20% buff, 30 stat points. This means you can get up to 80 stat points to handling and reload and 50 to stability. Overflow and MKC have very poor synergy with each other, with MKC unable to be procced while overflow is active. While these are both excellent perks, the combo is not worth keeping. tags:god-pve
 dimwishlist:item=1097616550&perks=1840239774,106909392,3436462433,4104185692
 dimwishlist:item=1097616550&perks=1840239774,106909392,3436462433,4049631843
 dimwishlist:item=1097616550&perks=1840239774,106909392,3643424744,4104185692
@@ -921,7 +922,7 @@ dimwishlist:item=1097616550&perks=1840239774,106909392,3643424744,4049631843
 dimwishlist:item=1097616550&perks=1840239774,106909392,1820235745,4104185692
 dimwishlist:item=1097616550&perks=1840239774,106909392,1820235745,4049631843
 
-//notes: tags:god-pve
+//notes: Surplus + Frenzy combo buff handling, reload, stability (10/20/50) and damage, handing, reload respectively (20% buff, 30 stat points. This means you can get up to 80 stat points to handling and reload and 50 to stability. Overflow and MKC have very poor synergy with each other, with MKC unable to be procced while overflow is active. While these are both excellent perks, the combo is not worth keeping. tags:god-pve
 dimwishlist:item=1097616550&perks=1840239774,106909392,3436462433,4104185692
 dimwishlist:item=1097616550&perks=1840239774,106909392,3436462433,2458213969
 dimwishlist:item=1097616550&perks=1840239774,106909392,3436462433,4049631843
@@ -938,7 +939,7 @@ dimwishlist:item=1097616550&perks=1840239774,3142289711,280464955,1890422124
 dimwishlist:item=1097616550&perks=4090651448,3142289711,280464955,1890422124
 dimwishlist:item=1097616550&perks=1392496348,3142289711,280464955,1890422124
 
-//notes: tags:pve
+//notes: Surplus + Frenzy combo buff handling, reload, stability (10/20/50) and damage, handing, reload respectively (20% buff, 30 stat points. This means you can get up to 80 stat points to handling and reload and 50 to stability. Overflow and MKC have very poor synergy with each other, with MKC unable to be procced while overflow is active. While these are both excellent perks, the combo is not worth keeping. tags:pve
 dimwishlist:item=1097616550&perks=1840239774,106909392,3436462433,4104185692
 dimwishlist:item=1097616550&perks=1840239774,106909392,3436462433,4049631843
 dimwishlist:item=1097616550&perks=1840239774,106909392,3436462433,3425386926
@@ -1036,7 +1037,7 @@ dimwishlist:item=1097616550&perks=4090651448,1087426260,1168162263,4049631843
 dimwishlist:item=1097616550&perks=4090651448,1087426260,1168162263,3425386926
 dimwishlist:item=1097616550&perks=4090651448,1087426260,1168162263,2726471870
 
-//notes: tags:pve
+//notes: Surplus + Frenzy combo buff handling, reload, stability (10/20/50) and damage, handing, reload respectively (20% buff, 30 stat points. This means you can get up to 80 stat points to handling and reload and 50 to stability. Overflow and MKC have very poor synergy with each other, with MKC unable to be procced while overflow is active. While these are both excellent perks, the combo is not worth keeping. tags:pve
 dimwishlist:item=1097616550&perks=1840239774,106909392,3436462433,4104185692
 dimwishlist:item=1097616550&perks=1840239774,106909392,3436462433,2458213969
 dimwishlist:item=1097616550&perks=1840239774,106909392,3436462433,4049631843
@@ -1131,7 +1132,7 @@ dimwishlist:item=1097616550&perks=4090651448,1087426260,1168162263,2726471870
 //notes: tags:pvp
 dimwishlist:item=1097616550&perks=280464955,1890422124
 
-//notes: tags:pve
+//notes: Surplus + Frenzy combo buff handling, reload, stability (10/20/50) and damage, handing, reload respectively (20% buff, 30 stat points. This means you can get up to 80 stat points to handling and reload and 50 to stability. Overflow and MKC have very poor synergy with each other, with MKC unable to be procced while overflow is active. While these are both excellent perks, the combo is not worth keeping. tags:pve
 dimwishlist:item=1097616550&perks=3436462433,4104185692
 dimwishlist:item=1097616550&perks=3436462433,4049631843
 dimwishlist:item=1097616550&perks=3436462433,3425386926
@@ -1149,7 +1150,7 @@ dimwishlist:item=1097616550&perks=1168162263,4049631843
 dimwishlist:item=1097616550&perks=1168162263,3425386926
 dimwishlist:item=1097616550&perks=1168162263,2726471870
 
-//notes: tags:pve
+//notes: Surplus + Frenzy combo buff handling, reload, stability (10/20/50) and damage, handing, reload respectively (20% buff, 30 stat points. This means you can get up to 80 stat points to handling and reload and 50 to stability. Overflow and MKC have very poor synergy with each other, with MKC unable to be procced while overflow is active. While these are both excellent perks, the combo is not worth keeping. tags:pve
 dimwishlist:item=1097616550&perks=3436462433,4104185692
 dimwishlist:item=1097616550&perks=3436462433,2458213969
 dimwishlist:item=1097616550&perks=3436462433,4049631843
@@ -1170,10 +1171,10 @@ dimwishlist:item=1097616550&perks=1168162263,2726471870
 dimwishlist:item=1173780905&perks=1840239774,1087426260,247725512,4049631843
 dimwishlist:item=1173780905&perks=1840239774,1087426260,247725512,4104185692
 
-//notes: tags:god-pvp
+//notes: Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO. tags:god-pvp
 dimwishlist:item=1173780905&perks=3250034553,1885400500,247725512,3047969693
 
-//notes: tags:pve,pvp
+//notes: Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO. tags:pve,pvp
 dimwishlist:item=1173780905&perks=1840239774,679225683,247725512,1015611457
 dimwishlist:item=1173780905&perks=1840239774,679225683,1168162263,1015611457
 dimwishlist:item=1173780905&perks=1840239774,1561002382,247725512,1015611457
@@ -1239,7 +1240,7 @@ dimwishlist:item=1173780905&perks=4090651448,1561002382,1168162263,4049631843
 dimwishlist:item=1173780905&perks=4090651448,1561002382,1168162263,4104185692
 dimwishlist:item=1173780905&perks=4090651448,1561002382,1168162263,1015611457
 
-//notes: tags:pvp
+//notes: Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO. tags:pvp
 dimwishlist:item=1173780905&perks=3250034553,1885400500,247725512,3047969693
 dimwishlist:item=1173780905&perks=3250034553,1885400500,247725512,1015611457
 dimwishlist:item=1173780905&perks=3250034553,1885400500,1168162263,3047969693
@@ -1305,7 +1306,7 @@ dimwishlist:item=1173780905&perks=1840239774,1968497646,2450788523,1015611457
 dimwishlist:item=1173780905&perks=1840239774,1968497646,588594999,3047969693
 dimwishlist:item=1173780905&perks=1840239774,1968497646,588594999,1015611457
 
-//notes: tags:pve,pvp
+//notes: Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO. tags:pve,pvp
 dimwishlist:item=1173780905&perks=247725512,1015611457
 dimwishlist:item=1173780905&perks=1168162263,1015611457
 
@@ -1317,7 +1318,7 @@ dimwishlist:item=1173780905&perks=1168162263,4049631843
 dimwishlist:item=1173780905&perks=1168162263,4104185692
 dimwishlist:item=1173780905&perks=1168162263,1015611457
 
-//notes: tags:pvp
+//notes: Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO. tags:pvp
 dimwishlist:item=1173780905&perks=247725512,3047969693
 dimwishlist:item=1173780905&perks=247725512,1015611457
 dimwishlist:item=1173780905&perks=1168162263,3047969693
@@ -1327,10 +1328,10 @@ dimwishlist:item=1173780905&perks=2450788523,1015611457
 dimwishlist:item=1173780905&perks=588594999,3047969693
 dimwishlist:item=1173780905&perks=588594999,1015611457
 
-//notes: tags:god-pve
+//notes: PvP: It’s a sword in PvP.  tags:god-pve
 dimwishlist:item=1313528549&perks=3666208348,269888150,1749209109,1546637391
 
-//notes: tags:pve
+//notes: PvP: It’s a sword in PvP.  tags:pve
 dimwishlist:item=1313528549&perks=3666208348,269888150,1749209109,1546637391
 dimwishlist:item=1313528549&perks=3666208348,269888150,1749209109,4104185692
 dimwishlist:item=1313528549&perks=3666208348,269888150,2590710093,1546637391
@@ -1340,7 +1341,7 @@ dimwishlist:item=1313528549&perks=3666208348,52780822,1749209109,4104185692
 dimwishlist:item=1313528549&perks=3666208348,52780822,2590710093,1546637391
 dimwishlist:item=1313528549&perks=3666208348,52780822,2590710093,4104185692
 
-//notes: tags:pve
+//notes: PvP: It’s a sword in PvP.  tags:pve
 dimwishlist:item=1313528549&perks=1749209109,1546637391
 dimwishlist:item=1313528549&perks=1749209109,4104185692
 dimwishlist:item=1313528549&perks=2590710093,1546637391
@@ -1514,6 +1515,22 @@ dimwishlist:item=1481892490&perks=2450788523,2846385770
 dimwishlist:item=1481892490&perks=3643424744,2846385770
 dimwishlist:item=1481892490&perks=1168162263,2846385770
 dimwishlist:item=1481892490&perks=706527188,2846385770
+
+//notes: Which perks you choose for Salvagers Salvo in PvE is down to the situation. Chain Reaction for add clear and Vorpal for boss damage. Chosing between Demo and Ambitious Assassin is more difficult, as both are pretty good for add clear - but Demo is the clear winner for Boss damage. tags:god-pve,pvp
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,2396489472
+
+//notes: Which perks you choose for Salvagers Salvo in PvE is down to the situation. Chain Reaction for add clear and Vorpal for boss damage. Chosing between Demo and Ambitious Assassin is more difficult, as both are pretty good for add clear - but Demo is the clear winner for Boss damage. tags:god-pvp,pve
+dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472
+
+//notes: Which perks you choose for Salvagers Salvo in PvE is down to the situation. Chain Reaction for add clear and Vorpal for boss damage. Chosing between Demo and Ambitious Assassin is more difficult, as both are pretty good for add clear - but Demo is the clear winner for Boss damage. tags:pvp,pve
+dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,2396489472
+
+//notes: Which perks you choose for Salvagers Salvo in PvE is down to the situation. Chain Reaction for add clear and Vorpal for boss damage. Chosing between Demo and Ambitious Assassin is more difficult, as both are pretty good for add clear - but Demo is the clear winner for Boss damage. tags:pve
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,2396489472
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391
+dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472
+dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,1546637391
 
 //notes: tags:god-pve
 dimwishlist:item=2121785039&perks=1840239774,1087426260,3436462433,4049631843
@@ -2642,14 +2659,14 @@ dimwishlist:item=2633186522&perks=3643424744,4049631843
 dimwishlist:item=2633186522&perks=3643424744,4082225868
 dimwishlist:item=2633186522&perks=3643424744,2848615171
 
-//notes: tags:god-pve
+//notes: Frenzy and Vorpal now give the same damage bonus (15%), so it’s your choice which perk. Vorpal affects majors [champs] and bosses, Frenzy affects all enemies and gives a +50 stat bonus to reload speed but takes some time to proc. tags:god-pve
 dimwishlist:item=3075224551&perks=1840239774,1687452232,247725512,1546637391
 dimwishlist:item=3075224551&perks=1840239774,1687452232,3300816228,1546637391
 
 //notes: tags:god-pvp
 dimwishlist:item=3075224551&perks=3250034553,2969185026,2450788523,3523296417
 
-//notes: tags:pve
+//notes: Frenzy and Vorpal now give the same damage bonus (15%), so it’s your choice which perk. Vorpal affects majors [champs] and bosses, Frenzy affects all enemies and gives a +50 stat bonus to reload speed but takes some time to proc. tags:pve
 dimwishlist:item=3075224551&perks=1840239774,1687452232,247725512,1546637391
 dimwishlist:item=3075224551&perks=1840239774,1687452232,247725512,3523296417
 dimwishlist:item=3075224551&perks=1840239774,1687452232,247725512,4104185692
@@ -2694,7 +2711,7 @@ dimwishlist:item=3075224551&perks=4090651448,2969185026,2450788523,3523296417
 //notes: tags:pvp
 dimwishlist:item=3075224551&perks=2450788523,3523296417
 
-//notes: tags:pve
+//notes: Frenzy and Vorpal now give the same damage bonus (15%), so it’s your choice which perk. Vorpal affects majors [champs] and bosses, Frenzy affects all enemies and gives a +50 stat bonus to reload speed but takes some time to proc. tags:pve
 dimwishlist:item=3075224551&perks=247725512,1546637391
 dimwishlist:item=3075224551&perks=247725512,3523296417
 dimwishlist:item=3075224551&perks=247725512,4104185692
@@ -3097,7 +3114,7 @@ dimwishlist:item=3460122497&perks=201365942,3592538738
 dimwishlist:item=3473290087&perks=1840239774,1087426260,3300816228,1546637391
 dimwishlist:item=3473290087&perks=1840239774,1087426260,3400784728,1546637391
 
-//notes: tags:god-pvp
+//notes: This sniper has some interesting rolls. With KC and MKC it can get ohk body shots, and Vorpal makes it one of the ways to counter a behemoth super. However, these all roll in the same slot as the handling perks, so you are giving up better ads and feel for these build perks. tags:god-pvp
 dimwishlist:item=3473290087&perks=3250034553,3142289711,588594999,957782887
 
 //notes: tags:pve
@@ -3174,7 +3191,7 @@ dimwishlist:item=3473290087&perks=4090651448,106909392,2284787283,1546637391
 dimwishlist:item=3473290087&perks=4090651448,106909392,2284787283,3523296417
 dimwishlist:item=3473290087&perks=4090651448,106909392,2284787283,2213355989
 
-//notes: tags:pvp
+//notes: This sniper has some interesting rolls. With KC and MKC it can get ohk body shots, and Vorpal makes it one of the ways to counter a behemoth super. However, these all roll in the same slot as the handling perks, so you are giving up better ads and feel for these build perks. tags:pvp
 dimwishlist:item=3473290087&perks=3250034553,3142289711,588594999,957782887
 dimwishlist:item=3473290087&perks=3250034553,3142289711,588594999,47981717
 dimwishlist:item=3473290087&perks=3250034553,3142289711,588594999,1015611457
@@ -3238,7 +3255,7 @@ dimwishlist:item=3473290087&perks=2284787283,1546637391
 dimwishlist:item=3473290087&perks=2284787283,3523296417
 dimwishlist:item=3473290087&perks=2284787283,2213355989
 
-//notes: tags:pvp
+//notes: This sniper has some interesting rolls. With KC and MKC it can get ohk body shots, and Vorpal makes it one of the ways to counter a behemoth super. However, these all roll in the same slot as the handling perks, so you are giving up better ads and feel for these build perks. tags:pvp
 dimwishlist:item=3473290087&perks=588594999,957782887
 dimwishlist:item=3473290087&perks=588594999,47981717
 dimwishlist:item=3473290087&perks=588594999,1015611457
@@ -3409,13 +3426,13 @@ dimwishlist:item=3514096004&perks=2450788523,1015611457
 dimwishlist:item=3514096004&perks=3161816588,1015611457
 dimwishlist:item=3514096004&perks=706527188,1015611457
 
-//notes: tags:god-pve
+//notes: Scopes affect zoom which has a massive effect on drop off. Red Dot Micro is best in slot. tags:god-pve
 dimwishlist:item=3593598010&perks=2405638014,1087426260,2779035018,4049631843
 
-//notes: tags:god-pvp
+//notes: Scopes affect zoom which has a massive effect on drop off. Red Dot Micro is best in slot. tags:god-pvp
 dimwishlist:item=3593598010&perks=2405638014,1885400500,588594999,3425386926
 
-//notes: tags:pve
+//notes: Scopes affect zoom which has a massive effect on drop off. Red Dot Micro is best in slot. tags:pve
 dimwishlist:item=3593598010&perks=2405638014,1087426260,2779035018,4049631843
 dimwishlist:item=3593598010&perks=2405638014,1087426260,2779035018,3425386926
 dimwishlist:item=3593598010&perks=2405638014,1561002382,2779035018,4049631843
@@ -3441,7 +3458,7 @@ dimwishlist:item=3593598010&perks=13792279,1561002382,2779035018,3425386926
 dimwishlist:item=3593598010&perks=13792279,3230963543,2779035018,4049631843
 dimwishlist:item=3593598010&perks=13792279,3230963543,2779035018,3425386926
 
-//notes: tags:pvp
+//notes: Scopes affect zoom which has a massive effect on drop off. Red Dot Micro is best in slot. tags:pvp
 dimwishlist:item=3593598010&perks=2405638014,1885400500,588594999,3425386926
 dimwishlist:item=3593598010&perks=2405638014,1885400500,588594999,11551321
 dimwishlist:item=3593598010&perks=2405638014,1885400500,1645158859,3425386926
@@ -3467,11 +3484,11 @@ dimwishlist:item=3593598010&perks=2405638015,1561002382,1645158859,11551321
 dimwishlist:item=3593598010&perks=2405638015,1561002382,706527188,3425386926
 dimwishlist:item=3593598010&perks=2405638015,1561002382,706527188,11551321
 
-//notes: tags:pve
+//notes: Scopes affect zoom which has a massive effect on drop off. Red Dot Micro is best in slot. tags:pve
 dimwishlist:item=3593598010&perks=2779035018,4049631843
 dimwishlist:item=3593598010&perks=2779035018,3425386926
 
-//notes: tags:pvp
+//notes: Scopes affect zoom which has a massive effect on drop off. Red Dot Micro is best in slot. tags:pvp
 dimwishlist:item=3593598010&perks=588594999,3425386926
 dimwishlist:item=3593598010&perks=588594999,11551321
 dimwishlist:item=3593598010&perks=1645158859,3425386926
@@ -3479,19 +3496,19 @@ dimwishlist:item=3593598010&perks=1645158859,11551321
 dimwishlist:item=3593598010&perks=706527188,3425386926
 dimwishlist:item=3593598010&perks=706527188,11551321
 
-//notes: tags:god-pvp
+//notes: Really, only vorpal matters, then I would prioritize handling and recoil direction. Base range 71M (64 range stat) max range 76.6M (86 range stat) 81.8M+ maxed stat (86 stat and Killing Wind Active). tags:god-pvp
 dimwishlist:item=3654674561&perks=1840239774,1885400500,1546637391,1067908860
 
 //notes: tags:god-pve
 dimwishlist:item=3654674561&perks=1840239774,3230963543,1546637391,1067908860
 
-//notes: tags:pvp,pve
+//notes: Really, only vorpal matters, then I would prioritize handling and recoil direction. Base range 71M (64 range stat) max range 76.6M (86 range stat) 81.8M+ maxed stat (86 stat and Killing Wind Active). tags:pvp,pve
 dimwishlist:item=3654674561&perks=1840239774,1561002382,1546637391,1067908860
 dimwishlist:item=3654674561&perks=1840239774,1561002382,1546637391,3465198467
 dimwishlist:item=3654674561&perks=4090651448,1561002382,1546637391,1067908860
 dimwishlist:item=3654674561&perks=4090651448,1561002382,1546637391,3465198467
 
-//notes: tags:pvp
+//notes: Really, only vorpal matters, then I would prioritize handling and recoil direction. Base range 71M (64 range stat) max range 76.6M (86 range stat) 81.8M+ maxed stat (86 stat and Killing Wind Active). tags:pvp
 dimwishlist:item=3654674561&perks=1840239774,1885400500,1546637391,1067908860
 dimwishlist:item=3654674561&perks=1840239774,1885400500,1546637391,3465198467
 dimwishlist:item=3654674561&perks=1840239774,1561002382,1546637391,1067908860
@@ -3537,7 +3554,7 @@ dimwishlist:item=3654674561&perks=3250034553,1561002382,1546637391,3465198467
 dimwishlist:item=3654674561&perks=3250034553,679225683,1546637391,1067908860
 dimwishlist:item=3654674561&perks=3250034553,679225683,1546637391,3465198467
 
-//notes: tags:pvp,pve
+//notes: Really, only vorpal matters, then I would prioritize handling and recoil direction. Base range 71M (64 range stat) max range 76.6M (86 range stat) 81.8M+ maxed stat (86 stat and Killing Wind Active). tags:pvp,pve
 dimwishlist:item=3654674561&perks=1546637391,1067908860
 dimwishlist:item=3654674561&perks=1546637391,3465198467
 
@@ -3545,10 +3562,10 @@ dimwishlist:item=3654674561&perks=1546637391,3465198467
 dimwishlist:item=3658188704&perks=1840239774,1087426260,247725512,4049631843
 dimwishlist:item=3658188704&perks=1840239774,1087426260,247725512,4104185692
 
-//notes: tags:god-pvp
+//notes: Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO. tags:god-pvp
 dimwishlist:item=3658188704&perks=3250034553,1885400500,247725512,3047969693
 
-//notes: tags:pve,pvp
+//notes: Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO. tags:pve,pvp
 dimwishlist:item=3658188704&perks=3250034553,679225683,247725512,1015611457
 dimwishlist:item=3658188704&perks=3250034553,679225683,1168162263,1015611457
 dimwishlist:item=3658188704&perks=3250034553,1561002382,247725512,1015611457
@@ -3614,7 +3631,7 @@ dimwishlist:item=3658188704&perks=4090651448,1561002382,1168162263,4049631843
 dimwishlist:item=3658188704&perks=4090651448,1561002382,1168162263,4104185692
 dimwishlist:item=3658188704&perks=4090651448,1561002382,1168162263,1015611457
 
-//notes: tags:pvp
+//notes: Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO. tags:pvp
 dimwishlist:item=3658188704&perks=3250034553,1885400500,247725512,3047969693
 dimwishlist:item=3658188704&perks=3250034553,1885400500,247725512,1015611457
 dimwishlist:item=3658188704&perks=3250034553,1885400500,1168162263,3047969693
@@ -3680,7 +3697,7 @@ dimwishlist:item=3658188704&perks=1840239774,1968497646,2450788523,1015611457
 dimwishlist:item=3658188704&perks=1840239774,1968497646,588594999,3047969693
 dimwishlist:item=3658188704&perks=1840239774,1968497646,588594999,1015611457
 
-//notes: tags:pve,pvp
+//notes: Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO. tags:pve,pvp
 dimwishlist:item=3658188704&perks=247725512,1015611457
 dimwishlist:item=3658188704&perks=1168162263,1015611457
 
@@ -3692,7 +3709,7 @@ dimwishlist:item=3658188704&perks=1168162263,4049631843
 dimwishlist:item=3658188704&perks=1168162263,4104185692
 dimwishlist:item=3658188704&perks=1168162263,1015611457
 
-//notes: tags:pvp
+//notes: Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos. GET THIS GUN WITH DESPERADO. tags:pvp
 dimwishlist:item=3658188704&perks=247725512,3047969693
 dimwishlist:item=3658188704&perks=247725512,1015611457
 dimwishlist:item=3658188704&perks=1168162263,3047969693
@@ -3702,13 +3719,13 @@ dimwishlist:item=3658188704&perks=2450788523,1015611457
 dimwishlist:item=3658188704&perks=588594999,3047969693
 dimwishlist:item=3658188704&perks=588594999,1015611457
 
-//notes: tags:god-pve
+//notes: The medium zoom scopes add +3 / 4 to zoom which has a massive impact on damage drop off. Model 8 Red pushes it to 17 zoom which makes this the best in slot SMG by a long shot (get it? Because it has more range?) pushing a 60 stat SMG to 20M base range. tags:god-pve
 dimwishlist:item=3717177717&perks=663495154,106909392,1820235745,4049631843
 
-//notes: tags:god-pvp
+//notes: The medium zoom scopes add +3 / 4 to zoom which has a massive impact on damage drop off. Model 8 Red pushes it to 17 zoom which makes this the best in slot SMG by a long shot (get it? Because it has more range?) pushing a 60 stat SMG to 20M base range. Deciding between Kill Clip and Iron Reach comes down to deciding what you want your smg to be. Iron Reach gives it an extra 3m of range (and with smgs, every metre counts) making it a better dueling weapon, while Kill Clip’s damage buff gives it a nutty ttk and an excellent snowball machine. tags:god-pvp
 dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,591790007
 
-//notes: tags:pve
+//notes: The medium zoom scopes add +3 / 4 to zoom which has a massive impact on damage drop off. Model 8 Red pushes it to 17 zoom which makes this the best in slot SMG by a long shot (get it? Because it has more range?) pushing a 60 stat SMG to 20M base range. tags:pve
 dimwishlist:item=3717177717&perks=663495154,106909392,1820235745,4049631843
 dimwishlist:item=3717177717&perks=663495154,106909392,1820235745,1015611457
 dimwishlist:item=3717177717&perks=663495154,106909392,4071163871,4049631843
@@ -3718,7 +3735,7 @@ dimwishlist:item=3717177717&perks=663495154,1087426260,1820235745,1015611457
 dimwishlist:item=3717177717&perks=663495154,1087426260,4071163871,4049631843
 dimwishlist:item=3717177717&perks=663495154,1087426260,4071163871,1015611457
 
-//notes: tags:pvp
+//notes: The medium zoom scopes add +3 / 4 to zoom which has a massive impact on damage drop off. Model 8 Red pushes it to 17 zoom which makes this the best in slot SMG by a long shot (get it? Because it has more range?) pushing a 60 stat SMG to 20M base range. Deciding between Kill Clip and Iron Reach comes down to deciding what you want your smg to be. Iron Reach gives it an extra 3m of range (and with smgs, every metre counts) making it a better dueling weapon, while Kill Clip’s damage buff gives it a nutty ttk and an excellent snowball machine. tags:pvp
 dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,591790007
 dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,1015611457
 dimwishlist:item=3717177717&perks=663495154,3142289711,1359896290,591790007
@@ -3726,13 +3743,13 @@ dimwishlist:item=3717177717&perks=663495154,3142289711,1359896290,1015611457
 dimwishlist:item=3717177717&perks=663495154,3142289711,706527188,591790007
 dimwishlist:item=3717177717&perks=663495154,3142289711,706527188,1015611457
 
-//notes: tags:pve
+//notes: The medium zoom scopes add +3 / 4 to zoom which has a massive impact on damage drop off. Model 8 Red pushes it to 17 zoom which makes this the best in slot SMG by a long shot (get it? Because it has more range?) pushing a 60 stat SMG to 20M base range. tags:pve
 dimwishlist:item=3717177717&perks=1820235745,4049631843
 dimwishlist:item=3717177717&perks=1820235745,1015611457
 dimwishlist:item=3717177717&perks=4071163871,4049631843
 dimwishlist:item=3717177717&perks=4071163871,1015611457
 
-//notes: tags:pvp
+//notes: The medium zoom scopes add +3 / 4 to zoom which has a massive impact on damage drop off. Model 8 Red pushes it to 17 zoom which makes this the best in slot SMG by a long shot (get it? Because it has more range?) pushing a 60 stat SMG to 20M base range. Deciding between Kill Clip and Iron Reach comes down to deciding what you want your smg to be. Iron Reach gives it an extra 3m of range (and with smgs, every metre counts) making it a better dueling weapon, while Kill Clip’s damage buff gives it a nutty ttk and an excellent snowball machine. tags:pvp
 dimwishlist:item=3717177717&perks=2450788523,591790007
 dimwishlist:item=3717177717&perks=2450788523,1015611457
 dimwishlist:item=3717177717&perks=1359896290,591790007
@@ -3740,14 +3757,14 @@ dimwishlist:item=3717177717&perks=1359896290,1015611457
 dimwishlist:item=3717177717&perks=706527188,591790007
 dimwishlist:item=3717177717&perks=706527188,1015611457
 
-//notes: tags:god-pve
+//notes: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:god-pve
 dimwishlist:item=3836861464&perks=1840239774,106909392,1168162263,4049631843
 dimwishlist:item=3836861464&perks=1840239774,106909392,1168162263,1546637391
 
-//notes: tags:god-pvp
+//notes: We want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:god-pvp
 dimwishlist:item=3836861464&perks=3250034553,3142289711,1359896290,1890422124
 
-//notes: tags:pve
+//notes: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:pve
 dimwishlist:item=3836861464&perks=1840239774,106909392,1168162263,4049631843
 dimwishlist:item=3836861464&perks=1840239774,106909392,1168162263,1546637391
 dimwishlist:item=3836861464&perks=1840239774,106909392,1168162263,2848615171
@@ -3785,16 +3802,16 @@ dimwishlist:item=3836861464&perks=4090651448,1087426260,3436462433,4049631843
 dimwishlist:item=3836861464&perks=4090651448,1087426260,3436462433,1546637391
 dimwishlist:item=3836861464&perks=4090651448,1087426260,3436462433,2848615171
 
-//notes: tags:pvp
+//notes: We want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:pvp
 dimwishlist:item=3836861464&perks=3250034553,3142289711,1359896290,1890422124
 dimwishlist:item=3836861464&perks=3250034553,3142289711,2450788523,1890422124
 dimwishlist:item=3836861464&perks=1840239774,3142289711,1359896290,1890422124
 dimwishlist:item=3836861464&perks=1840239774,3142289711,2450788523,1890422124
 
-//notes: tags:god-pve
+//notes: PvP: It’s a sword in PvP.  tags:god-pve
 dimwishlist:item=3847137620&perks=3666208348,269888150,1749209109,1546637391
 
-//notes: tags:pve
+//notes: PvP: It’s a sword in PvP.  tags:pve
 dimwishlist:item=3847137620&perks=3666208348,269888150,1749209109,1546637391
 dimwishlist:item=3847137620&perks=3666208348,269888150,1749209109,4104185692
 dimwishlist:item=3847137620&perks=3666208348,269888150,2590710093,1546637391
@@ -3804,7 +3821,7 @@ dimwishlist:item=3847137620&perks=3666208348,52780822,1749209109,4104185692
 dimwishlist:item=3847137620&perks=3666208348,52780822,2590710093,1546637391
 dimwishlist:item=3847137620&perks=3666208348,52780822,2590710093,4104185692
 
-//notes: tags:pve
+//notes: PvP: It’s a sword in PvP.  tags:pve
 dimwishlist:item=3847137620&perks=1749209109,1546637391
 dimwishlist:item=3847137620&perks=1749209109,4104185692
 dimwishlist:item=3847137620&perks=2590710093,1546637391
