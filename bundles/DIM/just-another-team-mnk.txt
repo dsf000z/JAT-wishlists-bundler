@@ -12629,6 +12629,9 @@ dimwishlist:item=2351180975&perks=3643424744,3425386926
 dimwishlist:item=2351180975&perks=1168162263,4049631843
 dimwishlist:item=2351180975&perks=1168162263,3425386926
 
+//notes: Second half of the Sturm exotic. tags:god-pvp,god-pve
+dimwishlist:item=2362471600&perks=1482024992,3425386926,588594999,3142289711
+
 //notes: tags:god-pve
 dimwishlist:item=2386979999&perks=1840239774,1087426260,4267945040,1546637391
 
@@ -16822,6 +16825,9 @@ dimwishlist:item=3075224551&perks=2869569095,4104185692
 dimwishlist:item=3075224551&perks=2284787283,1546637391
 dimwishlist:item=3075224551&perks=2284787283,3523296417
 dimwishlist:item=3075224551&perks=2284787283,4104185692
+
+//notes: Second half of the Mida Multi-Tool exotic. tags:god-pve,god-pvp
+dimwishlist:item=3089417788&perks=1840239774,1431678320,1866048759,1015611457
 
 //notes: Roll recommendations from Azared, Alpharius and BeenLab. tags:god-pve
 dimwishlist:item=3143732432&perks=1840239774,1087426260,1820235745,3425386926
