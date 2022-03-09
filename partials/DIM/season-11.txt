@@ -787,7 +787,7 @@ dimwishlist:item=2742490609&perks=2779035018,1683379515
 dimwishlist:item=2742490609&perks=3300816228,2848615171
 dimwishlist:item=2742490609&perks=3300816228,1683379515
 
-//notes: Roll recommendations from Azared, Alpharius and BeenLab. tags:god-pve
+//notes: tags:god-pve
 dimwishlist:item=3143732432&perks=1840239774,1087426260,1820235745,3425386926
 
 //notes: tags:god-pvp
