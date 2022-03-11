@@ -872,19 +872,19 @@ dimwishlist:item=991314988&perks=1478423395,3796465595,3977735242,1275731761
 //notes: PvP: It’s a sword, it doesn’t matter. tags:god-pve
 dimwishlist:item=1644160541&perks=3666208348,269888150,1749209109,3913600130
 
-//notes: tags:god-pve
+//notes: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:god-pve
 dimwishlist:item=1972985595&perks=3525010810,3301904089,3300816228,2010801679
 
-//notes: tags:god-pvp
+//notes: we want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:god-pvp
 dimwishlist:item=1972985595&perks=1844523823,409831596,4071163871,706527188
 
-//notes: tags:pve
+//notes: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:pve
 dimwishlist:item=1972985595&perks=3525010810,3301904089,3300816228,2010801679
 dimwishlist:item=1972985595&perks=3525010810,3301904089,2869569095,2010801679
 dimwishlist:item=1972985595&perks=981914802,3301904089,3300816228,2010801679
 dimwishlist:item=1972985595&perks=981914802,3301904089,2869569095,2010801679
 
-//notes: tags:pvp
+//notes: we want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:pvp
 dimwishlist:item=1972985595&perks=1844523823,409831596,4071163871,706527188
 dimwishlist:item=1972985595&perks=1844523823,409831596,4071163871,3425386926
 dimwishlist:item=1972985595&perks=3525010810,409831596,4071163871,706527188

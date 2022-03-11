@@ -3178,14 +3178,14 @@ dimwishlist:item=3717177717&perks=663495154,3142289711,1359896290,1015611457
 dimwishlist:item=3717177717&perks=663495154,3142289711,706527188,591790007
 dimwishlist:item=3717177717&perks=663495154,3142289711,706527188,1015611457
 
-//notes: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:god-pve
+//notes: tags:god-pve
 dimwishlist:item=3836861464&perks=1840239774,106909392,1168162263,4049631843
 dimwishlist:item=3836861464&perks=1840239774,106909392,1168162263,1546637391
 
-//notes: We want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:god-pvp
+//notes: tags:god-pvp
 dimwishlist:item=3836861464&perks=3250034553,3142289711,1359896290,1890422124
 
-//notes: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:pve
+//notes: tags:pve
 dimwishlist:item=3836861464&perks=1840239774,106909392,1168162263,4049631843
 dimwishlist:item=3836861464&perks=1840239774,106909392,1168162263,1546637391
 dimwishlist:item=3836861464&perks=1840239774,106909392,1168162263,2848615171
@@ -3223,7 +3223,7 @@ dimwishlist:item=3836861464&perks=4090651448,1087426260,3436462433,4049631843
 dimwishlist:item=3836861464&perks=4090651448,1087426260,3436462433,1546637391
 dimwishlist:item=3836861464&perks=4090651448,1087426260,3436462433,2848615171
 
-//notes: We want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:pvp
+//notes: tags:pvp
 dimwishlist:item=3836861464&perks=3250034553,3142289711,1359896290,1890422124
 dimwishlist:item=3836861464&perks=3250034553,3142289711,2450788523,1890422124
 dimwishlist:item=3836861464&perks=1840239774,3142289711,1359896290,1890422124
