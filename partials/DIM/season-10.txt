@@ -1896,11 +1896,11 @@ dimwishlist:item=3164743584&perks=2869569095,1546637391
 //notes: Worthy Variant tags:pvp
 dimwishlist:item=3164743584&perks=957782887,47981717
 
-//notes: Excellent for champion stunning and general use in High Level PvE (GMs, Master Content, etc), terrible in every way for PvP. tags:god-pve
+//notes: Excellent for champion stunning and general use in High Level PvE (GMs, Master Content, etc) tags:god-pve
 dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391
 
-//notes: Excellent for champion stunning and general use in High Level PvE (GMs, Master Content, etc), terrible in every way for PvP. tags:god-pvp
-dimwishlist:item=3434944005&perks=2801223209,1500996326,2866798147,699525795
+//notes: Excellent for champion stunning and general use in High Level PvE (GMs, Master Content, etc) tags:god-pvp
+dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,699525795
 
 //notes: tags:god-pve
 dimwishlist:item=3937866388&perks=1840239774,106909392,3523296417,1546637391
