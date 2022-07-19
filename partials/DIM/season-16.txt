@@ -13,7 +13,7 @@ dimwishlist:item=46524085&perks=1840239774,106909392,4015745376,1067908860
 //notes: tags:god-pvp
 dimwishlist:item=46524085&perks=3250034553,3142289711,4015745376,1067908860
 
-//notes: While Under Your Skin rolls the classic combo of Archers Tempo + Explosive Head, it might be worth for some people to forgo the slight damage increase of Explosive and instead go for an Adaptive Munitions roll. This perk allows the bow to essentially ignore Match Game, as it gives an eventual 600% damage increase against non-Arc elemental shields. With an Adaptive Munitions roll, you could theoretically delete all other elemental bows and only use an Under Your Skin god roll and still be just as effective. An excellent vault cleaning roll. tags:god-pve
+//notes: While Under Your Skin rolls the classic combo of Archers Tempo + Explosive Head, it might be worth for some people to forgo the slight damage increase of Explosive and instead go for an Adaptive Munitions roll. This perk allows the bow to essentially ignore Match Game, as it gives an eventual 600% damage increase against non-Void elemental shields. With an Adaptive Munitions roll, you could theoretically delete all other elemental bows and only use an Under Your Skin god roll and still be just as effective. An excellent vault cleaning roll. tags:god-pve
 dimwishlist:item=232928045&perks=2801223209,16392701,3523746922,1551736345
 dimwishlist:item=232928045&perks=2801223209,16392701,3523746922,3365897133
 dimwishlist:item=232928045&perks=2801223209,16392701,3523746922,1048183818
@@ -29,7 +29,7 @@ dimwishlist:item=232928045&perks=2801223209,3429800428,1866048759,2209918983
 dimwishlist:item=232928045&perks=2801223209,3429800428,3118144663,2000295559
 dimwishlist:item=232928045&perks=2801223209,3429800428,3118144663,2209918983
 
-//notes: While Under Your Skin rolls the classic combo of Archers Tempo + Explosive Head, it might be worth for some people to forgo the slight damage increase of Explosive and instead go for an Adaptive Munitions roll. This perk allows the bow to essentially ignore Match Game, as it gives an eventual 600% damage increase against non-Arc elemental shields. With an Adaptive Munitions roll, you could theoretically delete all other elemental bows and only use an Under Your Skin god roll and still be just as effective. An excellent vault cleaning roll. tags:pve
+//notes: While Under Your Skin rolls the classic combo of Archers Tempo + Explosive Head, it might be worth for some people to forgo the slight damage increase of Explosive and instead go for an Adaptive Munitions roll. This perk allows the bow to essentially ignore Match Game, as it gives an eventual 600% damage increase against non-Void elemental shields. With an Adaptive Munitions roll, you could theoretically delete all other elemental bows and only use an Under Your Skin god roll and still be just as effective. An excellent vault cleaning roll. tags:pve
 dimwishlist:item=232928045&perks=2801223209,16392701,3523746922,1551736345
 dimwishlist:item=232928045&perks=2801223209,16392701,3523746922,3365897133
 dimwishlist:item=232928045&perks=2801223209,16392701,3523746922,1048183818
@@ -77,7 +77,7 @@ dimwishlist:item=232928045&perks=2801223209,3429800428,3118144663,617966211
 dimwishlist:item=232928045&perks=2801223209,3429800428,3118144663,1370847713
 dimwishlist:item=232928045&perks=2801223209,3429800428,3118144663,47981717
 
-//notes: While Under Your Skin rolls the classic combo of Archers Tempo + Explosive Head, it might be worth for some people to forgo the slight damage increase of Explosive and instead go for an Adaptive Munitions roll. This perk allows the bow to essentially ignore Match Game, as it gives an eventual 600% damage increase against non-Arc elemental shields. With an Adaptive Munitions roll, you could theoretically delete all other elemental bows and only use an Under Your Skin god roll and still be just as effective. An excellent vault cleaning roll. tags:pve
+//notes: While Under Your Skin rolls the classic combo of Archers Tempo + Explosive Head, it might be worth for some people to forgo the slight damage increase of Explosive and instead go for an Adaptive Munitions roll. This perk allows the bow to essentially ignore Match Game, as it gives an eventual 600% damage increase against non-Void elemental shields. With an Adaptive Munitions roll, you could theoretically delete all other elemental bows and only use an Under Your Skin god roll and still be just as effective. An excellent vault cleaning roll. tags:pve
 dimwishlist:item=232928045&perks=3523746922,1551736345
 dimwishlist:item=232928045&perks=3523746922,3365897133
 dimwishlist:item=232928045&perks=3523746922,1048183818

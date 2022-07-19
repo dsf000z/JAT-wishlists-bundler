@@ -3084,6 +3084,49 @@ dimwishlist:item=2492081469&perks=3436462433,2213355989
 dimwishlist:item=2492081469&perks=2450788523,2458213969
 dimwishlist:item=2492081469&perks=2450788523,2213355989
 
+//notes: A mediocre PvE archetype with solid enough perks. tags:god-pve
+dimwishlist:item=2591111628&perks=1300023272,791862061,1556840489,1546637391
+
+//notes: A solid Precision shotgun for PvP, which is unfortunately overshadowed by the strength of the Matador. Run Smallbore and Accurized with a Range mw to maximize the range without dropping Handling. Unfortunately Precisions are struggling in the high resilience meta we find ourselves in, needing an extra pellet to kill on 6 resilience and higher. tags:god-pvp
+dimwishlist:item=2591111628&perks=1482024992,3142289711,706527188,957782887
+
+//notes: A mediocre PvE archetype with solid enough perks. tags:pve
+dimwishlist:item=2591111628&perks=1300023272,791862061,1556840489,1546637391
+dimwishlist:item=2591111628&perks=1300023272,791862061,1556840489,4293542123
+dimwishlist:item=2591111628&perks=1300023272,791862061,1556840489,2360754333
+dimwishlist:item=2591111628&perks=1300023272,1087426260,1556840489,1546637391
+dimwishlist:item=2591111628&perks=1300023272,1087426260,1556840489,4293542123
+dimwishlist:item=2591111628&perks=1300023272,1087426260,1556840489,2360754333
+dimwishlist:item=2591111628&perks=1300023272,106909392,1556840489,1546637391
+dimwishlist:item=2591111628&perks=1300023272,106909392,1556840489,4293542123
+dimwishlist:item=2591111628&perks=1300023272,106909392,1556840489,2360754333
+dimwishlist:item=2591111628&perks=4090651448,791862061,1556840489,1546637391
+dimwishlist:item=2591111628&perks=4090651448,791862061,1556840489,4293542123
+dimwishlist:item=2591111628&perks=4090651448,791862061,1556840489,2360754333
+dimwishlist:item=2591111628&perks=4090651448,1087426260,1556840489,1546637391
+dimwishlist:item=2591111628&perks=4090651448,1087426260,1556840489,4293542123
+dimwishlist:item=2591111628&perks=4090651448,1087426260,1556840489,2360754333
+dimwishlist:item=2591111628&perks=4090651448,106909392,1556840489,1546637391
+dimwishlist:item=2591111628&perks=4090651448,106909392,1556840489,4293542123
+dimwishlist:item=2591111628&perks=4090651448,106909392,1556840489,2360754333
+
+//notes: A solid Precision shotgun for PvP, which is unfortunately overshadowed by the strength of the Matador. Run Smallbore and Accurized with a Range mw to maximize the range without dropping Handling. Unfortunately Precisions are struggling in the high resilience meta we find ourselves in, needing an extra pellet to kill on 6 resilience and higher. tags:pvp
+dimwishlist:item=2591111628&perks=1482024992,3142289711,706527188,957782887
+dimwishlist:item=2591111628&perks=1482024992,3142289711,3436462433,957782887
+dimwishlist:item=2591111628&perks=4090651448,3142289711,706527188,957782887
+dimwishlist:item=2591111628&perks=4090651448,3142289711,3436462433,957782887
+dimwishlist:item=2591111628&perks=1332244541,3142289711,706527188,957782887
+dimwishlist:item=2591111628&perks=1332244541,3142289711,3436462433,957782887
+
+//notes: A mediocre PvE archetype with solid enough perks. tags:pve
+dimwishlist:item=2591111628&perks=1556840489,1546637391
+dimwishlist:item=2591111628&perks=1556840489,4293542123
+dimwishlist:item=2591111628&perks=1556840489,2360754333
+
+//notes: A solid Precision shotgun for PvP, which is unfortunately overshadowed by the strength of the Matador. Run Smallbore and Accurized with a Range mw to maximize the range without dropping Handling. Unfortunately Precisions are struggling in the high resilience meta we find ourselves in, needing an extra pellet to kill on 6 resilience and higher. tags:pvp
+dimwishlist:item=2591111628&perks=706527188,957782887
+dimwishlist:item=2591111628&perks=3436462433,957782887
+
 //notes: You’re a Hunter begging for a lightweight weapon, you’re using this for dodge cooldown reduction and to do the funny run in PvP. En Guarde best in slot for PvP, but ya know, OFA could be a lot of fun in PvE. tags:god-pve
 dimwishlist:item=2782325300&perks=3666208348,269888150,1749209109,1685431615
 
