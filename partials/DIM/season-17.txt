@@ -1,13 +1,13 @@
 title:Just Another Team's MnK rolls - Season 17
 description:Just Another Team's recommendations for Season 17. Recommended for Mouse and Keyboard.
 
-//notes: A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip. tags:god-pve
+//notes: With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses. tags:god-pve
 dimwishlist:item=216983039&perks=1840239774,106909392,1428297954,4104185692
 
-//notes: A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip. tags:god-pvp
+//notes: Horror’s Least brings Kill Clip to the rapid fire pulse rifle party, together with passive stat boosts in Perpetual Motion. With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses. tags:god-pvp
 dimwishlist:item=216983039&perks=839105230,3142289711,1570042021,1015611457
 
-//notes: A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip. tags:pve
+//notes: With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses. tags:pve
 dimwishlist:item=216983039&perks=1840239774,106909392,1428297954,4104185692
 dimwishlist:item=216983039&perks=1840239774,106909392,1428297954,1015611457
 dimwishlist:item=216983039&perks=1840239774,106909392,1428297954,2896038713
@@ -63,7 +63,7 @@ dimwishlist:item=216983039&perks=4090651448,3230963543,671806388,4104185692
 dimwishlist:item=216983039&perks=4090651448,3230963543,671806388,1015611457
 dimwishlist:item=216983039&perks=4090651448,3230963543,671806388,2896038713
 
-//notes: A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip. tags:pvp
+//notes: Horror’s Least brings Kill Clip to the rapid fire pulse rifle party, together with passive stat boosts in Perpetual Motion. With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses. tags:pvp
 dimwishlist:item=216983039&perks=839105230,3142289711,1570042021,1015611457
 dimwishlist:item=216983039&perks=839105230,3142289711,1428297954,1015611457
 dimwishlist:item=216983039&perks=839105230,3142289711,1645158859,1015611457
@@ -77,10 +77,10 @@ dimwishlist:item=216983039&perks=3250034553,3142289711,1570042021,1015611457
 dimwishlist:item=216983039&perks=3250034553,3142289711,1428297954,1015611457
 dimwishlist:item=216983039&perks=3250034553,3142289711,1645158859,1015611457
 
-//notes: A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip. tags:pve,pvp
+//notes: Horror’s Least brings Kill Clip to the rapid fire pulse rifle party, together with passive stat boosts in Perpetual Motion. With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses. tags:pve,pvp
 dimwishlist:item=216983039&perks=1428297954,1015611457
 
-//notes: A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip. tags:pve
+//notes: With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses. tags:pve
 dimwishlist:item=216983039&perks=1428297954,4104185692
 dimwishlist:item=216983039&perks=1428297954,1015611457
 dimwishlist:item=216983039&perks=1428297954,2896038713
@@ -88,7 +88,7 @@ dimwishlist:item=216983039&perks=671806388,4104185692
 dimwishlist:item=216983039&perks=671806388,1015611457
 dimwishlist:item=216983039&perks=671806388,2896038713
 
-//notes: A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip. tags:pvp
+//notes: Horror’s Least brings Kill Clip to the rapid fire pulse rifle party, together with passive stat boosts in Perpetual Motion. With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses. tags:pvp
 dimwishlist:item=216983039&perks=1570042021,1015611457
 dimwishlist:item=216983039&perks=1428297954,1015611457
 dimwishlist:item=216983039&perks=1645158859,1015611457
@@ -673,13 +673,13 @@ dimwishlist:item=502356570&perks=699525795,4082225868
 dimwishlist:item=502356570&perks=699525795,288411554
 dimwishlist:item=502356570&perks=699525795,3425386926
 
-//notes: A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain. While it rolls some classic PvE rolls, other hcs have more unique and powerful perks tags:god-pve
+//notes: tags:god-pve
 dimwishlist:item=575830664&perks=1840239774,106909392,1168162263,1954620775
 
-//notes: A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain, where it beats its competitors (Air Effectiveness) isn’t enough to give up the powerful perks of Eyasluna, Austringer or Fatebringer tags:god-pvp
-dimwishlist:item=575830664&perks=839105230,3142289711,1428297954,47981717
+//notes: While it’s perk pool isn’t as stacked as the other PvP 140 hcs (Eyasluna, Fatebringer and Austringer), DFA brings Timed Payload to the table, together with the passive stat boosting Perpetual Motion and Adept Mods. A higher AE stat, excellent sight picture and unique perks give it a place in the meta, even if other hand cannons may seem better on paper. tags:god-pvp
+dimwishlist:item=575830664&perks=839105230,3142289711,1428297954,1954620775
 
-//notes: A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain. While it rolls some classic PvE rolls, other hcs have more unique and powerful perks tags:pve
+//notes: tags:pve
 dimwishlist:item=575830664&perks=1840239774,106909392,1168162263,1954620775
 dimwishlist:item=575830664&perks=1840239774,106909392,1168162263,2896038713
 dimwishlist:item=575830664&perks=1840239774,106909392,1168162263,3592538738
@@ -753,25 +753,25 @@ dimwishlist:item=575830664&perks=4090651448,3230963543,3400784728,2896038713
 dimwishlist:item=575830664&perks=4090651448,3230963543,3400784728,3592538738
 dimwishlist:item=575830664&perks=4090651448,3230963543,3400784728,3425386926
 
-//notes: A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain, where it beats its competitors (Air Effectiveness) isn’t enough to give up the powerful perks of Eyasluna, Austringer or Fatebringer tags:pvp
-dimwishlist:item=575830664&perks=839105230,3142289711,1428297954,47981717
+//notes: While it’s perk pool isn’t as stacked as the other PvP 140 hcs (Eyasluna, Fatebringer and Austringer), DFA brings Timed Payload to the table, together with the passive stat boosting Perpetual Motion and Adept Mods. A higher AE stat, excellent sight picture and unique perks give it a place in the meta, even if other hand cannons may seem better on paper. tags:pvp
 dimwishlist:item=575830664&perks=839105230,3142289711,1428297954,1954620775
-dimwishlist:item=575830664&perks=839105230,3142289711,2946784966,47981717
+dimwishlist:item=575830664&perks=839105230,3142289711,1428297954,47981717
 dimwishlist:item=575830664&perks=839105230,3142289711,2946784966,1954620775
-dimwishlist:item=575830664&perks=4090651448,3142289711,1428297954,47981717
+dimwishlist:item=575830664&perks=839105230,3142289711,2946784966,47981717
 dimwishlist:item=575830664&perks=4090651448,3142289711,1428297954,1954620775
-dimwishlist:item=575830664&perks=4090651448,3142289711,2946784966,47981717
+dimwishlist:item=575830664&perks=4090651448,3142289711,1428297954,47981717
 dimwishlist:item=575830664&perks=4090651448,3142289711,2946784966,1954620775
-dimwishlist:item=575830664&perks=3250034553,3142289711,1428297954,47981717
+dimwishlist:item=575830664&perks=4090651448,3142289711,2946784966,47981717
 dimwishlist:item=575830664&perks=3250034553,3142289711,1428297954,1954620775
-dimwishlist:item=575830664&perks=3250034553,3142289711,2946784966,47981717
+dimwishlist:item=575830664&perks=3250034553,3142289711,1428297954,47981717
 dimwishlist:item=575830664&perks=3250034553,3142289711,2946784966,1954620775
-dimwishlist:item=575830664&perks=1482024992,3142289711,1428297954,47981717
+dimwishlist:item=575830664&perks=3250034553,3142289711,2946784966,47981717
 dimwishlist:item=575830664&perks=1482024992,3142289711,1428297954,1954620775
-dimwishlist:item=575830664&perks=1482024992,3142289711,2946784966,47981717
+dimwishlist:item=575830664&perks=1482024992,3142289711,1428297954,47981717
 dimwishlist:item=575830664&perks=1482024992,3142289711,2946784966,1954620775
+dimwishlist:item=575830664&perks=1482024992,3142289711,2946784966,47981717
 
-//notes: A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain. While it rolls some classic PvE rolls, other hcs have more unique and powerful perks tags:pve
+//notes: tags:pve
 dimwishlist:item=575830664&perks=1168162263,1954620775
 dimwishlist:item=575830664&perks=1168162263,2896038713
 dimwishlist:item=575830664&perks=1168162263,3592538738
@@ -781,11 +781,11 @@ dimwishlist:item=575830664&perks=3400784728,2896038713
 dimwishlist:item=575830664&perks=3400784728,3592538738
 dimwishlist:item=575830664&perks=3400784728,3425386926
 
-//notes: A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain, where it beats its competitors (Air Effectiveness) isn’t enough to give up the powerful perks of Eyasluna, Austringer or Fatebringer tags:pvp
-dimwishlist:item=575830664&perks=1428297954,47981717
+//notes: While it’s perk pool isn’t as stacked as the other PvP 140 hcs (Eyasluna, Fatebringer and Austringer), DFA brings Timed Payload to the table, together with the passive stat boosting Perpetual Motion and Adept Mods. A higher AE stat, excellent sight picture and unique perks give it a place in the meta, even if other hand cannons may seem better on paper. tags:pvp
 dimwishlist:item=575830664&perks=1428297954,1954620775
-dimwishlist:item=575830664&perks=2946784966,47981717
+dimwishlist:item=575830664&perks=1428297954,47981717
 dimwishlist:item=575830664&perks=2946784966,1954620775
+dimwishlist:item=575830664&perks=2946784966,47981717
 
 //notes: Overflow + Focused Fury comes to the energy slot with the Gallu. While not reaching the heights of Thoughtless thanks to lacking enhanced perks, this is still a solid PvE roll.  tags:god-pve
 dimwishlist:item=617501162&perks=839105230,1087426260,3643424744,2896038713
@@ -2031,13 +2031,13 @@ dimwishlist:item=1856262127&perks=2946784966,3523296417
 dimwishlist:item=1856262127&perks=2946784966,2458213969
 dimwishlist:item=1856262127&perks=2946784966,438098033
 
-//notes: A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip. tags:god-pve
+//notes: With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses. tags:god-pve
 dimwishlist:item=1924276978&perks=1840239774,106909392,1428297954,4104185692
 
-//notes: A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip. tags:god-pvp
+//notes: Horror’s Least brings Kill Clip to the rapid fire pulse rifle party, together with passive stat boosts in Perpetual Motion. With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses. tags:god-pvp
 dimwishlist:item=1924276978&perks=839105230,3142289711,1570042021,1015611457
 
-//notes: A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip. tags:pve
+//notes: With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses. tags:pve
 dimwishlist:item=1924276978&perks=1840239774,106909392,1428297954,4104185692
 dimwishlist:item=1924276978&perks=1840239774,106909392,1428297954,1015611457
 dimwishlist:item=1924276978&perks=1840239774,106909392,1428297954,2896038713
@@ -2093,7 +2093,7 @@ dimwishlist:item=1924276978&perks=4090651448,3230963543,671806388,4104185692
 dimwishlist:item=1924276978&perks=4090651448,3230963543,671806388,1015611457
 dimwishlist:item=1924276978&perks=4090651448,3230963543,671806388,2896038713
 
-//notes: A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip. tags:pvp
+//notes: Horror’s Least brings Kill Clip to the rapid fire pulse rifle party, together with passive stat boosts in Perpetual Motion. With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses. tags:pvp
 dimwishlist:item=1924276978&perks=839105230,3142289711,1570042021,1015611457
 dimwishlist:item=1924276978&perks=839105230,3142289711,1428297954,1015611457
 dimwishlist:item=1924276978&perks=839105230,3142289711,1645158859,1015611457
@@ -2107,10 +2107,10 @@ dimwishlist:item=1924276978&perks=3250034553,3142289711,1570042021,1015611457
 dimwishlist:item=1924276978&perks=3250034553,3142289711,1428297954,1015611457
 dimwishlist:item=1924276978&perks=3250034553,3142289711,1645158859,1015611457
 
-//notes: A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip. tags:pve,pvp
+//notes: Horror’s Least brings Kill Clip to the rapid fire pulse rifle party, together with passive stat boosts in Perpetual Motion. With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses. tags:pve,pvp
 dimwishlist:item=1924276978&perks=1428297954,1015611457
 
-//notes: A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip. tags:pve
+//notes: With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses. tags:pve
 dimwishlist:item=1924276978&perks=1428297954,4104185692
 dimwishlist:item=1924276978&perks=1428297954,1015611457
 dimwishlist:item=1924276978&perks=1428297954,2896038713
@@ -2118,7 +2118,7 @@ dimwishlist:item=1924276978&perks=671806388,4104185692
 dimwishlist:item=1924276978&perks=671806388,1015611457
 dimwishlist:item=1924276978&perks=671806388,2896038713
 
-//notes: A mediocre perk pool leaves this behind its direct competitors in Darkest Before, Gridskipper and Jurassic Green, but where it manages to pull ahead is in “Win Later” perks like Heating Up and Kill Clip. tags:pvp
+//notes: Horror’s Least brings Kill Clip to the rapid fire pulse rifle party, together with passive stat boosts in Perpetual Motion. With a good perk pool and solid base stats being boosted by Perp Motion, Horror’s can stand in the S tier of rapid fire pulses. tags:pvp
 dimwishlist:item=1924276978&perks=1570042021,1015611457
 dimwishlist:item=1924276978&perks=1428297954,1015611457
 dimwishlist:item=1924276978&perks=1645158859,1015611457
@@ -2598,13 +2598,13 @@ dimwishlist:item=2002522739&perks=2450788523,2652708987
 dimwishlist:item=2002522739&perks=2450788523,438098033
 dimwishlist:item=2002522739&perks=2450788523,2213355989
 
-//notes: A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain. While it rolls some classic PvE rolls, other hcs have more unique and powerful perks tags:god-pve
+//notes: tags:god-pve
 dimwishlist:item=2006308129&perks=1840239774,106909392,1168162263,1954620775
 
-//notes: A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain, where it beats its competitors (Air Effectiveness) isn’t enough to give up the powerful perks of Eyasluna, Austringer or Fatebringer tags:god-pvp
-dimwishlist:item=2006308129&perks=839105230,3142289711,1428297954,47981717
+//notes: While it’s perk pool isn’t as stacked as the other PvP 140 hcs (Eyasluna, Fatebringer and Austringer), DFA brings Timed Payload to the table, together with the passive stat boosting Perpetual Motion and Adept Mods. A higher AE stat, excellent sight picture and unique perks give it a place in the meta, even if other hand cannons may seem better on paper. tags:god-pvp
+dimwishlist:item=2006308129&perks=839105230,3142289711,1428297954,1954620775
 
-//notes: A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain. While it rolls some classic PvE rolls, other hcs have more unique and powerful perks tags:pve
+//notes: tags:pve
 dimwishlist:item=2006308129&perks=1840239774,106909392,1168162263,1954620775
 dimwishlist:item=2006308129&perks=1840239774,106909392,1168162263,2896038713
 dimwishlist:item=2006308129&perks=1840239774,106909392,1168162263,3592538738
@@ -2678,25 +2678,25 @@ dimwishlist:item=2006308129&perks=4090651448,3230963543,3400784728,2896038713
 dimwishlist:item=2006308129&perks=4090651448,3230963543,3400784728,3592538738
 dimwishlist:item=2006308129&perks=4090651448,3230963543,3400784728,3425386926
 
-//notes: A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain, where it beats its competitors (Air Effectiveness) isn’t enough to give up the powerful perks of Eyasluna, Austringer or Fatebringer tags:pvp
-dimwishlist:item=2006308129&perks=839105230,3142289711,1428297954,47981717
+//notes: While it’s perk pool isn’t as stacked as the other PvP 140 hcs (Eyasluna, Fatebringer and Austringer), DFA brings Timed Payload to the table, together with the passive stat boosting Perpetual Motion and Adept Mods. A higher AE stat, excellent sight picture and unique perks give it a place in the meta, even if other hand cannons may seem better on paper. tags:pvp
 dimwishlist:item=2006308129&perks=839105230,3142289711,1428297954,1954620775
-dimwishlist:item=2006308129&perks=839105230,3142289711,2946784966,47981717
+dimwishlist:item=2006308129&perks=839105230,3142289711,1428297954,47981717
 dimwishlist:item=2006308129&perks=839105230,3142289711,2946784966,1954620775
-dimwishlist:item=2006308129&perks=4090651448,3142289711,1428297954,47981717
+dimwishlist:item=2006308129&perks=839105230,3142289711,2946784966,47981717
 dimwishlist:item=2006308129&perks=4090651448,3142289711,1428297954,1954620775
-dimwishlist:item=2006308129&perks=4090651448,3142289711,2946784966,47981717
+dimwishlist:item=2006308129&perks=4090651448,3142289711,1428297954,47981717
 dimwishlist:item=2006308129&perks=4090651448,3142289711,2946784966,1954620775
-dimwishlist:item=2006308129&perks=3250034553,3142289711,1428297954,47981717
+dimwishlist:item=2006308129&perks=4090651448,3142289711,2946784966,47981717
 dimwishlist:item=2006308129&perks=3250034553,3142289711,1428297954,1954620775
-dimwishlist:item=2006308129&perks=3250034553,3142289711,2946784966,47981717
+dimwishlist:item=2006308129&perks=3250034553,3142289711,1428297954,47981717
 dimwishlist:item=2006308129&perks=3250034553,3142289711,2946784966,1954620775
-dimwishlist:item=2006308129&perks=1482024992,3142289711,1428297954,47981717
+dimwishlist:item=2006308129&perks=3250034553,3142289711,2946784966,47981717
 dimwishlist:item=2006308129&perks=1482024992,3142289711,1428297954,1954620775
-dimwishlist:item=2006308129&perks=1482024992,3142289711,2946784966,47981717
+dimwishlist:item=2006308129&perks=1482024992,3142289711,1428297954,47981717
 dimwishlist:item=2006308129&perks=1482024992,3142289711,2946784966,1954620775
+dimwishlist:item=2006308129&perks=1482024992,3142289711,2946784966,47981717
 
-//notes: A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain. While it rolls some classic PvE rolls, other hcs have more unique and powerful perks tags:pve
+//notes: tags:pve
 dimwishlist:item=2006308129&perks=1168162263,1954620775
 dimwishlist:item=2006308129&perks=1168162263,2896038713
 dimwishlist:item=2006308129&perks=1168162263,3592538738
@@ -2706,11 +2706,11 @@ dimwishlist:item=2006308129&perks=3400784728,2896038713
 dimwishlist:item=2006308129&perks=3400784728,3592538738
 dimwishlist:item=2006308129&perks=3400784728,3425386926
 
-//notes: A mediocre perk pool, horrific recoil direction for a hc and multiple powerful competitors leaves DFA out in the rain, where it beats its competitors (Air Effectiveness) isn’t enough to give up the powerful perks of Eyasluna, Austringer or Fatebringer tags:pvp
-dimwishlist:item=2006308129&perks=1428297954,47981717
+//notes: While it’s perk pool isn’t as stacked as the other PvP 140 hcs (Eyasluna, Fatebringer and Austringer), DFA brings Timed Payload to the table, together with the passive stat boosting Perpetual Motion and Adept Mods. A higher AE stat, excellent sight picture and unique perks give it a place in the meta, even if other hand cannons may seem better on paper. tags:pvp
 dimwishlist:item=2006308129&perks=1428297954,1954620775
-dimwishlist:item=2006308129&perks=2946784966,47981717
+dimwishlist:item=2006308129&perks=1428297954,47981717
 dimwishlist:item=2006308129&perks=2946784966,1954620775
+dimwishlist:item=2006308129&perks=2946784966,47981717
 
 //notes: A unique GL, in that every single shot proc’s Chill Clip and applies 50 stacks of slow. Slow one enemy with a direct hit, and blind everyone around it with Blinding nades. Note that Chill Clip does not proc at all if Ambitious Assassin is the chosen perk, so avoid it and Proximity Nades (Which prevent the grenade from direct hitting at all) if you want to freeze enemies. tags:god-pve
 dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,2978966579
