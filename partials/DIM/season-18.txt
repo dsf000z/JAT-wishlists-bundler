@@ -867,6 +867,12 @@ dimwishlist:item=431721920&perks=47981717,699525795
 dimwishlist:item=431721920&perks=47981717,1906147653
 dimwishlist:item=431721920&perks=47981717,3523296417
 
+//notes: Demo + Vorpal is a surprisingly ok damage combination for a Heavy Grenade Launcher, unfortunately GLs are still a poor archetype for boss damage. Incan + Swash is more interesting for add clear, but MGs still rule that roost for their ammo economy. tags:god-pve,god-pvp
+dimwishlist:item=616582330&perks=1478423395,332133599,3523296417,1546637391
+
+//notes: Demo + Vorpal is a surprisingly ok damage combination for a Heavy Grenade Launcher, unfortunately GLs are still a poor archetype for boss damage. Incan + Swash is more interesting for add clear, but MGs still rule that roost for their ammo economy. tags:god-pve
+dimwishlist:item=616582330&perks=1478423395,332133599,4293542123,4082225868
+
 //notes: tags:god-pve
 dimwishlist:item=711889599&perks=2801223209,3429800428,247725512,1015611457
 
