@@ -4940,8 +4940,10 @@ dimwishlist:item=2591241074&perks=4067834857,3827198035,2450788523,2652708987
 dimwishlist:item=2591241074&perks=4067834857,3827198035,2450788523,3365897133
 dimwishlist:item=2591241074&perks=4067834857,3827198035,2450788523,47981717
 
-//notes: The stasis Rapid Fire of the game, Riptide has some excellent perk combinations for PvE and PvP. It’s slightly let down by not being able to reach 100 recoil direction, but hitting 98 with Arrowhead Break and a Counterbalance Mod is good enough. Field Prep/ALH + Vorpal makes it an excellent dps Fusion in the Kinetic slot. tags:god-pve
-dimwishlist:item=2715240478&perks=1840239774,2680121939,2869569095,1546637391
+//notes: The stasis Rapid Fire of the game, Riptide has some excellent perk combinations for PvE and PvP. It’s slightly let down by not being able to reach 100 recoil direction, but hitting 98 with Arrowhead Break and a Counterbalance Mod is good enough.  tags:god-pve
+dimwishlist:item=2715240478&perks=1840239774,2680121939,2869569095,2978966579
+dimwishlist:item=2715240478&perks=1840239774,2680121939,3300816228,2978966579
+dimwishlist:item=2715240478&perks=1840239774,2680121939,671806388,2978966579
 
 //notes: The stasis Rapid Fire of the game, Riptide has some excellent perk combinations for PvE and PvP. It’s slightly let down by not being able to reach 100 recoil direction, but hitting 98 with Arrowhead Break and a Counterbalance Mod is good enough. Under Pressure + SWU for PvP lends itself to tearing through groups of Guardians tags:god-pvp
 dimwishlist:item=2715240478&perks=839105230,3868766766,1645158859,2652708987
