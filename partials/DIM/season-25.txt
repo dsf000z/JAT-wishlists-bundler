@@ -130,7 +130,7 @@ dimwishlist:item=147444292&perks=4090651448,3230963543,1354429876,1546637391
 dimwishlist:item=147444292&perks=4090651448,3230963543,1556840489,555281244
 dimwishlist:item=147444292&perks=4090651448,3230963543,1556840489,1546637391
 
-//notes: For PvP, if you are on an Arc subclass then Elemental Capacitor can give enough handling to counter the lack of Snapshot, if not on Arc then a ND + Snapshot roll is likely better
+//notes: For PvP, if you are on an Arc subclass then Elemental Capacitor can give enough handling to counter the lack of Snapshot, if not on Arc then a ND + Snapshot roll is likely better tags:pvp
 dimwishlist:item=147444292&perks=839105230,3142289711,3511092054,957782887
 dimwishlist:item=147444292&perks=839105230,3142289711,3511092054,47981717
 dimwishlist:item=147444292&perks=839105230,3142289711,2866798147,957782887
@@ -162,7 +162,7 @@ dimwishlist:item=303107619&perks=3525010810,3796465595,3987942396,3078487919
 //notes: tags:god-pvp
 dimwishlist:item=303107619&perks=3525010810,2822142346,951095735,2396489472
 
-//notes: tags:god-pve
+//notes: tags:pve
 dimwishlist:item=303107619&perks=3525010810,3796465595,3987942396,3078487919
 dimwishlist:item=303107619&perks=3525010810,3796465595,3987942396,1439600632
 dimwishlist:item=303107619&perks=3525010810,3796465595,3987942396,3194351027
